@@ -1,62 +1,50 @@
 
 footer {
-    text-align: center;
+    display: flex;
+    flex-direction: row;
     height: 150px;
-    background-color: #252425;
-  }
+    background-color: #141414;
+    align-items: center;
+    justify-content: space-between;
+    bottom: 0;
+    flex-wrap: wrap;
+    flex-grow: 1;
+}
   
-  footer p {
-    padding-top: 70px;
+footer p {
+    order: 1;
     padding-left: 2%;
     text-align: left;
     font-family: "Open Sans";
     font-size: 14px;
+    width: 50%;
     color: #eeeff1;
     text-decoration: none;
-  }
+}
   
-  footer a {
+footer a {
     color: #eeeff1;
-  }
+}
+
+#icons {
+    order: 2;
+    margin-left: 50px;
+    margin-right: 25px;
+}
   
   /* Style all font awesome icons */
-  .fa:not(.fa-moon-o,.fa-sun-o) {
+
+
+.fa {
+    color: #eeeff1;
+    font-size: 120px;
     padding: 15px;
-    margin-right: 25px;
-    font-size: 20px;
-    border-radius: 50%;
-    width: 20px;
-    text-align: center;
     text-decoration: none;
-    transition: background 1s ease-in;
-  }
+    margin-right: 10px;
+    transition: 0.2s ease-in;
+}
   
   /* Add a hover effect if you want */
-  .fa:not(.fa-moon-o,.fa-sun-o):hover {
-    transition: background 1s;
-    background: white;
-    color:black;
-  }
-  
-  /* Set a specific color for each brand */
-  
-  .fa-facebook {
-    background: black;
-    color: white;
-  }
-  
-  .fa-instagram {
-    background: black;
-    color: white;
-  }
-  
-  .fa-youtube {
-    background: black;
-    color: white;
-  }
-  
-  .fa-envelope {
-    background: black;
-    color: white;
-  }
-  
+.fa:hover {
+    color:rgb(156, 156, 156);
+}

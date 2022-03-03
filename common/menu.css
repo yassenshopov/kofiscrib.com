@@ -79,7 +79,7 @@ header {
     display: none;
     position: relative;
     cursor: pointer;
-    margin-top: 30px;
+    margin-top: 40px;
     margin-left: 83%;
 }
   
@@ -87,15 +87,16 @@ header {
     z-index: 10;
     border-radius: 10%;
     width: 35px;
-    height: 3px;
-    background-color: #e1e1e4;
-    margin: 6px 0;
+    height: 1px;
+    background-color: #080808;
+    margin-top: 11px;
+    margin-right: 45px;
     transition: 0.4s;
 }
   
 .change .bar1 {
     background-color: #121212;
-    height: 4px;
+    height: 1px;
     -webkit-transform: rotate(-45deg) translate(-9px, 6px);
     transform: rotate(-45deg) translate(-9px, 4px);
 }
@@ -107,7 +108,7 @@ header {
 }
   
 .change .bar3 {
-    height: 4px;
+    height: 1px;
     background-color: #121212;
     -webkit-transform: rotate(45deg) translate(-8px, -6px);
     transform: rotate(45deg) translate(-8px, -6px);

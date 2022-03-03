@@ -1,3 +1,27 @@
+main {
+    display: flex;
+    flex-direction: column;
+    font-size: 32px;
+}
+
 #hero {
-    background-color: blue;
+    padding: 20px;
+    font-family: "Open Sans";
+    text-align: center;
+}
+
+#gallery {
+    justify-content: center;
+    margin-top: -20px;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+
+#gallery img {
+    object-fit: cover;
+    justify-content: center;
+    margin: 12px;
+    width: 30vw;
+    max-height: 400px; 
 }

@@ -1,0 +1,26 @@
+main {
+    display: flex;
+    flex-direction: row;
+}
+
+#heroImg {
+    width: 50%;
+    margin: 50px;
+}
+
+#heroImg img {
+    border-radius: 45px;
+    width: 100%;
+}
+
+#heroText {
+    width: 50%;
+    font-family: "Open Sans";
+    flex-wrap: wrap;
+    padding: 50px;
+    font-size: 17.5px;
+}
+
+#heroText a {
+    color: #121212;
+}
