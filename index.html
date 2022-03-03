@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    
+<head>
+	<meta charset="utf-8">  
+	<meta name="description" content="Hello! My name is Bozhena Varbanova, a singer, pianist, and composer on her journey to conquer your hearts. This is my personal website where I showcase my original work, covers, and insights 🎶">
+	<meta name="keywords" content="Yassen, Shopov, Productivity, Blogging, Motivation, Art, Organisation">
+	<meta name="author" content="Yassen Shopov">
+	<meta name="viewport" content="width=device-width,initial-scale=1"/>
+
+	<title>Yassen Shopov • Digital art and Smart stuff</title>
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+ 	<link rel="icon" type="image/png" href="common/favicon.ico">
+	<link href="common/apple-touch-icon.png" rel="apple-touch-icon" />
+	<link rel="stylesheet" href="Main_CSS.css">
+	<link rel="stylesheet" href="common/Footer_CSS2.css">
+	<link rel="stylesheet" href="common/Menu_CSS2.css">
+	<script type="text/javascript" src="Main_JS.js"></script>
+    <script type="text/javascript" src="common/menuJS.js"></script>
+</head>
+
+<body>
+    <header id="header">
+        <a href=".."><img class="logo" src="../common/bozhena_logo1.png"></a>
+
+        <div class="topnav">
+            <a class="topnavOnScrollUp" href="." id="topnav1">HOME</a>
+            <a class="topnavOnScrollUp" href="about" id="topnav2">ABOUT ME</a>
+            <a class="topnavOnScrollUp" id="topnav3">PROJECTS ▾</a>
+        </div>
+        
+        <div class="dropMenuContainer" onmouseover="onHoverMenu()" onmouseleave="onHoverAwayMenu()">
+          <div class="dropMenu" id="dropMenu">
+            <a href="https://kofiscrib.com/tale-of-sequoyah">"TALE OF SEQUOYAH"</a>
+            <a href="https://www.etsy.com/uk/shop/StellaknitswonderS">PLUSH SHOP</a>
+          </div>
+        </div>
+        
+        <!--Mobile Menu Section-->
+        <div class="mobile_menu" onclick="animate_menu(this), openNav()">
+            <div id="bar1" class="bar1"></div>
+            <div id="bar2" class="bar2"></div>
+            <div id="bar3" class="bar3"></div>
+        </div>
+
+        <!--NEW: Mobile Overlay Menu-->
+        <div id="myNav" class="overlay">    
+          <!-- Overlay content -->
+          <div class="overlay-content">
+            <a href=".">HOME</a>
+            <a href="about">ABOUT ME</a>
+            <a href="blog">PROJECTS ▾</a>
+          </div>
+    
+        </div>
+
+    </header>
+
+    <div id="lineSep"></div>
+
+    <main>
+        <section id="hero">
+            <h1>Yassen Shopov • Digital art and smart stuff 🤖</h1>
+            <div id="darken"></div>
+            <video id="video" poster="darkBG.jpeg" muted loop onclick="playSound()">
+              <source src="bozhenastella_video.mp4" type="video/mp4"/>
+            </video>
+        </section>
+
+        <section id="writing">
+
+        </section>
+    </main>
+
+    <footer>
+      <p>Copyright © 2022 - Designed and maintained by <a href="https://www.github.com/yassenshopov">Yassen Shopov</a></p>
+    </footer>
+
+</body>
+
+</html>
