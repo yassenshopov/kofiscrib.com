@@ -1,4 +1,5 @@
 #newsletter {
+    z-index: -2;
     display: flex;
     flex-direction: column;
 
@@ -10,7 +11,18 @@
     padding-bottom: 30px;
 }
 
+#darken {
+    z-index: 0;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.582), rgba(23, 23, 24, 0.199));
+    position: absolute;
+    width: 100%;
+    height: 525px;
+    margin-top: -140px;
+    pointer-events:none;
+} 
+
 #newsletterText {
+    z-index: 1;
     flex-wrap: wrap;
     padding-left: 50px;
     padding-right: 50px;
@@ -30,7 +42,24 @@
     font-size: 16px;
 }
 
-#newsletterButton input {
+#newsletter h3 {
+    z-index: 9;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 50px;
+    font-size: 14px;
+    font-family: "Open Sans";
+    color: #ffffff;
+    text-align: center;
+}
+
+
+#newsletterButton {
+    z-index: 99;
+}
+
+input[type=email] {
+    z-index: 33;
     font-family: "Open Sans";
     margin-left: 28%;
     color: #242424;
@@ -41,7 +70,8 @@
     border: 0;
 }
 
-#newsletterButton button {
+input[type=submit] {
+    z-index: 33 ;
     font-family: "Open Sans";
     margin-left: 20px;
     color: #f3f3f3;
@@ -55,21 +85,12 @@
 }
 
 ::placeholder {
+    z-index: 33;
     color: rgba(138, 139, 138, 0.671);
     padding: 5px;
     padding: 0;
     font-size: 16px;
   }
-
-#newsletter h3 {
-    padding-left: 50px;
-    padding-right: 50px;
-    margin-top: 50px;
-    font-size: 14px;
-    font-family: "Open Sans";
-    color: #d9d9dfcc;
-    text-align: center;
-}
 
 #articles {
     height: 600px;

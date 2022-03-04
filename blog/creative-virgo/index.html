@@ -79,15 +79,16 @@
     </header>
 
     <main>
+        <div id="darken"></div>
         <section id="newsletter">
           <div id="newsletterText">
             <h1>🤖 CREATIVE VIRGO 🤖</h1>
             <h2>My personal blog about <b>productivity</b>, <b>creativity</b>, and how to bring <b>order</b> to a messy life.</h2>
           </div>
-          <div id="newsletterButton">
-            <input type="text" placeholder="Email Address">
-            <button>Sign up for my newsletter 📬️</button>
-          </div>
+          <form id="newsletterButton" action="actionForm.php" method="post">
+            <input type="email" required="required" placeholder="Email Address">
+            <input type="submit" value="Sign up for my newsletter 📬️">
+          </form>
           <div>
             <h3>You’ll receive an email every Sunday with links to 2 new articles. No spam, just great content.</h3>
           </div>
