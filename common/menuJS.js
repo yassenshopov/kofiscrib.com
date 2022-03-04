@@ -34,3 +34,12 @@ function onHoverMenu3() {
 function onHoverAwayMenu3() {
     document.getElementById("dropMenu3").style.display = "none";
 }
+function fontSpecify() {
+    let ToS_Check = document.getElementById("body").className;
+    if (ToS_Check == "ToS") {
+        document.getElementById("topnav1").style.color = '#f1f1f1';
+        document.getElementById("topnav2").style.color = '#f1f1f1';
+        document.getElementById("topnav3").style.color = '#f1f1f1';
+        document.getElementById("topnav4").style.color = '#f1f1f1';
+    }
+}

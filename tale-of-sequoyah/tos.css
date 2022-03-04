@@ -1,0 +1,59 @@
+#newsletter {
+    z-index: -2;
+    display: flex;
+    flex-direction: column;
+
+    height: 430px;
+    background-image: url("../images/tosBG.gif");
+    background-position: center;
+    background-size: cover;
+    margin-top: -145px;
+    padding-bottom: 30px;
+}
+
+#darken {
+    z-index: 0;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.158), rgba(22, 22, 22, 0.678));
+    position: absolute;
+    width: 100%;
+    height: 455px;
+    margin-top: -140px;
+    pointer-events:none;
+} 
+
+#newsletterText {
+    z-index: 1;
+    flex-wrap: wrap;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 150px;
+    font-family: "Open Sans";
+    color: #f1f1f1;
+    text-align: center;
+}
+
+#newsletterText h1 {
+    font-size: 45px;
+}
+
+#newsletterText h2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+#newsletter h3 {
+    z-index: 99;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 30px;
+    font-size: 18px;
+    font-family: "Open Sans";
+    color: #ffffff;
+    text-align: center;
+}
+
+
+#articles {
+    height: 600px;
+}

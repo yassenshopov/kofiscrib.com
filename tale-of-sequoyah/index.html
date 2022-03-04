@@ -9,39 +9,54 @@
 	<meta name="author" content="Yassen Shopov">
 	<meta name="viewport" content="width=device-width,initial-scale=1"/>
 
-	<title>About me • Yassen Shopov</title>
+	<title>Tale of Sequoyah • A story of fate and salvation</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
  	<link rel="icon" type="image/png" href="../common/favicon.ico">
 	<link href="../common/apple-touch-icon.png" rel="apple-touch-icon" />
 
-	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="tos.css">
 	<link rel="stylesheet" href="../common/footer.css">
 	<link rel="stylesheet" href="../common/menu.css">
 	<script type="text/javascript" src="Main_JS.js"></script>
   <script type="text/javascript" src="../common/menuJS.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<body>
-    <header id="header">
+<body class="ToS" id="body" onload="fontSpecify()">
+    <header id="header" style="box-shadow: 0px 20px 100px #d3d3d37c;">
         <a href=".."><img class="logo" src="../common/logo.png"></a>
 
         <div class="topnav">
             <a class="topnavOnScrollUp" id="topnav1">✍ BLOGS</a>
-            <a class="topnavOnScrollUp" href="about" id="topnav2">🧬 ABOUT ME</a>
-            <a class="topnavOnScrollUp" id="topnav3">🧮 PROJECTS</a>
+            <a class="topnavOnScrollUp" href="../about" id="topnav2">🧬 ABOUT ME</a>
+            <a class="topnavOnScrollUp" id="topnav3"><b>🧮 PROJECTS</b></a>
             <a class="topnavOnScrollUp" id="topnav4">🛒 SHOP</a>
         </div>
 
-        <!--
-        <div class="dropMenuContainer" onmouseover="onHoverMenu()" onmouseleave="onHoverAwayMenu()">
-          <div class="dropMenu" id="dropMenu">
-            <a href="https://kofiscrib.com/tale-of-sequoyah">"TALE OF SEQUOYAH"</a>
-            <a href="https://www.etsy.com/uk/shop/StellaknitswonderS">PLUSH SHOP</a>
+        <div class="dropMenuContainer1" onmouseover="onHoverMenu1()" onmouseleave="onHoverAwayMenu1()">
+          <div class="dropMenu1" id="dropMenu1">
+            <a href="../blog/creative-virgo/">CREATIVE VIRGO 🤖</a>
+            <a href="../blog/lofiscrib/">LO-FI-SCRIB 🎶</a>
           </div>
         </div>
-        -->
+
+        <div class="dropMenuContainer2" onmouseover="onHoverMenu2()" onmouseleave="onHoverAwayMenu2()">
+          <div class="dropMenu2" id="dropMenu2">
+            <a href="../digital-art/">DIGITAL ART ❤️</a>
+            <a href="../tale-of-sequoyah/">"TALE OF SEQUOYAH" 💛</a>
+            <a href="../programming/">PROGRAMMING 💚</a>
+          </div>
+        </div>
+
+        <div class="dropMenuContainer3" onmouseover="onHoverMenu3()" onmouseleave="onHoverAwayMenu3()">
+          <div class="dropMenu3" id="dropMenu3">
+            <a href="../commissions/">COMMISSIONS 🍋</a>
+            <a href="https://www.patreon.com/kofiscrib/" target="_blank">PATREON 🍊</a>
+            <a href="https://www.redbubble.com/people/kofiscrib/explore?asc=u&page=1&sortOrder=recent" target="_blank">MERCH 🍎</a>
+          </div>
+        </div>
 
         <!--Mobile Menu Section-->
         <div class="mobile_menu" onclick="animate_menu(this), openNav()">
@@ -63,20 +78,28 @@
 
     </header>
 
-    <div id="lineSep"></div>
-
     <main>
-        <section id="hero">
-            <h1>Yassen Shopov • Digital art and smart stuff 🤖</h1>
+        <div id="darken"></div>
+        <section id="newsletter">
+          <div id="newsletterText">
+            <h1>TALE OF SEQUOYAH 🎐</h1>
+            <h2>The original self-published fantasy series by Bozhena Varbanova that follows the dramatic story of Sequoyah and Atsila, marked by fate to change the world 🌀</h2>
+            <h3>(illustrated by Yassen Shopov)</h3>
         </section>
 
-        <section id="gallery">
+        <section id="articles">
 
         </section>
     </main>
 
     <footer>
-      <p>Copyright © 2022 - Designed and maintained by <a href="https://www.github.com/yassenshopov">Yassen Shopov</a></p>
+      <p>Copyright © 2022 - Designed and maintained by <a href="https://www.github.com/yassenshopov">Yassen Shopov</a> • Based in Bulgaria 🇧🇬 and Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 • All content is original</p>
+      <div id="icons">
+      <a href="https://www.instagram.com/kofiscrib" class="fa fa-instagram fa-2x" target="_blank"></a>
+      <a href="https://www.youtube.com/channel/UCcEn7kjXJu13IF2TyHp1jrg" class="fa fa-youtube fa-2x" target="_blank"></a>
+      <a href="http://twitter.com/kofiscrib" class="fa fa-twitter fa-2x" target="_blank"></a>
+      <a href="https://kofiscrib.tumblr.com/" class="fa fa-tumblr fa-2x" target="_blank"></a>
+      </div>
     </footer>
 
 </body>
