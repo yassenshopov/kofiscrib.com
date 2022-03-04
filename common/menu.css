@@ -30,7 +30,7 @@ header {
     font-family: "Open Sans";
     width: 100%;
     height: 105px;
-    background-color: #fafafa;
+
     box-shadow: 0px 20px 10px #11111118;
     padding-bottom: 20px;
 }
@@ -243,7 +243,7 @@ header {
   
 
 @media screen and (max-width: 1007px) {
-    .topnav, .logo {
+    .topnav, .logo, .dropMenuContainer1, .dropMenuContainer2, .dropMenuContainer3 {
       display: none;
     }
     .mobile_menu {
