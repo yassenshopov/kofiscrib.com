@@ -95,7 +95,6 @@ input[type=submit] {
     margin-top: 50px;
     margin-left: 1%;
     margin-right: 1%;
-    height: 600px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -104,36 +103,88 @@ input[type=submit] {
 }
 
 #articles article {
-    background-color: #2424241a;
-    height: 450px;
+    font-family: "Open Sans";
+    overflow: hidden;
+    align-items: center;
+
+    background-color: #ffffff;
+    height: 630px;
     width: 27%;
 
     display: flex;
     flex-direction: column;
     text-align: center;
+    margin-bottom: 70px;
+
+}
+
+#articles article .thumbnail {
+    display: block;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 300px;
+    background-color: #ffffff;
+
+    background-size: 150%;
+    background-position: center;
+    background-repeat: no-repeat;
+
 }
 
 #articles article .date {
-    font-family: "Open Sans";
     padding-left: 7%;
     padding-right: 7%;
     font-size: 15px;
-    margin-bottom: -10px;
+
+    margin-bottom: 10px;
 }
 
-#articles article h1 {
-    font-family: "Open Sans";
-    padding-left: 7%;
-    padding-right: 7%;
+#articles article .title {
+    margin-left: 2%;
+    margin-right: 2%;
     font-size: 29px;
-    margin-bottom: 0px;
+
+    text-decoration: none;
+    color: #111111;
 }
 
 #articles article .description {
-    font-family: "Open Sans";
     padding-left: 3%;
     padding-right: 3%;
     font-size: 17px;
-    margin-bottom: -10px;
 }
 
+#articles article .readMore {
+    color: #24242479;
+    padding-left: 3%;
+    padding-right: 3%;
+    font-size: 17px;
+
+}
+
+#article_14_22 .thumbnail {
+    background: url("../../resources/images/creative-virgo-thumbnails/AdaNum2_thumb.jpg");
+}
+
+
+#article_13_22 .thumbnail {
+    background: url("../../resources/images/creative-virgo-thumbnails/AdaNum1_thumb.jpg");
+}
+
+#article_12_22 .thumbnail {
+    background: url("../../resources/images/creative-virgo-thumbnails/AdaPosing_thumb.jpg");
+}
+
+#article_11_22 .thumbnail {
+    background: url("../../resources/images/creative-virgo-thumbnails/AdaChase_thumb1.jpg");
+}
+
+
+#article_10_22 .thumbnail {
+    background: url("../../resources/images/creative-virgo-thumbnails/AdaPara3.jpg");
+}
+
+#article_9_22 .thumbnail {
+    background: url("../../resources/images/creative-virgo-thumbnails/AdaMor_thumb2.jpg");
+}
