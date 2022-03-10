@@ -103,7 +103,7 @@ input[type=submit] {
 }
 
 #articles article {
-    font-family: "Open Sans";
+    font-family: 'Nunito Sans';
     overflow: hidden;
     align-items: center;
 
