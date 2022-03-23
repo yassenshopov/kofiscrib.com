@@ -9,75 +9,136 @@
 	<meta name="author" content="Yassen Shopov">
 	<meta name="viewport" content="width=device-width,initial-scale=1"/>
 
-	<title>About me • Yassen Shopov</title>
+	<title>Commissions • kofiscrib</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
- 	<link rel="icon" type="image/png" href="../common/favicon.ico">
-	<link href="../common/apple-touch-icon.png" rel="apple-touch-icon" />
+  <link href='https://fonts.googleapis.com/css?family=Nunito Sans' rel='stylesheet'>
+ 	<link rel="icon" type="image/png" href="../resources/images/favicon.ico">
+	<link href="../resources/images/apple-touch-icon.png" rel="apple-touch-icon" />
 
-	<link rel="stylesheet" href="main.css">
-	<link rel="stylesheet" href="../common/footer.css">
-	<link rel="stylesheet" href="../common/menu.css">
+	<link rel="stylesheet" href="../resources/css/commissions.css">
+	<link rel="stylesheet" href="../resources/css/footer.css">
+	<link rel="stylesheet" href="../resources/css/menu.css">
 	<script type="text/javascript" src="Main_JS.js"></script>
-  <script type="text/javascript" src="../common/menuJS.js"></script>
+  <script type="text/javascript" src="../resources/js/menuJS.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/aacd277c937379e0602decc61/de8c5e79e94eff3c3446910bd.js");
+  </script>
 </head>
 
 <body>
-    <header id="header">
-        <a href=".."><img class="logo" src="../common/logo.png"></a>
 
-        <div class="topnav">
-            <a class="topnavOnScrollUp" id="topnav1">✍ BLOGS</a>
-            <a class="topnavOnScrollUp" href="about" id="topnav2">🧬 ABOUT ME</a>
-            <a class="topnavOnScrollUp" id="topnav3">🧮 PROJECTS</a>
-            <a class="topnavOnScrollUp" id="topnav4">🛒 SHOP</a>
-        </div>
+  <header id="header" style="box-shadow: 0px 20px 100px #d3d3d37c;">
+    <a href=".."><img class="logo" src="../resources/images/logo.png"></a>
 
-        <!--
-        <div class="dropMenuContainer" onmouseover="onHoverMenu()" onmouseleave="onHoverAwayMenu()">
-          <div class="dropMenu" id="dropMenu">
-            <a href="https://kofiscrib.com/tale-of-sequoyah">"TALE OF SEQUOYAH"</a>
-            <a href="https://www.etsy.com/uk/shop/StellaknitswonderS">PLUSH SHOP</a>
-          </div>
-        </div>
-        -->
+    <div class="topnav">
+        <a class="topnavOnScrollUp" id="topnav1">✍ BLOGS</a>
+        <a class="topnavOnScrollUp" href="../about" id="topnav2">🧬 ABOUT ME</a>
+        <a class="topnavOnScrollUp" id="topnav3">🧮 PROJECTS</a>
+        <a class="topnavOnScrollUp" id="topnav4"><b>🛒 SHOP</b></a>
+    </div>
 
-        <!--Mobile Menu Section-->
-        <div class="mobile_menu" onclick="animate_menu(this), openNav()">
-            <div id="bar1" class="bar1"></div>
-            <div id="bar2" class="bar2"></div>
-            <div id="bar3" class="bar3"></div>
-        </div>
+    <div class="dropMenuContainer1" onmouseover="onHoverMenu1()" onmouseleave="onHoverAwayMenu1()">
+      <div class="dropMenu1" id="dropMenu1">
+        <a href="../blog/creative-virgo/">CREATIVE VIRGO 🤖</a>
+        <a href="../blog/lofiscrib/">LO-FI-SCRIB 🎶</a>
+      </div>
+    </div>
 
-        <!--NEW: Mobile Overlay Menu-->
-        <div id="myNav" class="overlay">    
-          <!-- Overlay content -->
-          <div class="overlay-content">
-            <a href=".">HOME</a>
-            <a href="about">ABOUT ME</a>
-            <a href="blog">PROJECTS ▾</a>
-          </div>
-    
-        </div>
+    <div class="dropMenuContainer2" onmouseover="onHoverMenu2()" onmouseleave="onHoverAwayMenu2()">
+      <div class="dropMenu2" id="dropMenu2">
+        <a href="../digital-art/">DIGITAL ART ❤️</a>
+        <a href="../tale-of-sequoyah/">"TALE OF SEQUOYAH" 💛</a>
+        <a href="../programming/">PROGRAMMING 💚</a>
+      </div>
+    </div>
 
-    </header>
+    <div class="dropMenuContainer3" onmouseover="onHoverMenu3()" onmouseleave="onHoverAwayMenu3()">
+      <div class="dropMenu3" id="dropMenu3">
+        <a href="../../commissions/">COMMISSIONS 🍋</a>
+        <a href="https://www.patreon.com/kofiscrib/" target="_blank">PATREON 🍊</a>
+        <a href="https://www.redbubble.com/people/kofiscrib/explore?asc=u&page=1&sortOrder=recent" target="_blank">MERCH 🍎</a>
+      </div>
+    </div>
 
-    <div id="lineSep"></div>
+    <!--Mobile Menu Section-->
+    <div class="mobile_menu" onclick="animate_menu(this), openNav()">
+        <div id="bar1" class="bar1"></div>
+        <div id="bar2" class="bar2"></div>
+        <div id="bar3" class="bar3"></div>
+    </div>
 
-    <main>
-        <section id="hero">
-            <h1>Yassen Shopov • Digital art and smart stuff 🤖</h1>
-        </section>
+    <!--NEW: Mobile Overlay Menu-->
+    <div id="myNav" class="overlay">    
+      <!-- Overlay content -->
+      <div class="overlay-content">
+        <a href=".">HOME</a>
+        <a href="about">ABOUT ME</a>
+        <a href="blog">PROJECTS ▾</a>
+      </div>
 
-        <section id="gallery">
+    </div>
 
-        </section>
-    </main>
+  </header>
 
-    <footer>
-      <p>Copyright © 2022 - Designed and maintained by <a href="https://www.github.com/yassenshopov">Yassen Shopov</a></p>
-    </footer>
+
+  <div id="lineSep"></div>
+
+  <main>
+
+    <section id="articles">
+
+      <article id="one-character-noBG">
+        <a class="thumbnail" href="#"></a>
+        <a class="title" href="#"><b>Full Render of 1 Character without Background</b></a>
+        <a class="price" href="#">$40.00</a>
+      </article>
+
+      <article id="1-character-noBG">
+        <a class="thumbnail" href="#"></a>
+        <a class="title" href="#"><b>Full Render of 1 Character with Background</b></a>
+        <a class="price" href="#">$50.00</a>
+      </article>
+
+      <article id="1-character-noBG">
+        <a class="thumbnail" href="#"></a>
+        <a class="title" href="#"><b>Full Render of 2 Characters without Background</b></a>
+        <a class="price" href="#">$60.00</a>
+      </article>
+
+      <article id="1-character-noBG">
+        <a class="thumbnail" href="#"></a>
+        <a class="title" href="#"><b>Full Render of 2 Characters with Background</b></a>
+        <a class="price" href="#">$70.00</a>
+      </article>
+
+      <article id="1-character-noBG">
+        <a class="thumbnail" href="#"></a>
+        <a class="title" href="#"><b>Full Render of 3 Characters with/without Background</b></a>
+        <a class="price" href="#">$80.00</a>
+      </article>
+
+      <article id="1-character-noBG">
+        <a class="thumbnail" href="#"></a>
+        <a class="title" href="#"><b>🧸 Plush Toy</b></a>
+        <a class="price" href="#">$35.00</a>
+      </article>
+
+    </section>
+
+  </main>
+
+  <footer>
+    <p>Copyright © 2022 - Designed and maintained by <a href="https://www.github.com/yassenshopov">Yassen Shopov</a> • Based in Bulgaria 🇧🇬 and Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 • All content is original</p>
+    <div id="icons">
+    <a href="https://www.instagram.com/kofiscrib" class="fa fa-instagram fa-2x" target="_blank"></a>
+    <a href="https://www.youtube.com/channel/UCcEn7kjXJu13IF2TyHp1jrg" class="fa fa-youtube fa-2x" target="_blank"></a>
+    <a href="http://twitter.com/kofiscrib" class="fa fa-twitter fa-2x" target="_blank"></a>
+    <a href="https://kofiscrib.tumblr.com/" class="fa fa-tumblr fa-2x" target="_blank"></a>
+    </div>
+  </footer>
+
 
 </body>
 

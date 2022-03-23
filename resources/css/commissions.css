@@ -1,0 +1,87 @@
+
+#articles {
+    margin-top: 50px;
+    margin-left: 1%;
+    margin-right: 1%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5%;
+}
+
+#articles article {
+    font-family: 'Nunito Sans';
+    overflow: hidden;
+    align-items: center;
+
+    background-color: #ffffff;
+    height: 530px;
+    width: 27%;
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+#articles article .thumbnail {
+    display: block;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 300px;
+    background-color: #ffffff;
+
+    background-size: 150%;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+#articles article .title {
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 35px;
+    font-size: 26px;
+
+    text-decoration: none;
+    color: #111111;
+}
+
+#articles article .price {
+    color: #0a0a0a;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-top: 15px;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+#one-character-noBG .thumbnail {
+    background: url("../../resources/images/creative-virgo-thumbnails/AdaNum2_thumb.jpg");
+}
+
+
+#article_13_22 .thumbnail {
+    background: url("../../resources/images/creative-virgo-thumbnails/AdaNum1_thumb.jpg");
+}
+
+#article_12_22 .thumbnail {
+    background: url("../../resources/images/creative-virgo-thumbnails/AdaPosing_thumb.jpg");
+}
+
+#article_11_22 .thumbnail {
+    background: url("../../resources/images/creative-virgo-thumbnails/AdaChase_thumb1.jpg");
+}
+
+
+#article_10_22 .thumbnail {
+    background: url("../../resources/images/creative-virgo-thumbnails/AdaPara3.jpg");
+}
+
+#article_9_22 .thumbnail {
+    background: url("../../resources/images/creative-virgo-thumbnails/AdaMor_thumb2.jpg");
+}
