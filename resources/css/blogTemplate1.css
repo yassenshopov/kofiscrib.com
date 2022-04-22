@@ -2,15 +2,29 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-items: center;
+}
+
+main h1, h2, h3 {
+    padding-left: 14%;
+    padding-right: 14%;
+    font-family: "Open Sans";
 }
 
 main h1 {
-    font-family: "Open Sans";
+
     font-size: 62px;
-    padding-left: 14%;
-    padding-right: 14%;
+
     justify-content: center;
     text-align: center;
+}
+
+main h2 {
+
+    margin-left: 10px;
+    font-size: 40px;
+
+    line-height: 70px;
 }
 
 #meta {
@@ -74,9 +88,29 @@ main h1 {
     color: #737373;
 }
 
+.txt-imgLeft {
+
+    justify-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.txt-imgLeft img {
+    margin-left: 15%;
+    width: 26%;
+}
+
+.sideTxt {
+    width: 50%;
+}
+
 #content {
     padding-top: 20px;
     padding-bottom: 50px;
+}
+
+#content a, #content a:visited {
+    color: #444;
 }
 
 #content p {
@@ -87,6 +121,8 @@ main h1 {
 }
 
 #content ul {
+    list-style: square;
+    font-weight: 700;
     font-family: "Open Sans";
     font-size: 17px;
     margin-left: 5%;
@@ -94,7 +130,8 @@ main h1 {
     padding-right: 15%;
 }
 
-#content ul li {
-    padding-top: 5px;
-    padding-bottom: 5px;
+#content span {
+    position: relative;
+    left: -130px;
 }
+
