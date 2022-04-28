@@ -1,0 +1,74 @@
+:root {
+    --font-size-p: 17px;
+    --font-size-h1: 50px;
+    --font-size-h2: 35px;
+    --font-family-h: "Raleway";
+    --font-family-p: "Open Sans";
+    --font-color-h: rgb(73, 15, 180) ;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    font-family: var(--font-family-p);
+    margin: 50px 0 50px 0;
+}
+
+article {
+    width: 50%;
+    padding: 50px;
+    border: 0px solid black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px rgba(41, 41, 41, 0.199);
+}
+
+article h1 {
+    font-family: var(--font-family-h);
+    font-size: var(--font-size-h1);
+    color: var(--font-color-h);
+    transition: all 1s;
+}
+
+article h1:hover {
+    color: rgb(207, 178, 10);
+}
+
+article h2 {
+    font-family: var(--font-family-h);
+    font-size: var(--font-size-h2);
+}
+
+article p {
+    font-size: var(--font-size-p);
+    margin: 0 0 35px 0;
+    line-height: 1.7;
+}
+
+article #meta {
+    margin: -20px 0 70px 0;
+}
+
+aside {
+    width: 25%;
+    padding: 20px;
+    border: 0px solid black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    height: fit-content;
+    box-shadow: 0px 0px 20px rgba(41, 41, 41, 0.199);
+}
+
+@media screen and (max-width: 600px) {
+    main {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    main > * {
+        width: 90%;
+
+    }
+}

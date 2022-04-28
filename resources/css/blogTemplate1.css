@@ -1,3 +1,7 @@
+:root {
+    --font-size-p: 18px;
+}
+
 main {
     display: flex;
     flex-direction: column;
@@ -115,7 +119,7 @@ main h2 {
 
 #content p {
     font-family: "Open Sans";
-    font-size: 17px;
+    font-size: var(--font-size-p);
     padding-left: 15%;
     padding-right: 15%;
 }
