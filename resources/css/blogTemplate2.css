@@ -5,6 +5,8 @@
     --font-family-h: "Raleway";
     --font-family-p: "Open Sans";
     --font-color-h: rgb(73, 15, 180) ;
+    --font-color-a: rgba(25, 6, 134, 0.556);
+    -webkit-tap-highlight-color: transparent;
 }
 
 main {
@@ -29,16 +31,17 @@ article h1 {
     font-family: var(--font-family-h);
     font-size: var(--font-size-h1);
     color: var(--font-color-h);
-    transition: all 1s;
+    transition: color 1s;
 }
 
 article h1:hover {
     color: rgb(207, 178, 10);
 }
 
-article h2 {
+article h2,h3 {
     font-family: var(--font-family-h);
     font-size: var(--font-size-h2);
+    margin: 40px 0 40px 0;
 }
 
 article p {
@@ -47,13 +50,33 @@ article p {
     line-height: 1.7;
 }
 
+article a, aside a {
+    color: var(--font-color-a);
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 500ms;
+}
+
+
+article a:hover, aside a:hover {
+    color: rgb(106, 55, 247);
+    text-decoration: underline;
+}
+
 article #meta {
     margin: -20px 0 70px 0;
+    color: rgba(22, 22, 22, 0.489);
 }
 
 aside {
+    display: flex;
+    flex-direction: column;
     width: 25%;
-    padding: 20px;
+    gap: 30px;
+}
+
+aside > * {
+    padding: 30px;
     border: 0px solid black;
     background-color: rgb(255, 255, 255);
     border-radius: 5px;
@@ -61,7 +84,38 @@ aside {
     box-shadow: 0px 0px 20px rgba(41, 41, 41, 0.199);
 }
 
-@media screen and (max-width: 600px) {
+.pseudoHeading {
+    font-family: var(--font-family-h);
+    font-size: 22px;
+    text-align: center;
+}
+
+aside a {
+    line-height: 32px;
+}
+
+aside .recs {
+    padding: 0;
+    margin: 0;
+
+}
+
+aside .recs img{
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: -10px;
+    transition: all 700ms;
+}
+
+aside .recs img:hover{
+    filter: saturate(1.7) brightness(0.7);
+}
+
+@media screen and (max-width: 800px) {
+    :root {
+        --font-size-h1: 40px;
+    }
+
     main {
         flex-direction: column;
         align-items: center;
@@ -70,5 +124,9 @@ aside {
     main > * {
         width: 90%;
 
+    }
+
+    aside a {
+        display: hidden;
     }
 }
