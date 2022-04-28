@@ -42,6 +42,8 @@ header {
     margin-right: 10px;
     padding-left: 48px;
     padding-top: 18px;
+
+    z-index: -999;
 }
 
 .topnav {
@@ -204,7 +206,7 @@ header {
 .mobile_menu {
     z-index: 999;
     display: none;
-    position: relative;
+    position: absolute;
     cursor: pointer;
     margin-top: 40px;
     margin-left: 83%;
@@ -225,7 +227,7 @@ header {
     background-color: #121212;
     height: 1px;
     -webkit-transform: rotate(-45deg) translate(-9px, 6px);
-    transform: rotate(-45deg) translate(-9px, 4px);
+    transform: rotate(-45deg) translate(-9px, 6px);
 }
   
 .change .bar2 {
@@ -238,16 +240,24 @@ header {
     height: 1px;
     background-color: #121212;
     -webkit-transform: rotate(45deg) translate(-8px, -6px);
-    transform: rotate(45deg) translate(-8px, -6px);
+    transform: rotate(45deg) translate(-8px, -10px);
 }
   
 
 @media screen and (max-width: 1007px) {
-    .topnav, .logo, .dropMenuContainer1, .dropMenuContainer2, .dropMenuContainer3 {
+    .topnav, .dropMenuContainer1, .dropMenuContainer2, .dropMenuContainer3 {
       display: none;
     }
     .mobile_menu {
-      display: inline-block;
+      display: block;
+    }
+    .logo {
+        padding-left: 10px;
+        height: 90px;
+    }
+
+    header {
+        justify-content: center;
     }
 }
 

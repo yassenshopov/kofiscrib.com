@@ -71,6 +71,11 @@ article #meta {
     color: rgba(22, 22, 22, 0.489);
 }
 
+article section img {
+    width: 100%;
+    margin: 20px 0 40px 0;
+}
+
 aside {
     display: flex;
     flex-direction: column;

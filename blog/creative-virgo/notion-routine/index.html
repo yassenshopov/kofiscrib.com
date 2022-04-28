@@ -4,12 +4,12 @@
     
 <head>
 	<meta charset="utf-8">  
-	<meta name="description" content="Yassen Shopov - digital illustrator and content creator, Biomedical Engineering student, blogger">
-	<meta name="keywords" content="Yassen, Shopov, Productivity, Blogging, Motivation, Art, Organisation">
+	<meta name="description" content="The way we start our morning is as unique to us as we are. Here’s my take on an easily-customisable morning routine in the Notion app. 🌄">
+	<meta name="keywords" content="Morning Routine, Become more productive, Productivity, Morning habits, Habits, Notion">
 	<meta name="author" content="Yassen Shopov">
 	<meta name="viewport" content="width=device-width,initial-scale=1"/>
 
-	<title>How to make your Notion workspace run faster: Part 1</title>
+	<title>The Productive and Quick Morning routine - in Notion</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,7 +21,6 @@
 	<link rel="stylesheet" href="../../../resources/css/blogTemplate2.css">
 	<link rel="stylesheet" href="../../../resources/css/menu.css">
 	<link rel="stylesheet" href="../../../resources/css/footer.css">
-	<script type="text/javascript" src="Main_JS.js"></script>
   <script type="text/javascript" src="../../../resources/js/menuJS.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
@@ -61,7 +60,7 @@
         </div>
 
         <!--Mobile Menu Section-->
-        <div class="mobile_menu" onclick="animate_menu(this), openNav()">
+        <div class="mobile_menu" onclick="animate_menu(this)">
             <div id="bar1" class="bar1"></div>
             <div id="bar2" class="bar2"></div>
             <div id="bar3" class="bar3"></div>
@@ -70,12 +69,12 @@
         <!--NEW: Mobile Overlay Menu-->
         <div id="myNav" class="overlay">    
           <!-- Overlay content -->
-          <div class="overlay-content">
-            <a href=".">✍ BLOGS</a>
-            <a href="about">🧬 ABOUT ME</a>
-            <a href="blog">PROJECTS ▾</a>
+          <div id="listN" class="overlay-content">
+            <a onclick="switchMenu1()">✍ BLOGS</a>
+            <a href="https://kofiscrib.com/about">🧬 ABOUT ME</a>
+            <a onclick="switchMenu2()">🧮 PROJECTS</a>
+            <a onclick="switchMenu3()">🛒 SHOP</a>
           </div>
-    
         </div>
 
     </header>
@@ -84,7 +83,7 @@
 
       <article>
         <h1>The Productive and Quick Morning routine - in Notion</h1>
-        <p id="meta">Feb 9 '22 • Written by Yassen Shopov • 📖 6 minute read</p>
+        <p id="meta">Feb 9 '22 • Written by Yassen Shopov<br>📖 6 minute read</p>
         <section id="content">
           <p>Studies have shown that having a set routine (a series of tasks that you follow as a tradition) is generally <strong>beneficial</strong> to one’s mental health, especially for young people. [1]</p>
           <p>Many of us noticed this during (one of) the many lockdowns when most days flushed together, and the lack of outdoors activity messed with everything - from your sleep quality to your general mood. And yes, this could be attributed to a number of factors such as the global anxiety related to the pandemic or the lack of social contact with others during this time of crisis. I would argue, however, that it was the lack of routine in my day-to-day life that contributed most to my lack of motivation and low productivity.</p>
@@ -97,6 +96,7 @@
           <p>We may have an endless list of tasks - big and small, which we keep track of. But there is usually this feeling of uncertainty connected to managing a to-do list. It’s usually a direct consequence of the lack of detail in the task. Most likely you haven’t specified the time at which you will do the task, the duration, its priority, etc.</p>
           <p>And if you are feeling particularly low-energy during the day, you may find it hard to engage in several tasks. Which one do I start with? Should I multitask? Which one has the highest priority? Those are all questions we ask ourselves in a loop until we get tired and do just the bare minimum. The sooner we set our tasks into our calendar, the less we need to overthink - when the time comes, you just sit down and do the task at hand.</p>
           <p>This is why this is the first step of our morning routine I propose. I personally keep a list of all the things I need to do in more or less chronological order in Notion, which looks like this:</p>
+          <img src="../../../resources/images/creative-virgo-thumbnails/notion-routine/aZone.jpg">
           <p>The tasks may not be assigned a precise “do-time”, but they always have a “do-date”. This means that there are no tasks left for the far future, only actively managed tasks to be done when I reach a specific point in time.</p>
           <p>My first task in the morning, after I have washed my face and brushed my teeth, is to hop on Notion and transform my Notion tasks into Google Calendar events. I used to do this manually, but I have been using my own Python script to automate this process lately, <a href="https://github.com/yassenshopov/Notion-GCal-Sync">which you can find over here on GitHub</a>.</p>
           <h2 id="2">2. Decide on the daily highlight</h2>
