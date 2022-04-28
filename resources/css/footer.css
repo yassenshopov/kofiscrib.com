@@ -2,18 +2,17 @@
 footer {
     display: flex;
     flex-direction: row;
-    height: 150px;
+    height: 120px;
     background-color: #141414;
     align-items: center;
     justify-content: space-between;
+    padding: 20px;
     bottom: 0;
     flex-wrap: wrap;
-    flex-grow: 1;
 }
   
 footer p {
     order: 1;
-    padding-left: 2%;
     text-align: left;
     font-family: "Open Sans";
     font-size: 14px;
@@ -21,13 +20,18 @@ footer p {
     color: #eeeff1;
     text-decoration: none;
 }
-  
-footer a {
+
+footer p a {
     color: #eeeff1;
 }
 
+footer #icons {
+    order: 0;
+    color: #eeeff1;
+}
+  
+
 #icons {
-    order: 2;
     margin-left: 50px;
     margin-right: 25px;
 }
@@ -46,4 +50,10 @@ footer a {
   /* Add a hover effect if you want */
 .fa:hover {
     color:rgb(156, 156, 156);
+}
+
+@media screen and (max-width: 800px) {
+    footer {
+        flex-direction: column-reverse;
+    }
 }

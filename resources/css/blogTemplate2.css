@@ -4,7 +4,7 @@
     --font-size-h2: 35px;
     --font-family-h: "Raleway";
     --font-family-p: "Open Sans";
-    --font-color-h: rgb(73, 15, 180) ;
+    --font-color-h: rgb(34, 11, 136) ;
     --font-color-a: rgba(25, 6, 134, 0.556);
     -webkit-tap-highlight-color: transparent;
 }
@@ -25,6 +25,8 @@ article {
     background-color: rgb(255, 255, 255);
     border-radius: 5px;
     box-shadow: 0px 0px 20px rgba(41, 41, 41, 0.199);
+    overflow-wrap: break-word;
+    word-wrap: break-word;
 }
 
 article h1 {
@@ -32,6 +34,7 @@ article h1 {
     font-size: var(--font-size-h1);
     color: var(--font-color-h);
     transition: color 1s;
+    margin-top: 10px;
 }
 
 article h1:hover {
@@ -72,7 +75,7 @@ aside {
     display: flex;
     flex-direction: column;
     width: 25%;
-    gap: 30px;
+    gap: 5px;
 }
 
 aside > * {
@@ -96,19 +99,18 @@ aside a {
 
 aside .recs {
     padding: 0;
-    margin: 0;
-
+    height: max-content;
 }
 
-aside .recs img{
+aside .recs img {
+    display: block;
     width: 100%;
     border-radius: 5px;
-    margin-bottom: -10px;
     transition: all 700ms;
 }
 
 aside .recs img:hover{
-    filter: saturate(1.7) brightness(0.7);
+    filter: saturate(1.9) brightness(0.8);
 }
 
 @media screen and (max-width: 800px) {
@@ -126,7 +128,7 @@ aside .recs img:hover{
 
     }
 
-    aside a {
-        display: hidden;
+    aside #toc {
+        display: none;
     }
 }
