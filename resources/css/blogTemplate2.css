@@ -80,7 +80,7 @@ aside {
     display: flex;
     flex-direction: column;
     width: 25%;
-    gap: 5px;
+    gap: 15px;
 }
 
 aside > * {
