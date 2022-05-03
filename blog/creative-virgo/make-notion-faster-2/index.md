@@ -1,57 +1,57 @@
-It’s awesome how many physical and mathematical concepts can be explained with just a handful of basic scenarios from our everyday life.
+As you will know, if you are a regular on this blog, I love Notion.
 
-The particular concept I have in mind is Gibbs Free Energy, a term that explains the behaviour of particles in a closed system. It’s a very complex set of equations, but what it boils down to is that if we assume there is a finite amount of energy in a system, it will keep getting transferred from one particle to the other and from one form to another. As you may have studied in Physics at one point - “energy can neither be created nor destroyed - only converted from one form of energy to another“ [1].
- 
-So in an ideal world, there is no lost energy. And technically, no energy is lost. It’s just that our definition of “useful” is very subjective.
+For those of you unfamiliar with Notion, first of all, interesting choice of an article to read. Secondly, Notion is an all-in-one productivity software.
 
-When an electric current runs through a wire, you end up “losing” some energy due to the wire heating up, so the amount of energy you receive at the end of the wire is less than what you started with. But the warming up of the wire could also be used as a type of energy. Think of a kettle, where the warming up of the water is a direct effect of the “lost” energy due to the current through the heater.
+It allows you to create productivity systems of your own liking. Its flexibility is its biggest asset - you can create a simple database to store all your University notes, or you could create a complex cross-database system to keep track of all your tasks. People have been using Notion extensively ever since its launch in 2016 to create projects such as:
 
-And still, even if we manage to metaphorically catch and find the use of every single Jaul of energy we have available, some still would escape our grasp. This is because we as humans are not infinite sources of energy, and neither is the world around us. Say, you want to keep a campfire burning. You start by throwing some wood, then some more, then some more… At one point, you run out of wood and you gotta chop some more. Then the wind starts blowing, so you need even more to keep the fire. If this goes on forever, you will end up chopping up every piece of wood nearby, and at one point, you will either give up due to exhaustion, or the fire will go out.
+Movie and book list databases
 
-It’s a sad reality, but most processes in our lives resemble this. They take up constant maintenance, otherwise, they go to ruin. Sometimes slower, sometimes faster. The order in your garden outside will turn to chaos far faster than the order in your room inside since it is not exposed to the elements. But even then, give it a few years, decades even, and the room may get a new owner, could be destroyed in a fire, and so on, and all order is gone.
- 
-Now, you may ask yourself, “What the hell am I reading and what does it have to do with productivity?“. And it is not a bad question to be asking yourself, since I did go a little bit overboard with the nihilistic examples above.
+Website building inspirations
 
-In this article, I will be explaining the effect of entropy, or the general inclination of things to go towards chaos rather than order, and I will talk about the way we as humans try our best to bring order - as a form of expressing control over a situation.
+To-do lists
 
-## What is entropy?
+Habit trackers
 
-As defined by Britannica, entropy can be described as “a measure of the molecular disorder, or randomness, of a system“ [2].
+However, many people’s main concern with Notion is its undeniably low loading speed (when compared to other apps). Since its founding 6 years ago, the company has expanded rapidly, but there appears to be a lag between the users’ expectations and the developers’ capabilities. And even though Notion is actively working on optimising the app, having already achieved a 50% speed increase since 2021, the app still takes a few more seconds to load than what most of us find convenient.
 
-It is the reason why diffusion occurs - the innate energy of particles naturally pushes them apart, which spreads them further. Other natural processes, like the campfire we described in the previous paragraphs like the melting of ice, the boiling of water, all ensue because of entropy.
+The startup lag is one thing, you can just run the application then forget about it for a minute and come back to it when it loads. The problem comes when you try to do either one of the following three actions:
 
-Now, the purely physical definition doesn’t leave a lot of space for philosophizing. However, when you put the phenomenon in a social or psychological setting, you can derive quite a lot of meaning from the phenomenon that is entropy.
+Search for a specific page with the “search“ function.
 
-As I’ve said in the title, we are chasing the everyday chaos - whether we want it or not. We get energy from things like food, sleep, socialising (especially the more extroverted people), and we then spend this same energy. We exercise, we walk, we cook, we order our rooms, we use our computers. All of those activities - and most activities, to be frank, can be summarised into the phrase “using our energy to move atoms from one place into another“. Those actions may seem meaningless to an omnipotent being watching from the outside, but to us, all those actions have a subjective meaning.
+Attempt to load up a page with a lot of database entries.
 
-## The instinct to bring order
+Switch between pages.
 
-As humanity has progressed, just like other animal and plant species, we have found ways to optimise our work and get more benefit. 
+You may be thinking to yourself now, “Well, if Notion has such bad speed, why not use another app?“. And you could be using another app, that’s true. However, Notion's flexibility and the ability to get customised to your own needs is unmatched, and it is so far the most versatile productivity tool I’ve come across. You can see my own productivity dashboard over here, and I have to say, it has helped me stay productive as a student and freelancer for years now.
 
-Just as how bees use hexagonal patterns when constructing their beehives since it takes up less space and can make for a stronger structure, we also tend to do things in ways that take less time and help us in the long term. This is one of the things that helps species survive across generations - the ability to withstand hardship in the short term to achieve safety and prosperity in the long term.
+And luckily, there are ways to increase Notion’s loading speed incrementally, by applying some simple strategies. In Part 1 of this article series (the one you’re reading right now), I will go more into detail for the “hacks” you can use to reduce the impact on the Notion app in a purely technical way. In Part 2 (linked over here), I will go into the more systematic approach you could use to build Notion in an easily accessible way, without worrying too much about technicalities.
 
-These mechanisms we have include: living in cities to optimise for efficiency in transportation and logistics, keeping our streets and living spaces clean to avoid contamination and illnesses, exercising and pushing our bodies to their limits while they are still young and healthy, so we don’t suffer from diseases when we’re older.
+Think of your workspace as a tree structure
+This is the first and most common piece of advice you will hear on the topic - reduce your image use.
 
-All in all, you can notice the pattern. All of those include using up your current energy for something relatively trivial, which doesn’t seem to benefit you in the given moment Exercising in the gym is the perfect example of something that brings you momentary pain in exchange for long-term benefits.
+Yes, we all love Notion for letting us create powerful and beautiful layouts. You could have customised icons, gifs as cover images, etc. I actually use a similar template right now, and I must admit that every time I run my Notion app, the fan starts wrooming louder.
 
-So, as you see, not all effort is futile. Even if we consider that all life will come to an end (which, given the advancements of modern medicine, might as well not be the case), there is still some point in trying to increase the quality of our lives with some short-term effort and sacrifices.
+As you can see, even though it looks pretty, it has so many widgets and moving parts that the loading speed decreases tremendously. And while this isn’t really a dealbreaker for me, many people would find this discouraging. So here are the ways you can keep your aesthetics while increasing the speed.
 
-What you may consider as “lost energy”, like cleaning your room, or working out, may turn out to be the vote in the right direction that makes the difference for you. We have no way of measuring the symbolic entropy in our lives, but we do have the power to limit its destructive potential.
+When using an icon/cover image, first download it, then reduce it to a “.jpg” or “.jpeg” file using a website such as “Resize Images Online“. This way, Notion takes a shorter amount of time to actually load your icon and header.
 
-## Can we find balance?
+Even if they seem pretty, avoid the use of gifs in your icons and cover, especially if the gif size exceeds 30 MB.
 
-It was after one particularly heavy cleaning session that I realised that battling entropy in life is a matter of dynamic balance. This is different from static balance, where there is no movement because everything is put into place. In life, we play by the rules of entropy and the dynamic balance - you can’t just put everything into place and expect for it to stay that way forever.
+## Globalise your content
+Year-long users of Notion like myself are guilty of hoarding so much infor
 
-However, this doesn’t mean that anything you bring order to will turn into a chaotic mess minutes after. The duration of time before things get messy depends on a ton of circumstances, and luckily, we have quite the degree of control over some.
+My to-do list database contains so many tasks right now, I believe last time I checked my stats for 2021, it contained 3,000+ items.
 
-For example, by creating a folder system on your computer, you can make the process of weekly cleaning much easier, since you know where everything needs to go already - you just need to move it.
+Imagine the sheer volume of data this is - 3,000 pages, all of which have some properties, content, images attached to them. No wonder Notion makes my laptop pass out upon loading.
 
-You could also think of it this way - the more often you put the small effort of cleaning up your room, the less effort it will require. Firstly, you build up the discipline and motivation to do your weekly and daily chores, and secondly, objectively you will have less to clean if you don’t let it pile up for months on end.
+So what I have started to do, periodically, is to get rid of the first few months of data for my more complex databases. Note, I don’t just delete those items, I make a backup copy of my entire Notion workspace, and then I remove them, knowing that even if I need anything random, I can restore it easily later on.
 
-All in all, battling chaos in our lives is an ongoing battle. The lucky news is that we are the ones in control of the battlefield.
+Notion’s users have been creating widgets small and big for years now.
 
-### References
+From simple clock widgets to progress bars, stock-trading panels, dynamically activated images, almost anything that you want to add to Notion, you can. However, most of those apps refresh themselves almost every second, which means that they are continuously connected to the Internet, further draining Notion and decreasing its speed.
 
-[1] Law of conservation of energy. (n.d.). Energy Education. https://energyeducation.ca/encyclopedia/Law_of_conservation_of_energy
+What I would suggest is that you don’t overwhelm your workspace with a ton of complex widgets just for the sake of aesthetics.
 
-[2] Entropy. (n.d.). Encyclopedia Britannica. https://www.britannica.com/science/entropy-physics
+Do you really need that progress bar to see how much of the month has passed already? Is Notion really the place where you should be tracking stocks 24/7?
+
+There are some cases in which less is more, and minimalism’s strongest asset in this realm is that your Notion workspace will be faster than ever.

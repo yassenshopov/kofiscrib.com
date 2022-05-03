@@ -1,57 +1,59 @@
-It’s awesome how many physical and mathematical concepts can be explained with just a handful of basic scenarios from our everyday life.
+It’s a common trap for most content creators. In order for people to see your content (whether it be writing, art, video material, whatever) you need to publish it on social media.
 
-The particular concept I have in mind is Gibbs Free Energy, a term that explains the behaviour of particles in a closed system. It’s a very complex set of equations, but what it boils down to is that if we assume there is a finite amount of energy in a system, it will keep getting transferred from one particle to the other and from one form to another. As you may have studied in Physics at one point - “energy can neither be created nor destroyed - only converted from one form of energy to another“ [1].
- 
-So in an ideal world, there is no lost energy. And technically, no energy is lost. It’s just that our definition of “useful” is very subjective.
+[But as I’ve talked extensively in another article](https://kofiscrib.com/blog/creative-virgo/social-accounts), social media doesn’t really differentiate between a content creator and a content consumer. This is mainly because a content creator *may as well* be a consumer, whose time can’t possibly be spent in any better way than on Instagram or Twitter.
 
-When an electric current runs through a wire, you end up “losing” some energy due to the wire heating up, so the amount of energy you receive at the end of the wire is less than what you started with. But the warming up of the wire could also be used as a type of energy. Think of a kettle, where the warming up of the water is a direct effect of the “lost” energy due to the current through the heater.
+Yes, it is definitely useful to browse social media apps every now and then when you are a content creator, mainly for inspiration. But be honest with yourself, how often do you actually go through the list of gathered ideas or saved posts? I personally don’t, and unless something is immediately useful to me the moment I see it on social media, I find it hard to go back and act upon it.
 
-And still, even if we manage to metaphorically catch and find the use of every single Jaul of energy we have available, some still would escape our grasp. This is because we as humans are not infinite sources of energy, and neither is the world around us. Say, you want to keep a campfire burning. You start by throwing some wood, then some more, then some more… At one point, you run out of wood and you gotta chop some more. Then the wind starts blowing, so you need even more to keep the fire. If this goes on forever, you will end up chopping up every piece of wood nearby, and at one point, you will either give up due to exhaustion, or the fire will go out.
+This is why, in this article, I will go over the ways in which we as creators can distance ourselves from the apps we use, so we spend less time on social media. This time could be better used creating, and this won’t come at a loss of popularity or presence in the social media place.
 
-It’s a sad reality, but most processes in our lives resemble this. They take up constant maintenance, otherwise, they go to ruin. Sometimes slower, sometimes faster. The order in your garden outside will turn to chaos far faster than the order in your room inside since it is not exposed to the elements. But even then, give it a few years, decades even, and the room may get a new owner, could be destroyed in a fire, and so on, and all order is gone.
- 
-Now, you may ask yourself, “What the hell am I reading and what does it have to do with productivity?“. And it is not a bad question to be asking yourself, since I did go a little bit overboard with the nihilistic examples above.
+So, without further ado, let’s get started with the first way to be more efficient with your screen time.
 
-In this article, I will be explaining the effect of entropy, or the general inclination of things to go towards chaos rather than order, and I will talk about the way we as humans try our best to bring order - as a form of expressing control over a situation.
+## 1. Schedule posting
 
-## What is entropy?
+When you are mindlessly scrolling through social media apps, you may get some amount of FOMO (Fear Of Missing Out). This could be because you follow a bunch of other creators who happen to publish content more frequently than you, or they could be working on more serious projects than you.
 
-As defined by Britannica, entropy can be described as “a measure of the molecular disorder, or randomness, of a system“ [2].
+The comparison trap is inevitable, so a way to get out of this loop is to **schedule your posting**.
 
-It is the reason why diffusion occurs - the innate energy of particles naturally pushes them apart, which spreads them further. Other natural processes, like the campfire we described in the previous paragraphs like the melting of ice, the boiling of water, all ensue because of entropy.
+By having a plan of what and how many digital illustrations I would be posting in the month ahead, I’ve managed to keep my peace of mind, no longer doom-scrolling and thinking “I should be posting right now“. 
 
-Now, the purely physical definition doesn’t leave a lot of space for philosophizing. However, when you put the phenomenon in a social or psychological setting, you can derive quite a lot of meaning from the phenomenon that is entropy.
+It not only enhances your productivity by allowing you to plan ahead, but it also helps build confidence in your brand. When you start perceiving the content you release as scheduled and already decided, it takes some burden off you as a creator. Now what is left is to just post at the required time.
 
-As I’ve said in the title, we are chasing the everyday chaos - whether we want it or not. We get energy from things like food, sleep, socialising (especially the more extroverted people), and we then spend this same energy. We exercise, we walk, we cook, we order our rooms, we use our computers. All of those activities - and most activities, to be frank, can be summarised into the phrase “using our energy to move atoms from one place into another“. Those actions may seem meaningless to an omnipotent being watching from the outside, but to us, all those actions have a subjective meaning.
+But you may think to yourself “Well, what if after I publish my content, I get back to scrolling since I’m already on the app?“.
 
-## The instinct to bring order
+Well, for this problem, you may try… 👇️
 
-As humanity has progressed, just like other animal and plant species, we have found ways to optimise our work and get more benefit. 
+## 2. Try posting from 3rd-party apps
 
-Just as how bees use hexagonal patterns when constructing their beehives since it takes up less space and can make for a stronger structure, we also tend to do things in ways that take less time and help us in the long term. This is one of the things that helps species survive across generations - the ability to withstand hardship in the short term to achieve safety and prosperity in the long term.
+It may seem like a bit of an overkill. It appears to be very easy to just post the content yourself, so why use some sort of external app to do the publishing for you?
 
-These mechanisms we have include: living in cities to optimise for efficiency in transportation and logistics, keeping our streets and living spaces clean to avoid contamination and illnesses, exercising and pushing our bodies to their limits while they are still young and healthy, so we don’t suffer from diseases when we’re older.
+Well, 2 reasons for that:
 
-All in all, you can notice the pattern. All of those include using up your current energy for something relatively trivial, which doesn’t seem to benefit you in the given moment Exercising in the gym is the perfect example of something that brings you momentary pain in exchange for long-term benefits.
+1. When you build up a lot of social media streams, it becomes increasingly difficult to post consistently on all of them while retaining the same level of content (keep in mind that different social media apps have different formats, so a Tweet and an Instagram post may have to look very different).
 
-So, as you see, not all effort is futile. Even if we consider that all life will come to an end (which, given the advancements of modern medicine, might as well not be the case), there is still some point in trying to increase the quality of our lives with some short-term effort and sacrifices.
+2. By using the scheduler apps, you don’t need to enter the social media apps themselves as a consumer.
 
-What you may consider as “lost energy”, like cleaning your room, or working out, may turn out to be the vote in the right direction that makes the difference for you. We have no way of measuring the symbolic entropy in our lives, but we do have the power to limit its destructive potential.
+For example, I recently created a Facebook page for my digital illustrations, on top of all my other social media accounts. It would be a nightmare for me if I really had to go in every single app and post the same, but slightly edited and adjusted content. I was really happy to discover the Facebook Business Studio, an app that allows me to schedule posts ahead of time, that would get posted on both the Facebook page and on my main Instagram account.
 
-## Can we find balance?
+True, there isn’t yet one single app that I have found that can post to all my social media accounts, but even a few of them can drastically reduce the amount of time I spend needlessly scrolling.
 
-It was after one particularly heavy cleaning session that I realised that battling entropy in life is a matter of dynamic balance. This is different from static balance, where there is no movement because everything is put into place. In life, we play by the rules of entropy and the dynamic balance - you can’t just put everything into place and expect for it to stay that way forever.
+## 3. Focus on creating, instead of consuming
 
-However, this doesn’t mean that anything you bring order to will turn into a chaotic mess minutes after. The duration of time before things get messy depends on a ton of circumstances, and luckily, we have quite the degree of control over some.
+As I already mentioned in Point 1, I think my time would be spent more wisely if I create more than I consume. With apps like Twitter, it’s crazy how much content you can view, read, engage with, for just a few minutes. At the same time, imagine the cumulative time that went into creating said content. 
 
-For example, by creating a folder system on your computer, you can make the process of weekly cleaning much easier, since you know where everything needs to go already - you just need to move it.
+It’s almost the same situation with books - a writer spends years writing, drafting, researching, editing. Meanwhile, readers on the other end of the process may go through the content for a mere fraction of what it took for it to be created.
 
-You could also think of it this way - the more often you put the small effort of cleaning up your room, the less effort it will require. Firstly, you build up the discipline and motivation to do your weekly and daily chores, and secondly, objectively you will have less to clean if you don’t let it pile up for months on end.
+By this logic, it may seem very inefficient to be a creator at all. However, with practice, by definition, the quality of the work increases, and possibly the time it takes for it to be created decreases. A digital artist that has been drawing for 20+ years can probably create a masterpiece for the time it takes me with my 2 years of experience to create one decent illustration.
 
-All in all, battling chaos in our lives is an ongoing battle. The lucky news is that we are the ones in control of the battlefield.
+My point is that every minute spent in the craft of creating bears a thousand times more fruit than the pure consumption of content. 
 
-### References
+## 4. Focus on the 20%
 
-[1] Law of conservation of energy. (n.d.). Energy Education. https://energyeducation.ca/encyclopedia/Law_of_conservation_of_energy
+In the productivity world, there is one very famous principle, called the **80/20 Principle**. 
 
-[2] Entropy. (n.d.). Encyclopedia Britannica. https://www.britannica.com/science/entropy-physics
+According to it, as observed in economics and business, around 80% of the productivity lies in 20% of the effort put in. The remaining 20% of productivity are achieved by utilising 80% of the effort. In simpler terms, let’s say you need to study 1 textbook to get 100% in your exam. The 80/20 principle basically tells us that the most important information, a.k.a. the information that will get us 80% of the mark, is stored within 20% of the textbook.
+
+It may not be as easy to calculate the amounts of effort you put in in other everyday tasks, but it is an interesting idea to toy with.
+
+In terms of content creation, the 80/20 rule could be utilised by focusing on the 20% of your social media browsing that results into the 80% of the benefits. You could easily limit your scrolling to an hour per day and use most of this 1 hour to comment on other people’s posts, publish content, engage with people online, etc.
+
+Overall, be mindful of the time spent on social media, and soon you’ll realise that the more you limit it, the more you’ll get out if it (in a positive manner).

@@ -1,0 +1,1 @@
+(window.wpJsonpTemplateSections=window.wpJsonpTemplateSections||[]).push([[6],{976:function(o,e,t){"use strict";t.r(e);var a=t(2),n=t.n(a),i=t(35);e.default=function(o){var e=function(){"true"===n.a.getValue("tweak-blog-item-show-author-profile")&&i.a.loadLazy(o,{load:!0,mode:"cover"})};n.a.watch(["tweak-blog-item-show-author-profile"],e),e()}}}]);

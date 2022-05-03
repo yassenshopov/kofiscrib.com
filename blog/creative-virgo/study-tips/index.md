@@ -1,57 +1,68 @@
-It’s awesome how many physical and mathematical concepts can be explained with just a handful of basic scenarios from our everyday life.
+From kindergarten all the way to your last assignment in university, you bump into new and distinct learning obstacles.
 
-The particular concept I have in mind is Gibbs Free Energy, a term that explains the behaviour of particles in a closed system. It’s a very complex set of equations, but what it boils down to is that if we assume there is a finite amount of energy in a system, it will keep getting transferred from one particle to the other and from one form to another. As you may have studied in Physics at one point - “energy can neither be created nor destroyed - only converted from one form of energy to another“ [1].
- 
-So in an ideal world, there is no lost energy. And technically, no energy is lost. It’s just that our definition of “useful” is very subjective.
+In the beginning, it was grasping entirely new concepts, such as reading, building passive and active memory, building habits. Then you moved over to the challenges of multi-tasking, having to retain focus, having to learn things even if you have no inherent interest or benefit from them. And then by the time you reach university, you most probably also need to juggle with a social life, a work-life, dealing with society’s expectations, and so on.
 
-When an electric current runs through a wire, you end up “losing” some energy due to the wire heating up, so the amount of energy you receive at the end of the wire is less than what you started with. But the warming up of the wire could also be used as a type of energy. Think of a kettle, where the warming up of the water is a direct effect of the “lost” energy due to the current through the heater.
+Point is, you keep on learning new things, but the ways you learn them are probably not very different than they were years and years ago. And even if they were relevant back then, there is little chance that they are the perfect study techniques that should be carrying you all your life.
 
-And still, even if we manage to metaphorically catch and find the use of every single Jaul of energy we have available, some still would escape our grasp. This is because we as humans are not infinite sources of energy, and neither is the world around us. Say, you want to keep a campfire burning. You start by throwing some wood, then some more, then some more… At one point, you run out of wood and you gotta chop some more. Then the wind starts blowing, so you need even more to keep the fire. If this goes on forever, you will end up chopping up every piece of wood nearby, and at one point, you will either give up due to exhaustion, or the fire will go out.
+Generally, the older we get, the less nimble we are at adapting new study strategies, even if there is quite some evidence showing that they are actually better.
 
-It’s a sad reality, but most processes in our lives resemble this. They take up constant maintenance, otherwise, they go to ruin. Sometimes slower, sometimes faster. The order in your garden outside will turn to chaos far faster than the order in your room inside since it is not exposed to the elements. But even then, give it a few years, decades even, and the room may get a new owner, could be destroyed in a fire, and so on, and all order is gone.
- 
-Now, you may ask yourself, “What the hell am I reading and what does it have to do with productivity?“. And it is not a bad question to be asking yourself, since I did go a little bit overboard with the nihilistic examples above.
+When I went into university in 2019 for my Biomedical Engineering degree, I had quite a bit of old study habits that made me spend so much unnecessary time and effort in the wrong places. And since nobody really teaches you how to, well, learn effectively, it is very easy to keep grinding unnecessarily till you graduate. Thankfully, I ran into some really helpful articles and YouTube channels, mainly Ali Abdaal’s and Thomas Frank’s, that gave me a good idea of how to study much more effectively.
 
-In this article, I will be explaining the effect of entropy, or the general inclination of things to go towards chaos rather than order, and I will talk about the way we as humans try our best to bring order - as a form of expressing control over a situation.
+In this article, I will tell you about the 5 study tips that help me most during my degree in university.
 
-## What is entropy?
+## 1. Active Recall
 
-As defined by Britannica, entropy can be described as “a measure of the molecular disorder, or randomness, of a system“ [2].
+Active recall [**ˈæktɪv rɪˈkɔːl**] when you actively stimulate your memory for a piece of information. [1]
 
-It is the reason why diffusion occurs - the innate energy of particles naturally pushes them apart, which spreads them further. Other natural processes, like the campfire we described in the previous paragraphs like the melting of ice, the boiling of water, all ensue because of entropy.
+In order to better understand what active recall is, it is easier to understand what it isn’t.
 
-Now, the purely physical definition doesn’t leave a lot of space for philosophizing. However, when you put the phenomenon in a social or psychological setting, you can derive quite a lot of meaning from the phenomenon that is entropy.
+Making notes and studying off them is a passive way of absorbing content. The questions and the answers are both there in front of you, and you instantly see the connection between all the concepts. It doesn’t really take any active effort on your part to get to the answer, and you are left with the feeling of a job well-done since you understand the information as of right now.
 
-As I’ve said in the title, we are chasing the everyday chaos - whether we want it or not. We get energy from things like food, sleep, socialising (especially the more extroverted people), and we then spend this same energy. We exercise, we walk, we cook, we order our rooms, we use our computers. All of those activities - and most activities, to be frank, can be summarised into the phrase “using our energy to move atoms from one place into another“. Those actions may seem meaningless to an omnipotent being watching from the outside, but to us, all those actions have a subjective meaning.
+However, once I take your notes away from you, your understanding of the topic is likely to suffer. Now that there is some distance between the question and the answer to it, your brain actually needs to put in the work.
 
-## The instinct to bring order
+And that’s awesome.
 
-As humanity has progressed, just like other animal and plant species, we have found ways to optimise our work and get more benefit. 
+Because this is where the real learning magic happens. Once your brain needs to put in some active effort to retrieve a given piece of information, it helps build a neural pathway in your cortex. Think of it as the same way your brain builds habits, reflexes, etc. The more your brain needs to go through a specific motion, the easier it gets, and the information starts to feel instinctual as if it has always been there.
 
-Just as how bees use hexagonal patterns when constructing their beehives since it takes up less space and can make for a stronger structure, we also tend to do things in ways that take less time and help us in the long term. This is one of the things that helps species survive across generations - the ability to withstand hardship in the short term to achieve safety and prosperity in the long term.
+So to put it into practical terms, you can practice active recall by turning your notes into a set of questions on the content. Yes, you can also provide the answers to them somewhere, but they shouldn’t be instantly visible. You have to work through the question first, put some effort into remembering, and then if you actually don’t know it, you’re allowed to look at the answer and learn the new material. Evidence shows that this method of learning, combined with using flashcards, can boost the speed of integrating new material and can enhance memories.
 
-These mechanisms we have include: living in cities to optimise for efficiency in transportation and logistics, keeping our streets and living spaces clean to avoid contamination and illnesses, exercising and pushing our bodies to their limits while they are still young and healthy, so we don’t suffer from diseases when we’re older.
+## 2. Time-Blocking
+Now, this technique is much more common among the productivity spaces, but it has its place in studying as well.
 
-All in all, you can notice the pattern. All of those include using up your current energy for something relatively trivial, which doesn’t seem to benefit you in the given moment Exercising in the gym is the perfect example of something that brings you momentary pain in exchange for long-term benefits.
+Time blocking is the process of taking the 24 hours of a given day and dividing them into blocks of closely-related activities. It is very close to the general practice of scheduling events into your day, just taken a step further.
 
-So, as you see, not all effort is futile. Even if we consider that all life will come to an end (which, given the advancements of modern medicine, might as well not be the case), there is still some point in trying to increase the quality of our lives with some short-term effort and sacrifices.
+Some small tasks during the day can seem harder to accomplish if they are scattered randomly throughout it. This is because of the **multi-tasking** effect. Generally, it takes some amount of willpower to start a given task, and if you constantly have to switch between tasks of a different level of mental effort and focus, you will end up drained much faster.
 
-What you may consider as “lost energy”, like cleaning your room, or working out, may turn out to be the vote in the right direction that makes the difference for you. We have no way of measuring the symbolic entropy in our lives, but we do have the power to limit its destructive potential.
+Time-blocking helps in this by letting you couple a few tasks and their subtasks into coherent blocks. For example, you could have a Blog Writing block, like what I use right now, in which I do a couple of related tasks - writing all the paragraphs, writing some meta-information about the blog, designing the page, sharing it on social media, etc.
 
-## Can we find balance?
+## 3. Plan for Buffer
 
-It was after one particularly heavy cleaning session that I realised that battling entropy in life is a matter of dynamic balance. This is different from static balance, where there is no movement because everything is put into place. In life, we play by the rules of entropy and the dynamic balance - you can’t just put everything into place and expect for it to stay that way forever.
+If you can be sure about one thing about productivity, it is that a task has a much bigger chance of taking longer than expected, rather than shorter.
 
-However, this doesn’t mean that anything you bring order to will turn into a chaotic mess minutes after. The duration of time before things get messy depends on a ton of circumstances, and luckily, we have quite the degree of control over some.
+When you start using the previous concept, time-blocking, you may easily fall in the trap of overlooking all your time. When you put a 2 hour gym block right next to a 2 hour study block, you depend heavily on you being able to finish those tasks perfectly on time and being able to transition perfectly smoothly to the next one. 
 
-For example, by creating a folder system on your computer, you can make the process of weekly cleaning much easier, since you know where everything needs to go already - you just need to move it.
+Which, especially if the two tasks require you to change setting, place, clothes, environment, can become impossible to start the next task perfectly on time.
 
-You could also think of it this way - the more often you put the small effort of cleaning up your room, the less effort it will require. Firstly, you build up the discipline and motivation to do your weekly and daily chores, and secondly, objectively you will have less to clean if you don’t let it pile up for months on end.
+This is where **buffer time** comes in handy.
 
-All in all, battling chaos in our lives is an ongoing battle. The lucky news is that we are the ones in control of the battlefield.
+Buffer time could be just a few minutes, or even an hour more of time added to a task. The main principle is to estimate how long a given task would take, and add some time to extend the time block, imagining an almost worst-case scenario of things not going your way. That could be - your bus not being on time, your computer being laggy, creativity not striking you the moment you sir down to write, etc. By adding buffer time to your schedule, you won’t be rushing through tasks as much, and you would limit the possibility of stuff going so wrong that your whole schedule goes off-track. This margin of error is crucial to a healthy schedule. 
+
+## 4. Get outside of your room
+
+What could seem rather obvious for the more extroverted people can come as non-instinctual to the more introverted of us.
+
+When you sit down in your room, it is very rarely a dedicated study space. It is usually also the place where you sleep, relax, sometimes eat, generally - the place where you don’t work. And as far as psychology goes, classical conditioning works very efficiently on humans, and the more we associate a given setting with a given task, the more likely we are to perform said task in said setting. This means that over time, it should be getting less and less natural for you to work I  your own room, since you do all sorts of activities in there.
+
+This is where the library, coffee shops, other people’s places, common rooms, become so useful in one’s studying. Since there is a constant feeling of novelty attached to those places you don’t visit as often, it almost feels fun to study there, and definitely feels more productive.
+
+On top of that, you have the added bonus of not having all your distractions (fridge, bed, TV) right in front of you as you’re trying to study.
+
+
+## 5. Coffee is not Water
+Now, this line may seem absurd, but if you’re a coffee-enjoyer like myself, you’ll know how easy it is to go overboard with 1, 2, even 5 cups of coffee per day, mostly in an attempt to constantly boost your productivity. However, coffee is not water, and its effect on the organism as a stimulant shouldn’t be underestimated.
+
+The caffeine in coffee truly does affect your mental and physical performance, and it’s the reason why athletes and students alike tend to take it in big quantities.
 
 ### References
 
-[1] Law of conservation of energy. (n.d.). Energy Education. https://energyeducation.ca/encyclopedia/Law_of_conservation_of_energy
-
-[2] Entropy. (n.d.). Encyclopedia Britannica. https://www.britannica.com/science/entropy-physics
+[1] What is active recall? How to use it to ace your exams. (2020, October 29). Brainscape Academy. https://www.brainscape.com/academy/active-recall-definition-studying/

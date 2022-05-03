@@ -1,57 +1,52 @@
-It’s awesome how many physical and mathematical concepts can be explained with just a handful of basic scenarios from our everyday life.
+The official “birthday“ of my blog series is the 21st of September 2020, when I published my first blog post with the title “[Is creativity only for creative people?](https://kofiscrib.com/blog/creative-virgo/is-creativity-only-for-creative-people)“.
 
-The particular concept I have in mind is Gibbs Free Energy, a term that explains the behaviour of particles in a closed system. It’s a very complex set of equations, but what it boils down to is that if we assume there is a finite amount of energy in a system, it will keep getting transferred from one particle to the other and from one form to another. As you may have studied in Physics at one point - “energy can neither be created nor destroyed - only converted from one form of energy to another“ [1].
- 
-So in an ideal world, there is no lost energy. And technically, no energy is lost. It’s just that our definition of “useful” is very subjective.
+As you can see, everything is different nowadays - the mascot, the template, the layout. Some parts of my old texts have been edited, and I have changed a thousand little things like fonts, colour schemes, heading formats, brainstorming formats, etc.
 
-When an electric current runs through a wire, you end up “losing” some energy due to the wire heating up, so the amount of energy you receive at the end of the wire is less than what you started with. But the warming up of the wire could also be used as a type of energy. Think of a kettle, where the warming up of the water is a direct effect of the “lost” energy due to the current through the heater.
+Since this has always been (and possibly will keep being) a personal blog series where I share my knowledge and insights on topics of interest to me, it was not too difficult to remain true to my “brand”. After all, the brand followed my own image and was a reflection of my mindset at the time. This could explain why I started off writing about more vague topics at the beginning, like inspiration and discipline, and I have since niched down to talk more in detail about my experience as a content creator and freelancer.
 
-And still, even if we manage to metaphorically catch and find the use of every single Jaul of energy we have available, some still would escape our grasp. This is because we as humans are not infinite sources of energy, and neither is the world around us. Say, you want to keep a campfire burning. You start by throwing some wood, then some more, then some more… At one point, you run out of wood and you gotta chop some more. Then the wind starts blowing, so you need even more to keep the fire. If this goes on forever, you will end up chopping up every piece of wood nearby, and at one point, you will either give up due to exhaustion, or the fire will go out.
+It has now been officially more than 1 year since I have been keeping up with writing on this blog. I didn’t do this post earlier since I wanted to make up for some inconsistencies on my part in terms of timing. At the very beginning, I wrote a few posts, one per week, and then I stopped writing when my semester in university got more intense. I later resumed with the blog at the start of 2021 and had been steadily publishing 1 article per week with a few exceptions, until I made another 1-month break in December 2021. Now, with 2022 having started already, I have dedicated myself to publishing 2 blog posts a week, of (hopefully) higher quality and on topics that I have expertise upon. So far, my stats look something like this:
 
-It’s a sad reality, but most processes in our lives resemble this. They take up constant maintenance, otherwise, they go to ruin. Sometimes slower, sometimes faster. The order in your garden outside will turn to chaos far faster than the order in your room inside since it is not exposed to the elements. But even then, give it a few years, decades even, and the room may get a new owner, could be destroyed in a fire, and so on, and all order is gone.
- 
-Now, you may ask yourself, “What the hell am I reading and what does it have to do with productivity?“. And it is not a bad question to be asking yourself, since I did go a little bit overboard with the nihilistic examples above.
+- **2020**: 6 blog posts in total
 
-In this article, I will be explaining the effect of entropy, or the general inclination of things to go towards chaos rather than order, and I will talk about the way we as humans try our best to bring order - as a form of expressing control over a situation.
+- **2021**: 43 blog posts in total
 
-## What is entropy?
+- **2022**: 7 blog posts *so far* (as of early February 2022)
 
-As defined by Britannica, entropy can be described as “a measure of the molecular disorder, or randomness, of a system“ [2].
+Statistic wise, I managed to utilise my blog and market it on social media (Reddit, Instagram, Pinterest) to gain traction of about 3,000 visits/month, a stat that took a while to build up.
 
-It is the reason why diffusion occurs - the innate energy of particles naturally pushes them apart, which spreads them further. Other natural processes, like the campfire we described in the previous paragraphs like the melting of ice, the boiling of water, all ensue because of entropy.
+Some of my most popular blog posts are related to studying techniques for university students, productivity apps, and specific use-cases of the all-in-one workspace application - Notion. The magic with my Notion articles probably would boil down to the category of people using the app in the first place. Most of them are already interested in the topics I write about, so after inviting them to my website with my Notion articles, they would then stumble upon other blog posts that they fancy.
 
-Now, the purely physical definition doesn’t leave a lot of space for philosophizing. However, when you put the phenomenon in a social or psychological setting, you can derive quite a lot of meaning from the phenomenon that is entropy.
+My experience with blogging for the past year can’t be summarised in just one paragraph, but if I learned anything essential (as a content creator as a whole), it would be that…
 
-As I’ve said in the title, we are chasing the everyday chaos - whether we want it or not. We get energy from things like food, sleep, socialising (especially the more extroverted people), and we then spend this same energy. We exercise, we walk, we cook, we order our rooms, we use our computers. All of those activities - and most activities, to be frank, can be summarised into the phrase “using our energy to move atoms from one place into another“. Those actions may seem meaningless to an omnipotent being watching from the outside, but to us, all those actions have a subjective meaning.
+## Growth is not linear
+What may seem like an obvious statement is something that usually comes as a surprising reminder to most of us.
 
-## The instinct to bring order
+You can see in the picture that the rate at which my traffic grew increased a few months back, but that wasn’t a step change from the previous months. And thankfully so, since otherwise, I wouldn’t have yet got to 2K visits/month. What is more, the growth didn’t continue disproportionately into the sky, and I hit my maximum visits/month over November 2021, only to half them the next month (mainly because of the reduction in content).
 
-As humanity has progressed, just like other animal and plant species, we have found ways to optimise our work and get more benefit. 
+All that explaining is to serve as a warning - don’t expect your growth to be linear. If you are consistent and hard-working, some growth is to be expected, but the ups and downs can be a product of external factors just as much.
 
-Just as how bees use hexagonal patterns when constructing their beehives since it takes up less space and can make for a stronger structure, we also tend to do things in ways that take less time and help us in the long term. This is one of the things that helps species survive across generations - the ability to withstand hardship in the short term to achieve safety and prosperity in the long term.
+Now that we got this disclaimer out of the way, let’s get into the do’s and do-not’s that I have accumulated over this year.
 
-These mechanisms we have include: living in cities to optimise for efficiency in transportation and logistics, keeping our streets and living spaces clean to avoid contamination and illnesses, exercising and pushing our bodies to their limits while they are still young and healthy, so we don’t suffer from diseases when we’re older.
+### **Do**: Experiment in a variety of topics
+Now, this may clash a bit with the next piece of advice I am about to give you, but there is a chronological order in which topic niching happens. In my experience, I wouldn’t have found the few good topics that I love talking about if I hadn’t first written on a bunch of them, following my hunch.
 
-All in all, you can notice the pattern. All of those include using up your current energy for something relatively trivial, which doesn’t seem to benefit you in the given moment Exercising in the gym is the perfect example of something that brings you momentary pain in exchange for long-term benefits.
+Especially at the beginning of your blogging journey, experimentation is crucial **and** easy. Since there are fewer dedicated readers of your blog, you can allow yourself to write about a variety of niches, until you find ones that stick. It could also be helpful if you allow your readers to influence your blog as well - they could help you brainstorm ideas, give you feedback, comment on your work and expertise.
 
-So, as you see, not all effort is futile. Even if we consider that all life will come to an end (which, given the advancements of modern medicine, might as well not be the case), there is still some point in trying to increase the quality of our lives with some short-term effort and sacrifices.
+### **Do**: Niche down
+Getting to some more subsequent thing I realised - I would attract more readers once I sit down with my thoughts and choose a handful of related topics, of which I can achieve some level of domain expertise. In my case, I had been using the app Notion for 2 years before I started this blog, and I had already created quite a few educational templates that my friends have found helpful.
 
-What you may consider as “lost energy”, like cleaning your room, or working out, may turn out to be the vote in the right direction that makes the difference for you. We have no way of measuring the symbolic entropy in our lives, but we do have the power to limit its destructive potential.
+All in all, I knew that this is a topic that I had some expertise upon, and once I found out that many people are also curious about the same, it seemed like a good moment to niche down and keep on experimenting - just on a smaller scale.
 
-## Can we find balance?
+### **Don’t**: Keep the blog to yourself
+You would be surprised how many people you know have content for days for their blog series, but it’s just hidden. And I don’t mean to include only blog writers - this could include people with everyday journals, scrapbooks, Pinterest mood boards, reports on work they specialise in, short fiction stories, etc.
 
-It was after one particularly heavy cleaning session that I realised that battling entropy in life is a matter of dynamic balance. This is different from static balance, where there is no movement because everything is put into place. In life, we play by the rules of entropy and the dynamic balance - you can’t just put everything into place and expect for it to stay that way forever.
+If my experience as a content creator has taught me anything, it’s that, good or bad, your content will be appreciated by at least 1 person somewhere on the planet. The internet gives us the unique opportunity to interact amongst demographics, countries, classes, social groups. This means that your content, through the magic of search engines, will somehow find its way to somebody’s screen, and may become their favourite piece.
 
-However, this doesn’t mean that anything you bring order to will turn into a chaotic mess minutes after. The duration of time before things get messy depends on a ton of circumstances, and luckily, we have quite the degree of control over some.
+And all these positive benefits can be leveraged pretty easily - by just not keeping your content to yourself and publishing it routinely online.
 
-For example, by creating a folder system on your computer, you can make the process of weekly cleaning much easier, since you know where everything needs to go already - you just need to move it.
+### **Don’t**: Stay stuck with old habits
+This relates to the upgrade I made from 1 post per week to 2 of them. It also applies to any sort of changes in routine you apply that serves to actualise your work habits.
 
-You could also think of it this way - the more often you put the small effort of cleaning up your room, the less effort it will require. Firstly, you build up the discipline and motivation to do your weekly and daily chores, and secondly, objectively you will have less to clean if you don’t let it pile up for months on end.
+Since the results of our effort are usually byproducts of our routines and systems, it doesn’t make sense that the same system would produce different results over time, even if it is a good system. For me, 1 blog post per week was just not generating enough website traffic for it to be worth the effort, so I had to make an increase in both quality and quantity. It also didn’t help when the topics were self-contained - I needed to start linking my articles together in a coherent manner, so people would reach the end of one article and would be keen to continue reading another article on a similar enough topic.
 
-All in all, battling chaos in our lives is an ongoing battle. The lucky news is that we are the ones in control of the battlefield.
-
-### References
-
-[1] Law of conservation of energy. (n.d.). Energy Education. https://energyeducation.ca/encyclopedia/Law_of_conservation_of_energy
-
-[2] Entropy. (n.d.). Encyclopedia Britannica. https://www.britannica.com/science/entropy-physics
+All in all, do not let your set-in-stone habits limit you and allow some flexibility to your writing and marketing process.

@@ -1,57 +1,67 @@
-It’s awesome how many physical and mathematical concepts can be explained with just a handful of basic scenarios from our everyday life.
+This may be a question you have asked yourself in the past - “**Do I have undiagnosed ADHD?**“.
 
-The particular concept I have in mind is Gibbs Free Energy, a term that explains the behaviour of particles in a closed system. It’s a very complex set of equations, but what it boils down to is that if we assume there is a finite amount of energy in a system, it will keep getting transferred from one particle to the other and from one form to another. As you may have studied in Physics at one point - “energy can neither be created nor destroyed - only converted from one form of energy to another“ [1].
- 
-So in an ideal world, there is no lost energy. And technically, no energy is lost. It’s just that our definition of “useful” is very subjective.
+Especially in a work or school setting, when you have to deal with intellectual labour and task management, often time-sensitive, it is easy to fall behind. Words like “procrastination” and “distractions“ are thrown around all the time, and it seems like most people have some problem with their focus. It’s also very rare that you see a person just chilling nowadays without the aid of some technology. A spare moment without work is always the perfect time to pick your phone for new content.
 
-When an electric current runs through a wire, you end up “losing” some energy due to the wire heating up, so the amount of energy you receive at the end of the wire is less than what you started with. But the warming up of the wire could also be used as a type of energy. Think of a kettle, where the warming up of the water is a direct effect of the “lost” energy due to the current through the heater.
+It’s almost as if we all suddenly developed symptoms of ADHD overnight with the age of pocket technology coming in.
 
-And still, even if we manage to metaphorically catch and find the use of every single Jaul of energy we have available, some still would escape our grasp. This is because we as humans are not infinite sources of energy, and neither is the world around us. Say, you want to keep a campfire burning. You start by throwing some wood, then some more, then some more… At one point, you run out of wood and you gotta chop some more. Then the wind starts blowing, so you need even more to keep the fire. If this goes on forever, you will end up chopping up every piece of wood nearby, and at one point, you will either give up due to exhaustion, or the fire will go out.
+In this article, I will summarise the contents of a few articles on the topic of **ADHD and technology**, and I will analyse in simple terms the connection between the two. Additionally, this isn’t a rant against smartphones and social media, as they both have their very significant place in our day-to-day lives. But, as with any other activity that takes up the majority of our time (sleeping, working out, studying, working), there are some practices that can be used to minimise the negative side effects.
 
-It’s a sad reality, but most processes in our lives resemble this. They take up constant maintenance, otherwise, they go to ruin. Sometimes slower, sometimes faster. The order in your garden outside will turn to chaos far faster than the order in your room inside since it is not exposed to the elements. But even then, give it a few years, decades even, and the room may get a new owner, could be destroyed in a fire, and so on, and all order is gone.
- 
-Now, you may ask yourself, “What the hell am I reading and what does it have to do with productivity?“. And it is not a bad question to be asking yourself, since I did go a little bit overboard with the nihilistic examples above.
+## What is ADHD?
 
-In this article, I will be explaining the effect of entropy, or the general inclination of things to go towards chaos rather than order, and I will talk about the way we as humans try our best to bring order - as a form of expressing control over a situation.
+ADHD (*Attention Deficit Hyperactivity Disorder*): “[Symptoms of ADHD include inattention (not being able to keep focus), hyperactivity (excess movement that is not fitting to the setting) and impulsivity (hasty acts that occur in the moment without thought).](https://www.psychiatry.org/patients-families/adhd/what-is-adhd)“ [1]
 
-## What is entropy?
+ADHD used to be noticed and diagnosed most commonly among children, due to their symptoms interfering more readily with their schoolwork and leading to behavioural issues further down the line. It was first noted in scientific literature by a Scottish doctor, Sir Alexander Crichton, in 1798. [2] Current psychological associations recognise ADHD as having three distinct types, with one main characteristic for each:
 
-As defined by Britannica, entropy can be described as “a measure of the molecular disorder, or randomness, of a system“ [2].
+1. Mostly inattentive
 
-It is the reason why diffusion occurs - the innate energy of particles naturally pushes them apart, which spreads them further. Other natural processes, like the campfire we described in the previous paragraphs like the melting of ice, the boiling of water, all ensue because of entropy.
+2. Mostly hyperactive
 
-Now, the purely physical definition doesn’t leave a lot of space for philosophizing. However, when you put the phenomenon in a social or psychological setting, you can derive quite a lot of meaning from the phenomenon that is entropy.
+3. Mostly impulsive
 
-As I’ve said in the title, we are chasing the everyday chaos - whether we want it or not. We get energy from things like food, sleep, socialising (especially the more extroverted people), and we then spend this same energy. We exercise, we walk, we cook, we order our rooms, we use our computers. All of those activities - and most activities, to be frank, can be summarised into the phrase “using our energy to move atoms from one place into another“. Those actions may seem meaningless to an omnipotent being watching from the outside, but to us, all those actions have a subjective meaning.
+A mix of the above is also possible, and it could be labelled as a potential 4th type.
 
-## The instinct to bring order
+From 2003 to 2011, there has been a noticeable increase in cases of ADHD in children by 5% in the US.
 
-As humanity has progressed, just like other animal and plant species, we have found ways to optimise our work and get more benefit. 
+In adults, these symptoms may be better recognised as:
 
-Just as how bees use hexagonal patterns when constructing their beehives since it takes up less space and can make for a stronger structure, we also tend to do things in ways that take less time and help us in the long term. This is one of the things that helps species survive across generations - the ability to withstand hardship in the short term to achieve safety and prosperity in the long term.
+- Problems with following tasks.
 
-These mechanisms we have include: living in cities to optimise for efficiency in transportation and logistics, keeping our streets and living spaces clean to avoid contamination and illnesses, exercising and pushing our bodies to their limits while they are still young and healthy, so we don’t suffer from diseases when we’re older.
+- Time blindness.
 
-All in all, you can notice the pattern. All of those include using up your current energy for something relatively trivial, which doesn’t seem to benefit you in the given moment Exercising in the gym is the perfect example of something that brings you momentary pain in exchange for long-term benefits.
+- Troubles with task and time management.
 
-So, as you see, not all effort is futile. Even if we consider that all life will come to an end (which, given the advancements of modern medicine, might as well not be the case), there is still some point in trying to increase the quality of our lives with some short-term effort and sacrifices.
+- Limited focus and concentration.
 
-What you may consider as “lost energy”, like cleaning your room, or working out, may turn out to be the vote in the right direction that makes the difference for you. We have no way of measuring the symbolic entropy in our lives, but we do have the power to limit its destructive potential.
+As you can see, quite a few of those common symptoms are a very frequent occurrence among the people we know (ourselves included).
 
-## Can we find balance?
+## Which aspects of technology may cause ADHD?
 
-It was after one particularly heavy cleaning session that I realised that battling entropy in life is a matter of dynamic balance. This is different from static balance, where there is no movement because everything is put into place. In life, we play by the rules of entropy and the dynamic balance - you can’t just put everything into place and expect for it to stay that way forever.
+According to [this article by Harvard Health Publishing](https://www.health.harvard.edu/blog/can-cell-phone-use-cause-adhd-2018073114375) [3], there are several behavioural patterns that can contribute to ADHD-like symptoms and either worsen a diagnosed person’s ADHD or begin to affect a healthy individual negatively. These activities include:
 
-However, this doesn’t mean that anything you bring order to will turn into a chaotic mess minutes after. The duration of time before things get messy depends on a ton of circumstances, and luckily, we have quite the degree of control over some.
+- texting
 
-For example, by creating a folder system on your computer, you can make the process of weekly cleaning much easier, since you know where everything needs to go already - you just need to move it.
+- browsing social media apps
 
-You could also think of it this way - the more often you put the small effort of cleaning up your room, the less effort it will require. Firstly, you build up the discipline and motivation to do your weekly and daily chores, and secondly, objectively you will have less to clean if you don’t let it pile up for months on end.
+- playing video games
 
-All in all, battling chaos in our lives is an ongoing battle. The lucky news is that we are the ones in control of the battlefield.
+- online shopping
+
+- streaming videos
+
+One study cited in the article put a group of 2,500+ non-ADHD teenagers through a clinical trial to show whether or not their digital activities affected their focus, energy levels and impulsiveness. The group that reported low levels of digital browsing activity retained its healthy levels of attention span. However, the group that reported high-frequency activities over the study period of 2 years had a sharp increase in their level of distractibility - on average that was about a 10% increase. Thus, according to this study, a positive correlation can be deducted between increased digital activities and technology use and ADHD-like symptoms.
+
+## Final verdict
+
+Despite the evidence suggesting that ADHD symptoms are further enhanced by technology use, scientists are not entirely sure that it is a direct correlation. Yes, frequent use of social media and the viewing of particularly short, high-intensity, vibrant pieces of media may affect the memory and attention span of users negatively in the long term, but there are many other factors that contribute to this effect as well. These include genetic predisposition to ADHD, environmental toxins like cigarette smoke or alcohol, “fast-food culture“, etc.
+
+Overall, there is a pretty strong link between the increase in usage of social media and the decreased attention span of individuals, and this is self-evident by the evolution of said media. If at the beginning of the video era, YouTube videos were considered short if they were around 5 minutes long, now you have a barrage of even shorter-form media in apps like TikTok, Instagram Reels, YouTube Shorts, and even Vine, a video-sharing platform that is now discontinued but still produced tons of iconic catchphrases.
+
+Even if ADHD cannot be directly caused by social media addiction, it is definitely not helped by it, and even non-ADHD people can develop focus-related problems because of it. So overall, as with most things in life, try to use social media in moderation and if you already show symptoms of worsening focus and motivation, consider pulling the brakes on it.
 
 ### References
 
-[1] Law of conservation of energy. (n.d.). Energy Education. https://energyeducation.ca/encyclopedia/Law_of_conservation_of_energy
+[1] American Psychiatric Association. (2017, July). What is ADHD? Retrieved January 22, 2022, from https://www.psychiatry.org/patients-families/adhd/what-is-adhd
 
-[2] Entropy. (n.d.). Encyclopedia Britannica. https://www.britannica.com/science/entropy-physics
+[2] A brief history of ADHD. (2020, July 13). WebMD. https://www.webmd.com/add-adhd/adhd-history
+
+[3] Harvard Health Publishing. (2018, July 31). Can cell phone use cause ADHD? Harvard Health. https://www.health.harvard.edu/blog/can-cell-phone-use-cause-adhd-2018073114375
