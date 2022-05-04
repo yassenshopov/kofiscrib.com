@@ -45,7 +45,7 @@ Secondly, this attempt to turn the company avatar/logo/mascot into a real human 
 
 ## Spreading yourself too thin
 
-This point relates to the topic of narrowing down your niche. At the beginning of a brand’s lifetime, it is normal for some “soul-searching” to take place. Content creators don’t always have the clearest idea of what their brand should be and look like, and many people tend to have so many intertwined interests, as well. 
+This point relates to the topic of narrowing down your niche. At the beginning of a brand’s lifetime, it is normal for some “soul-searching” to take place. Content creators don’t always have the clearest idea of what their brand should be and look like, and many people tend to have so many intertwined interests, as well.
 
 And when you’re just starting out, it’s normal, but it leads to the effect of you spreading yourself too thin and not being able to focus in a specific set of niches.
  

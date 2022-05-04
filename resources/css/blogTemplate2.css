@@ -83,10 +83,19 @@ article section {
     flex-direction: column;
 }
 
+
+article section .imgContainer {
+    display: flex;
+    flex-direction: column;
+}
+
 article section img {
     width: 100%;
     margin: 20px 0 40px 0;
+    left: 50%;
 }
+
+
 
 article figure {
     margin: 0;
