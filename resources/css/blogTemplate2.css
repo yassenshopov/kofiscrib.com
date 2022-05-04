@@ -51,12 +51,12 @@ article h1:hover {
 article h2,h3 {
     font-family: var(--font-family-h);
     font-size: var(--font-size-h2);
-    margin: 40px 0 40px 0;
+    margin: 20px 0 40px 0;
 }
 
 article p {
     font-size: var(--font-size-p);
-    margin: 0 0 35px 0;
+    margin: 0 0 25px 0;
     line-height: 1.7;
 }
 
@@ -86,6 +86,10 @@ article section {
 article section img {
     width: 100%;
     margin: 20px 0 40px 0;
+}
+
+article figure iframe {
+    margin: 50px 0 0 0;
 }
 
 aside {

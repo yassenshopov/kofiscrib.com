@@ -14,7 +14,7 @@ It is an unpopular part of the New Year’s resolutions process, but it is proba
 
 You can never be sure of the progress you’re making if you’re not reflecting on it. And while many self-help gurus would recommend waking up every day and spending an hour visualising your biggest victories, etc., I believe it is more practical to just spend some time on a routine basis reflecting. What I do is that I log some of my data (sleep, weight, exercise) daily, I reflect on my schedule and projects weekly, I think of my more long-term progress monthly, and I also do quarterly and annual reviews when time comes to really make sure I’m still aligned with what my philosophy was months ago.
 
-Usually, I’ll keep a table of my projects that will get updated over time, like the one in the illustration above. All this info gets added up automatically by the app I use, Notion, in the end of the year into my Annual Review page.
+Usually, I’ll keep a table of my projects that will get updated over time, like the one in the illustration above. All this info gets added up automatically by [the app I use, Notion](https://kofiscrib.com/blog/creative-virgo/notion), in the end of the year into my Annual Review page.
 
 Here is a list of the things I generally reflect on before moving on to the new year with my resolutions:
 
