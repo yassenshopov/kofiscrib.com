@@ -29,6 +29,13 @@ article {
     word-wrap: break-word;
 }
 
+article img {
+    display: block;
+    justify-self: center;
+    align-self: center;
+
+}
+
 article h1 {
     font-family: var(--font-family-h);
     font-size: var(--font-size-h1);
@@ -69,6 +76,11 @@ article a:hover, aside a:hover {
 article #meta {
     margin: -20px 0 70px 0;
     color: rgba(22, 22, 22, 0.489);
+}
+
+article section {
+    display: flex;
+    flex-direction: column;
 }
 
 article section img {
