@@ -268,11 +268,10 @@ header {
     height: 0%;
     width: 100%;
     position: fixed; /* Stay in place */
-    z-index: 1; /* Sit on top */
+    z-index: 10; /* Sit on top */
     left: 0;
     top: 0;
-    background-color: #f5f5f0; /* Black fallback color */
-    background-color: #ffffff; /* Black w/opacity */
+    background-color: #111111; /* Black w/opacity */
     overflow-x: hidden; /* Disable horizontal scroll */
     overflow-y: hidden;
     transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
@@ -294,7 +293,7 @@ header {
     margin-bottom: 15px;
     text-decoration: none;
     font-size: 36px;
-    color: #121212;
+    color: #fafafa;
     display: block; /* Display block instead of inline */
     transition: 0.3s; /* Transition effects on hover (color) */
 }

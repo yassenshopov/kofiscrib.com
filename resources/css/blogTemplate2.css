@@ -29,6 +29,14 @@ article {
     word-wrap: break-word;
 }
 
+article #backArrow {
+    position: relative;
+    font-size: 30px;
+    text-decoration: none;
+    line-height: 60px;
+    top: -20px;
+}
+
 article img {
     display: block;
     justify-self: center;
@@ -95,8 +103,6 @@ article section img {
     left: 50%;
 }
 
-
-
 article figure {
     margin: 0;
 }
@@ -136,8 +142,10 @@ aside a {
 }
 
 aside .recs {
+    align-self: center;
     padding: 0;
     height: max-content;
+    width: 90%;
 }
 
 aside .recs img {

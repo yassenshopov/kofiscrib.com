@@ -1,16 +1,54 @@
 var click = true;
+var click2 = true;
+var click3 = true;
+var click4 = true;
 
 function animate_menu(x) {
     x.classList.toggle("change");
     click = !click;
     if (click == false) {
         document.getElementById("myNav").style.height = "100%";
+        document.getElementById("bar1").style.backgroundColor = "#ffffff";
+        document.getElementById("bar2").style.backgroundColor = "#ffffff";
+        document.getElementById("bar3").style.backgroundColor = "#ffffff";
         document.body.style.overflowY = "hidden";
     } else {
         document.getElementById("myNav").style.height = "0%";
+        document.getElementById("myNav2").style.height = "0%";
+        document.getElementById("myNav3").style.height = "0%";
+        document.getElementById("myNav4").style.height = "0%";
+        document.getElementById("bar1").style.backgroundColor = "#000000";
+        document.getElementById("bar2").style.backgroundColor = "#000000";
+        document.getElementById("bar3").style.backgroundColor = "#000000";
         document.body.style.overflowY = "visible";
     }
-    
+}
+
+function overlayMenu2() {
+    click2 = !click2;
+    if (click2 == false) {
+        document.getElementById("myNav2").style.height = "100%";
+    } else {
+        document.getElementById("myNav2").style.height = "0%";
+    }
+}
+
+function overlayMenu3() {
+    click3 = !click3;
+    if (click3 == false) {
+        document.getElementById("myNav3").style.height = "100%";
+    } else {
+        document.getElementById("myNav3").style.height = "0%";
+    }
+}
+
+function overlayMenu4() {
+    click4 = !click4;
+    if (click4 == false) {
+        document.getElementById("myNav4").style.height = "100%";
+    } else {
+        document.getElementById("myNav4").style.height = "0%";
+    }
 }
 
 function switchMenu1() {
