@@ -1,19 +1,19 @@
 
 footer {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     height: 120px;
     background-color: #141414;
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    bottom: 0;
+
     flex-wrap: wrap;
 }
   
 footer p {
     order: 1;
-    text-align: left;
+    text-align: center;
     font-family: "Open Sans";
     font-size: 14px;
     width: 50%;
@@ -54,6 +54,20 @@ footer #icons {
 
 @media screen and (max-width: 800px) {
     footer {
-        flex-direction: column-reverse;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 115px;
     }
+
+    #icons {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    footer p {
+        width: 80%;
+        font-size: 18px;
+    }
+
 }
