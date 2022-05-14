@@ -99,7 +99,6 @@ header {
   
     transition: 0.8s;
     -webkit-transition: 0.2s;
-  
 }
   
 .dropMenu1 a {
@@ -243,13 +242,13 @@ header {
     transform: rotate(45deg) translate(-8px, -10px);
 }
   
-
 @media screen and (max-width: 1007px) {
     .topnav, .dropMenuContainer1, .dropMenuContainer2, .dropMenuContainer3 {
       display: none;
     }
     .mobile_menu {
       display: block;
+      position: absolute;
     }
     .logo {
         padding-left: 10px;

@@ -41,7 +41,13 @@ article img {
     display: block;
     justify-self: center;
     align-self: center;
+}
 
+article .imgLink {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 article h1 {
@@ -68,7 +74,7 @@ article p {
     line-height: 1.7;
 }
 
-article a, aside a {
+article a, aside a, figure a, #linksLR a {
     color: var(--font-color-a);
     text-decoration: none;
     font-weight: bold;
@@ -76,7 +82,7 @@ article a, aside a {
 }
 
 
-article a:hover, aside a:hover {
+article a:hover, aside a:hover, figure a:hover, #linksLR a:hover {
     color: rgb(106, 55, 247);
     text-decoration: underline;
 }
@@ -159,6 +165,51 @@ aside .recs img:hover{
     filter: saturate(1.9) brightness(0.8);
 }
 
+#youTube {
+    display: block;
+    width: 55%;
+    margin-left: 7%;
+    padding: 30px;
+    border: 0px solid black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    height: fit-content;
+    box-shadow: 0px 0px 20px rgba(41, 41, 41, 0.199);
+
+    font-family: var(--font-family-p);
+    font-size: 18px;
+}
+
+#youTube iframe {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+#linksLR {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-bottom: 50px;
+    justify-content: space-around;
+    margin: 20px 20px 50px 20px;
+}
+
+#linksLR a {
+    width: 40%;
+    padding: 30px;
+    border: 0px solid black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    height: fit-content;
+    box-shadow: 0px 0px 20px rgba(41, 41, 41, 0.199);
+    font-family: var(--font-family-p);
+    font-size: 20px;
+}
+
+#linksLR a:nth-child(2) {
+    text-align: right;
+}
+
 @media screen and (max-width: 800px) {
     :root {
         --font-size-h1: 40px;
@@ -171,7 +222,6 @@ aside .recs img:hover{
 
     main > * {
         width: 90%;
-
     }
 
     aside #toc {

@@ -3,11 +3,11 @@ footer {
     display: flex;
     flex-direction: column;
     height: 120px;
+    width: 100%;
     background-color: #141414;
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-
     flex-wrap: wrap;
 }
   
