@@ -28,9 +28,9 @@ Oftentimes, the planning of a task is much more enjoyable than doing it. Plannin
  
 However, just knowing for a fact that our brains function better in the presence of novelty isn’t enough. What often helps in our work processes is recognizing it as a fact and taking active action to make sure we have enough novelty. This way we can counteract the boredom effect and stop our habits from changing so rapidly. It’s an ongoing struggle, but a pretty petty one, and one that can be easily beaten with a good strategy. So, ditch the idea that your desk would ever be perfect, and try to introduce some novelty every now and then. Not because it would finally make your desk your safe haven, but because your brain needs the shiny new thing to focus.
 
-There are no permanent solutions to dynamic systems
+## There are no permanent solutions to dynamic systems
 Why do your habits keep changing? The search for novelty
-As you may or may not know, I am a big Notion fan. Notion is a productivity app that lets you create your own systems and store your notes. The fun part is that it is very customizable, so you can play around with it forever and redesign it as many times as you want.
+As you may or may not know, [I am a big Notion fan](https://kofiscrib.com/blog/creative-virgo/notion). Notion is a productivity app that lets you create your own systems and store your notes. The fun part is that it is very customizable, so you can play around with it forever and redesign it as many times as you want.
 
 In the beginning, though, I was a tiny bit intimidated by this type of app. I wanted to have the perfect set-up, and it was just never really perfect. There were always some things that I wanted to change, so I did, which then inspired completely new projects, which I started. It seemed like managing this delicate system of an app pristine was harder than it was useful, so I think I dropped Notion for few months. 
 
