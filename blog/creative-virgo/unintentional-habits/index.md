@@ -1,75 +1,51 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+If you’re reading my blog series, the chances of you being willing to take control of your life are rather high.
 
-Oh, my sweet summer child.
+However, as much as we want to pursue control in all spheres of our lives, sometimes we just fall victims to our old habits and spiral out of the so-desired control. As James Clear, author of “Atomic Habits” said:
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
-
-⚠️ Your notes are all over the place.
-
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
-
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
 
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+> “You do not rise to the level of your **goals**. You fall to the level of your **systems**“
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+This is the reason why most people don’t stick with their New Year’s resolutions, among other things. It’s one thing to say you will exercise every day of 2021, and a completely another thing to go out and actually lift the heavy weights and run the distance. Goals are supposed to serve as a general direction for our efforts, but instead, we use them as a substitution for the effort itself. It is much easier and, well, more pleasant to dream about getting the 6-pack abs than to actually diet and train your core.
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+If you imagine your life as a machine of your own making, it would work like this. 
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+1. You create all those systems and automation to keep your progress in check (setting up habits, reminders, getting accountability buddies, putting deadlines on projects)
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+2. You put the effort without relying on extrinsic motivation  too heavily
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
+3. You “maintain“ your systems by comparing your results with your expectations
 
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
- 
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+This sounds like a perfect plan, except that it assumes one thing - that you can detach yourself emotionally from the process and just act on the things you have set out to do. 
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+However, this often proves difficult.
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+And it’s exactly those little habits that we don’t take care of that tend to derail us. When we leave the small gaps in our time go by, we tend to lose control, and thus - we lose motivation. Small unintentional habits can very easily stack. One random scroll in Instagram in between writing sessions may turn into an unhealthy social media addiction, which results in worsened focus, which results in even more time spent scrolling. This is not to say that social media is forbidden and that one minute of scrolling will ruin your life, but it serves to show how easy it is to train yourself into unhealthy habits without your own consent. 
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
+## Minutes in-between task switching
+Different tasks engage different parts of our brain, so this makes the concept of multitasking seem even more impossible. However, even if you partake in the absolutely logical act of, well, switching between tasks, you immediately take a risk.
 
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
+When you finish one task, your brain wants its dopamine, especially before beginning another hard or exhausting task. And it’s in those few minutes between tasks that are the perfect time for you to distract yourself with unintentional habit stacking. 
 
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
+How can we fix that?
 
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
+If you don’t want to engage in unwanted behavior, you should choose a default activity to go to in between your main tasks. Whether it be some book reading for a few minutes, or a talk with a friend, or a walk, you should have a set of pre-chosen activities to default to.
 
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
+The second part of the solution is to increase the distance between you and the bad habits. Get away from your phone, put timers on your social media apps, get a few steps away from the fridge.
 
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
+## Compound interest
+Unintentional Habit Stacking - How it can make or break you
+A term that comes from finances and statistics, compound interest is “is the interest on a loan or deposit calculated based on both the initial principal and the accumulated interest from previous periods”. In the world of habit building, this can be translated as the following - the repetitive actions you take in a particular direction get easier every day and bring more and more benefit the longer the habit lasts.
 
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
+This can be valid both for good and bad habits. If you, say, smoke every day, the first few cigarettes won’t cause long-term damage by themselves. But the compounding number of unhealthy substances in your organism, the increasing levels of addiction, and the decrease in willpower all make it harder, and even impossible to quit years down the line.
 
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
 
  
-As for the weekly review I personally do, it consists of the following points:
+And when the compound interest occurs on an unintentionally stacked habit, the damage is even bigger. Since you don’t realize how those habits find their way into your lifestyle, since they are relatively unintentional, it becomes harder to defeat them. Things like nail-biting when you are anxious, stress-eating, etc.
 
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
+## Make you or break you
+As mentioned a few times above, all rules that apply to habits are the same for both good and bad habits. Unintentional habits can be a good thing when nudged gently in the right direction.
 
-- Listing my accomplishments for the week.
+The existence of so-called “corner-stone” habits is crucial. Many people start exercising for vain purposes, or for the sake of exercising alone. However, after getting into the intentional habit of exercising and training physically, it gets easier to shift into a healthier mindset - you tend to eat better, implement more efficient routines in the gym, take care of your sleep schedule. The intention was never to achieve all these things so fast, but the powerful habit of working out can make it much easier.
 
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+So, choose your intentional habits wisely, and take precautions so as to not let your unintentional habits break you.
