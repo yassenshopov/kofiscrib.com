@@ -1,75 +1,53 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+Once you start getting more and more into the realm of productivity, you eventually come to a crossroad:
 
-Oh, my sweet summer child.
-
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
-
-⚠️ Your notes are all over the place.
-
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
-
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
-
+Should I prioritize my calendar or my to-do list? And how to structure them in such a way that they both work out?
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+Even if you haven’t reached this point yet, well, welcome, I will make you think about it right now.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+Many people tend to do one out of two scenarios when managing tasks. 1. They structure their day by “events” that they have to attend, like classes, lectures, meetings, appointments. 2. They write a list of tasks that they check off one by one as the day goes. Of course, both have their place and time and are needed for a working system to emerge.
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+In this article, I’ll show you the way I structure my productivity system, which basically boils down to a calendar and a to-do list. I’ll go through the pros and cons of using either one exclusively, and then you’ll see how using them side-to-side is quite a bit more efficient.
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+## Events (Time)
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+This is probably the way most people are used to structuring their time. It’s no wonder really. Since the 1st grade, we’ve been exposed to a schedule of some sort, and it is only natural that we will continue running a schedule when we have a job or are studying in university.
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
-
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
+Many people don’t even recognize that they are using a productivity app, and that is namely Google Calendar, or maybe the default calendar app on your phone. But it is, and it can be quite powerful when used correctly.
  
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+Some ways in which the calendar app can be useful are: setting reminders for events, setting up recurring events, managing meetings wuth multiple busy people, and so on.
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+The only way in which I can see it as a limiting factor is if you don’t go into enough detail.
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+Guess which event name in Google Calendar is the better one:
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
+1. Studying
 
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
+2. Take notes on chapters 1-3 of Subject X
 
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
+Of course it’s option 2, even if it takes 5 more seconds to type it out. There are several things that make option 2 the better one, including - using an “action word” (Take notes), being specific, knowing when to start and end the task.
 
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
+## To-do’s (Tasks)
 
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
+Now this is where it gets a bit tricky. Some people are reluctant to write to-do lists because they don’t want to seem too pompous and pretentious for trying to get their life in order.
 
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
+Yet, writing a to-do list with literally everything you got going on in your life is proven to cleanse your mind of the negative thoughts that clutter it. Each to-do or task serves as a next stepping stone in your journey. And what is more, it is one more weight off your shoulders, since you don’t need to think about it no more - you simply need to do the task.
 
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
+The main con with a to-do list is that it can easily become an infinity pool. An infinity pool describes an endless stream of content, in this case, tasks.
 
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
+Especially if you have the need to finish everything from this to-do list in the same day, before the lock strikes midnight, it can be a real headache. A realistic to-do list offers some wiggle-room, and you can postpone a task for tomorrow.
 
-3. Put in events continuously as you go along. 
+However, since in the list tasks are written in, well, a list, this can lead to some visual confusions.
 
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
+1. All tasks seem equal in weight, which is misleading.
 
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
+2. You can have an unrealistic sense oh how much you can achieve in a day
 
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
+And in order to overome those challenges, I present a solution…
 
- 
-As for the weekly review I personally do, it consists of the following points:
+… and that is to add small to-do lists to your calendar events!
 
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
+What I do is I take my big to-do list for the day/week and put the tasks that are fixed in time as calendar events, and that’s it for them. Then I take the longer ones, and the ones that are not fixed in time and I create events for them as well, in fitting periods of time. And most importantly, I add a smaller to-do list in the harder tasks. 
 
-- Listing my accomplishments for the week.
+As said, “Write an essay” is not the best title for an event. But a series of tasks, like 1. Write the title 2. Write the abstract, 3. Write some bullet points, can be tons more helpful.
 
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+In the end, it’s all about repetition and readjusting your aim, so go ahead and experiment! I’m sure you’ll find your truth somewhere.
