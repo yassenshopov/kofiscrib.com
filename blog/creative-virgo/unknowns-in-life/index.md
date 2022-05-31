@@ -1,75 +1,27 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+> “If you're stuck on a problem, don't sit there and think about it; just start working on it. Even if you don't know what you're doing, the simple act of working on it will eventually cause the right ideas to show up in your head.” - **Mark Manson**
 
-Oh, my sweet summer child.
+This quote makes the process of problem-solving seem almost stupidly easy. You take a given problem, struggle with it, and it will at one point be solved. Sounds easy enough, like a math equation with just one variable.
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+That is the reality when there is just a single problem at hand.
 
-⚠️ Your notes are all over the place.
+Life, however, loves to throw problems at us a few at a time. This means that often we have to juggle with our social insecurities, career problems, and more, all at the same time, while also trying to move forward in life. What usually happens is we try to single out a problem, which leads us to neglect the others, possibly until they grow out of control.
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+## Variables
+A variable, in the context of life situations, is any factor outside of your immediate control. Those variables can include the weather outside, the way people will behave, etc. 
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
-
+However, the more important examples of “variables” are the things currently outside of our comfort zone, which we realize are obstructing our way to greatness. They can include skills that are still unexplored by us, life philosophies, fields of study that we have yet to master.
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+The reason we would categorize a given area of life as a variable is the number of unknowns it contains. The less we know about a given thing, the more unsure and uncertain we grow, and the less inclined we are to actually engage in whatever the thing is, even if it is presumable beneficial to us. It’s the reason why many people never even approach investing, because it is such a black box to them and sounds so complex from the outside that they find it hard to even passively absorb information about it. Many people tend to stick to toxic and unhelpful routines simply because it’s all they know, and changing that up would be a major blow to their sense of control over their own lives.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+> “People will choose unhappiness over **uncertainty**.” ― Timothy Ferriss, **The 4-Hour Workweek**.
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+Does this mean though that we are bound to always fall back into known patterns and never achieve personal growth? Of course not.
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+We, as humans, may be naturally inclined to stay in our comfort zones, but life throws us into so many different situations that want it or not, you’ll be subjected to discomfort one way or another. So, why not get prepared, instead of considering every slight discomfort an attack on our day-to-day life?
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+## The helpful fix
+The way I have taught myself to think of the variables and unknowns in life is to consider literally everything **figureoutable**. With the power of the Internet, other people, past experience, and a good hunch, there are barely any skills (other than the innate ones, I guess) that are unobtainable by a normal person with Internet access.
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
+Think about it, none of the things you currently know how to handle were you able to do from birth. You managed to learn everything you currently know, and you for sure will learn a lot of stuff in the future as well. This type of positive mindset unlocks the world for you, by allowing yourself to be a beginner at anything. 
 
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
- 
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
-
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
-
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
-
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
-
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
-
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
-
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
-
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+All in all, any skill can be considered a sum of variables, but not all of those variables are unknowns. Some of them stem from your past experience, and thus become, well, *knowns*. You start piecing together the puzzle one by one, and you figure out that what started as a system of 100 unknown variables has just a few completely unknown pieces. The rest of the things are either completely known, recognizable, known by a person you know, found on the Internet, etc. It’s all about the will to figure the rest out now.
