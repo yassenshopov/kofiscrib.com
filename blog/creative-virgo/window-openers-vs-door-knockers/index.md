@@ -1,75 +1,49 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+**dopamine** \[*ˈdəʊpəmiːn*\], **noun** - a compound present in the body as a neurotransmitter and a precursor of other substances including adrenaline. Responsible for allowing you to feel pleasure, satisfaction, and motivation.
 
-Oh, my sweet summer child.
+With science having advanced a lot in the past decades, the role of the different neurotransmitters in the brain has been well-researched. It’s become clear that a lot of our emotions can be boiled down to a series of chemical reactions in the brain. 
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+Which, I reckon, is awesome.
 
-⚠️ Your notes are all over the place.
+Because that means that we no longer need to rely on guesswork and spirituality to know why we feel the way we feel. It’s not a 100% trustworthy strategy, but it’s a useful distinction to know that you’ve been scrolling Instagram for hours because you need more dopamine, rather than because you are “lazy and unmotivated”.
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
-
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
-
+And if you [monitor yourself frequently and qualitatively enough]("../monitor yourself frequently and qualitatively enough"), you’ll start to notice trends in your behavior. For example, usually, when I sit down to have lunch, I start feeling groggy and sleepy, which makes me more prone to distractions and it’s usually not the best time to do my “deep work” for the day.
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+How does all that neurochemistry tie in with the title, you may ask?
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+Well, dopamine turns out to be this huge trigger for our decision-making and action-taking. If we suddenly became numb to dopamine, we would hardly do anything, even eating wouldn’t seem exciting, because there is no “excitement” in our brains anymore. Dopamine makes us associate a given task with its reward, and makes us more prone to actually doing it.
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+Yet, this has two sides.
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+## Window-openers
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+Some people fall for this negative feedback path, where they grow more and more impatient, and it becomes harder for them to do difficult and time-consuming tasks unless they see a grand reward on the other end. And even if there is such a reward, they can’t always get themselves motivated enough to reach it. This, as you may guess, makes it incredibly hard for them to reach any of their long-term goals.
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
-
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
+These people are the so-called window-openers. It uses the metaphor of a window and a person looking behind it. Windows are transparent, and thus you’re able to see what’s on the other side. A window-opener type of person is only likely to open the window (put in the effort) if they see something interesting (a reward) on the other side.
  
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+Now, this is not a bad thing 100% of the time, because if we didn’t seek rewards, we would fall prey to endlessly doing tasks that are of no value to us. Knowing the purpose of a given activity is very important, and shouldn’t be underestimated. Otherwise, we’re likely to grow old and regret, let’s say, working in a certain position all our lives because we never sought a higher purpose.
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+However, as with any extreme, it is easy to go radical on it. If you only do the things you think will have an immediate reward, that would only limit you further on. One of the most important skills in our age of overconsumption and information overload is being able to focus, and we are slowly but surely shortening our attention spans. Due to the effects of social media, among other things, we are growing more and more impatient, and we tend to simply not do or loathe doing the harder things on our to-do lists.
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+This impatience may seem irrelevant, but it can surely affect you long-term.
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
+Imagine how you are offered something very rewarding like writing a book, a high-paying position at your company, 6-pack abs. There’s a logical catch though - you’ll need to work your butt off first, without even getting close to the reward for a long while. The more you lean into the window-opener mindset, the less likely you are to accept such a challenge, because of how little patience you have.
 
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
+And here’s where the more productive mentality comes in.
 
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
+## Door-knockers
 
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
+To better explain the door-knocker mindset, imagine a door-to-door salesperson. You know, those people in American 90s sitcoms that go from door to door and offer their services to those that open. Those are the same salespeople that often get the door closed in their face, or don’t get it to open at all.
 
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
+But those are the people who have a much higher exposure to the possibility of hitting the jackpot.
 
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
+Because once the door is open, it’s your chance to shine and win over a new customer. Sometimes those customers bring in other customers. And just one success may be all you need to kickstart your career and skyrocket. Even if it is not as easy, by increasing the total number of tries you go for, you substantially increase your chances of those tries being successful.
 
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
+Door-knocking in the 21st century can take many forms. You could be cold-emailing a bunch of potential clients, you could be self-promoting on social media or at public events. Or you could just be building your portfolio publicly, on your personal website, for people to see in real-time and maybe use your services in the future.
 
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
+It boils down to increasing your success rate in any endeavor by increasing the overall attempts you go for. Yes, this ultimately means failing a lot more too, but that’s just the jazz.
 
-3. Put in events continuously as you go along. 
+This is where a lot of the sayings like “A winner has fallen more times than the loser has ever tried” come from. And as cliché as they sound, there is some fundamental truth to them.
 
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
+Door-knockers are much more likely to stick with a difficult task or long-term project because they trust their ability to end up successful and eventually get the reward the window-openers strive for so much.
 
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+So all in all, in order to achieve your long-term goals and stay motivated during the long grind, you need to readjust your thinking to that of a door-knocker. In the end, you still end up with the reward the window-openers go for, but at a bigger scale, because you were able to stick with the process.

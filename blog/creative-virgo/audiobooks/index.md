@@ -1,75 +1,76 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+What started as another way for boomers to mock millennials (“Look at them charging their books!”) is now an evergrowing trend. Audiobooks and e-books have taken the markets by storm and it’s become rare for a popular book to not become an audiobook at some point. 
 
-Oh, my sweet summer child.
+They have grown so popular that apparently [they now make up around 1/3 of all book sales in the USA]("https://www.statista.com/statistics/289266/distribution-of-audiobook-sales-by-genre").
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
-
-⚠️ Your notes are all over the place.
-
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
-
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
-
+And yet, many people still stick to the classic paperbacks. Not that it’s a bad thing, we can all agree that it’s a very enjoyable activity to sit with a good book and simmer in the experience.
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+But since our lives have been growing more and more chaotic, there remains little room for reading. So even if people know all the reasons to read more as a rule of thumb, a lot of them simply don’t.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+And that’s where audiobooks come in to make it easier for you to make the switch from a non-reader to an avid reader.
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+I have been dabbling with audiobooks since the beginning of the year and so far I have read (more like, ‘listened to’) 8-10 books, a few of which I didn’t finish or am yet to finish. I can say first-hand, as a young adult who used to read a lot when I was a kid, audiobooks have really transformed me and brought back the joy of getting deep into a storyline and world unlike our own.
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+The list of benefits is long, and some of the benefits you would get even if you read normal paper books. So if you are still on the verge between normal books and audiobooks, read ahead, here’s a list of 7 reasons to make the switch.
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+## 1. Your hands get free again
+As minuscule as this sounds, it’s one of the main reasons why people get started with audiobooks in the first place. While nothing can replace the texture of paper on your fingertips and the overall vibe it gives (unless they invent Kindles with an authentic book smell), there are many reasons why one would actually prefer an audiobook. 
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
-
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
+The ability to listen to a story wherever you are, online or offline, while commuting, in the gym, while walking the dog, is huge. You suddenly get so much time, in my case around 2 hours a day, for reading. Time that can be spent multitasking, that is.
  
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+It’s a great way to keep yourself intelectually stimulated without needing a dedicated hor for it. What is more, it’s excellent for disabled people, or people who otherwise find it difficult to sit down with a book for a prolonged period of time.
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+## 2. Your ADHD Brain takes off
+Now, this may be the main reason why I took a personal liking to audiobooks overall.
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+When we transitioned to online university this academic year, I had a magical revelation - I can increase the speed of the pre-recorded videos. Instantly, hour-long videos could now be watched much faster, and it trained me to get used to even bigger watch-speeds.
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
+I do the same thing with audiobooks, and now I’m able to go through long descriptions in fantasy books much faster, while still retaining the information.
 
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
+## 3. Takes the place of YouTube/Spotify/Netflix
+If you’re like me, you’re probably already with your headphones on. I’m used to always listening to something, either for entertainment (YouTube), or for educational purposes (Spotify).
 
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
+Since I’m using Audible though, I have brought diversity to my listening habits, and now I can replace my mindless streaming of content with a bit more mindful practices.
 
+Of course, this isn’t something you should overuse, since your brain is already burdened with information overload. But if you have to choose, it’s probably a better thing to choose a book over another silly compilation video. 
+
+## 4. Increases your creativity
+
+When you’re exposed to information, you are either directly consuming it, or it’s running in the background. 
+
+It may seem counter-intuitive, but it’s often not the best tactic to focus directly on stuff. Oftentimes, especially if you are trying to produce creaitve content, you need to enter the so-called ‘diffused mode of thinking’. This is when your brain works on problems in the background, and doesn’t require active thinking to produce results. It is the same event that occurs when you get a shower thought - you are doing a relatively mindless task, and you brain gets left free to roam and think up new ideas.
  
-So what do we do when we want to get somewhere? We take out the roadmap.
+You’ll see for yourself, you’ll find yourself clinging to random phrases from audiobooks which can later result in great ideas.
 
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
+## 5. Teaches you to listen carefully
 
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
+It has been well-known for quite a while that some people are more well-tuned to be auditory learners than others. However, with more and more information coming out each day, it becomes crucial that we are all able to take in content in more than one form.
 
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
+For example, I need to visualise concepts in order to really understand them, which often takes me pen and paper. However, this is not always accessible, and I needed to find a way to activate my imagination better.
 
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
+This is where audiobooks come to the rescue. They have really helped me visualise scenes in my head more vividly, and since I mainly listen to audiobooks that are non-fiction, it really pushes me to become more of an auditory learner.
 
-3. Put in events continuously as you go along. 
+## 6. Makes it easier to read more
 
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
+It may not be the most important stat on your list, but it’s heavily linked with higher success. The more book titles you get under your belt, the higher your chances of actually implementing this accumulated knowledge.
 
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
+Audiobooks, especially with their ability to increase the speed of reading, make it much easier to get more books read in a short period of time. Yes. the quality of knowledge retention may be decreased, but that is compensated by the sheer quantity of books you get to experience.
 
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
+What is more, audiobooks tend to be cheaper than actual paper books, so you should take that into consideration.
 
- 
-As for the weekly review I personally do, it consists of the following points:
+*Quick tip*: try to always have 2 books on standby at the same time, so when you get bored of one, you can go to the other, and vice versa.
 
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
+## 7. Makes it more immersive
 
-- Listing my accomplishments for the week.
+And as a final note, for the fiction-enjoyers out here, audiobooks make for a more immersive experience.
 
-- Tracking my progress on my projects.
+The narrators tend to be very professional, and unless you’re especially unlucky, you’ll get to hear a very unique and believable telling of your favourite stories. The whole audiobook-ifying process for normal fantasy books is amazing, since for us readers it’s almost like a movie being brought to life. The fantasy series I’m currently reading is being narrated so well, the narrator even switches between accents for the non-UK characters, and that makes it even easier to follow along.
 
-- Getting ready with the event for the next week.
+### Some recommendations for audiobooks to get you started
 
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
+Here are some personal recommendations to inspire you to make the switch to audiobooks, and are all amazing books by themselves.
 
-Hope you feel a tad bit less stressed out after reading this blog.
+1. [Sapiens: A Brief History of Humankind - Yuval Noah Harari]("https://www.amazon.com/gp/product/0062316117/ref=as_li_qf_asin_il_tl?creative=9325&creativeASIN=0062316117&ie=UTF8&linkCode=as2&linkId=cbc87b62b40eeccaf9eff83c2c93cb04&tag=kofiscrib-20")
+
+2. [Digital Minimalism: On Living Better with Less Technology - Cal Newport]("https://www.amazon.com/gp/product/B07DBRBP7G/ref=as_li_qf_asin_il_tl?creative=9325&creativeASIN=B07DBRBP7G&ie=UTF8&linkCode=as2&linkId=c56c0896e1768a3db7059c24a3e2c0e6&tag=kofiscrib-20")
+
+3. [Lifespan: Why We Age―and Why We Don't Have To - David Sinclair]("https://www.amazon.com/gp/product/1501191977/ref=as_li_qf_asin_il_tl?creative=9325&creativeASIN=1501191977&ie=UTF8&linkCode=as2&linkId=4255b3a7bcf1ca8ffd1928a934bdb5bb&tag=kofiscrib-20")
