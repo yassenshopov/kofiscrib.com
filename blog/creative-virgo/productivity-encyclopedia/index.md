@@ -1,75 +1,93 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+There’s been a noticeable upward trend in the creator economy in recent years. More and more people raise their voices on different issues, and one of the topics that I find more and more content about every day is *productivity*.
 
-Oh, my sweet summer child.
-
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
-
-⚠️ Your notes are all over the place.
-
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
-
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
-
+The content can even get overwhelming for the average productivity-nerd, with so many new and old ideas blending together into one really efficient and a bit scary mess.
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+This is why I knew it was about time for this article to come to the rescue.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+It happens very often that I want to recommend certain tactics or frameworks to my friends who aren’t as deep into the productivity spaces as I am, and it’s often a hard task to find the best video or article. Plainly, there are many YouTubers with different videos on the same topics. And it’s hard to choose a winner.
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+So if you fall under one of the following categories:
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+1. You’re a productivity nerd who wants to see if there’s a strategy/app/system they don’t know about
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+2. You’re a student/newcomer and you wonder where to get started
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
+3. You want to explore a rich recommendation list of helpful topics
 
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
- 
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+… then this is the article for you! I’ve divided all my recommendations into several categories, so go browse them all to find what interests you. All links are tested and are working, and they’ll lead you to articles, YouTube videos and channels, websites, and so on.
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+## Productivity Systems & Frameworks
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+“[The Secret to Learning Any Skill Faster](https://www.youtube.com/watch?v=FbD8n4J_MuM)” - Thomas Frank 
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
+“[How to Focus on Your Work - 3 Lessons from “Hyperfocus](https://www.youtube.com/watch?v=0ZfLwXF22l4)" - Thomas Frank
 
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
+“[The best way to tame your overwhelming to-do list](https://www.youtube.com/watch?t=633s&v=zfnvbw4s9CA)” - Thomas Frank
 
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
+“[How I Organize My Life - the LAZI Productivity System](https://www.youtube.com/watch?v=Bry8a_7b9aM)” - Ali Abdaal
 
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
+“[The Creativity Faucet](https://www.julian.com/blog/creativity-faucet)” - Julian Shapiro
 
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
+“[7 Strange Questions That Help You Find Your Life Purpose](https://markmanson.net/life-purpose)” -Mark Manson
 
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
+“[4 Rules To Help Increase Your Productivity](https://www.youtube.com/watch?t=707s&v=yXohcxCKqvo)” - Matt D’Avella
 
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
+“[My Simple Productivity System](https://www.youtube.com/watch?v=BtiQvhQF8IA)” - Matt D’Avella
 
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
+“[How To Be More Productive by Working Less](https://markmanson.net/how-to-be-more-productive)” - Mark Manson
 
-3. Put in events continuously as you go along. 
+## Mental Models
 
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
+“[Perfectionism is destroying your productivity](https://www.youtube.com/watch?v=rGNa1nl3X4U)” - Thomas Frank
 
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
+“[30 mental models to add to your thinking toolbox](https://nesslabs.com/mental-models)” - Ness Labs
 
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
+“[Mental Models: Learn How to Think Better and Gain a Mental Edge](https://jamesclear.com/mental-models)” - James Clear
 
- 
-As for the weekly review I personally do, it consists of the following points:
+“[Mental Models: Examples](https://www.julian.com/blog/mental-model-examples)” - Julian Shapiro
 
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
+## Beat Procrastination
 
-- Listing my accomplishments for the week.
+“[How to Stop Wasting Time - 5 Useful Time Management Tips](https://www.youtube.com/watch?v=xwsLuxlbY2w)” - Thomas Frank
 
-- Tracking my progress on my projects.
+“[6 Ways to Reduce Screen Time](https://www.youtube.com/watch?v=XQQUo2gmUs4)” - Matt D’Avella
 
-- Getting ready with the event for the next week.
+“[How To Beat Procrastination](https://www.youtube.com/watch?v=RP0oVOH4Zz4)” - Ali Abdaal
 
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
+## Studying + Note-taking
 
-Hope you feel a tad bit less stressed out after reading this blog.
+“[How To Stay Focused For Long Periods Of Time (even on boring things)](https://www.youtube.com/watch?t=343s&v=LE8mNTJOYmQ)” - Joey Schweitzer
+
+“[How to Study for Exams (evidence-based revision tips)](https://www.youtube.com/watch?v=ukLnPbIffxE)” - Ali Abdaal
+
+“[Study Tips - How to Learn New Content](https://www.youtube.com/watch?v=fBXnxlLR0PY)” - Ali Abdaal
+
+“[How I Remember Everything I Read](https://www.youtube.com/watch?v=AjoxkxM_I5g)” - Ali Abdaal
+
+## Knowledge Management
+
+“[The PARA Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)” - Tiago Forte
+
+“[Personal & Professional Enhancement with Notion](https://www.youtube.com/watch?index=1&list=PLAl0gPKnL3V8MEGuzB2Q3b0zM2yeIW9U7&t=7043s&v=c2MT_0DDF0w)” - Ali Abdaal and August Bradley
+
+“[How to get organized with the Zettelkasten method](https://www.youtube.com/watch?t=453s&v=Xen2FGjuZFo)” - Mariana’s Corner
+
+“[The Perfect Note-Taking App](https://www.youtube.com/watch?t=548s&v=wpcVQeF07G4)” - Ali Abdaal
+
+## Income Generation
+
+“[How I Built 9 Streams of Income by 23](https://www.youtube.com/watch?t=718s&v=GY9lNl3EO1I)” - Ali Abdaal
+
+“[7 Places Your Money Needs To Go (to save money)](https://www.youtube.com/watch?v=NskNfAlD3wU)” - Nate O’Brien
+
+“[How to Manage Your Money (The 50/30/20 Rule)](https://www.youtube.com/watch?v=HWpW50ByRro)” - Nate O’Brien
+
+## Stay Happy and Motivated
+
+“[The Key to Happiness in a Distracted World](https://www.youtube.com/watch?v=5Lay89Tk2nk)” - Matt D’Avella
+
+“[The Art of Not Caring.](https://www.youtube.com/watch?index=6&list=PLpVN66Got7ydP46IHAnWa9jvH-83JtKmL&v=0pbk139uHW4)” - Captain Sinbaad
+
+“[A Simple Guide to Remembering Your Life](https://www.youtube.com/watch?v=rLobewuy8bo)” - Nathaniel Drew
+
+And if that somehow wasn’t enough, here are some more articles to read. This one is [on the topic of personal finances](../personal-economic-engine) and [this one is about coffee! (personal fave)](../coffee-guide). Peace ✌!
