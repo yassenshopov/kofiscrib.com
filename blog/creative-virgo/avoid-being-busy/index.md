@@ -1,75 +1,67 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+**busy** \[ˈbɪzi\] - *adjective*, **having a great deal to do**.
 
-Oh, my sweet summer child.
+Or as I like to rephrase it, busy = almost every single person I know at all times.
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+It’s a relatively new thing in our culture, and not only among hustlers and adults. Maybe it’s a consequence of the ever-increasing schoolwork we need to get done, which serves to prepare you for the ever-increasing (in price) university degree, which then leaves you semi-qualified for a job you may not like that much.
 
-⚠️ Your notes are all over the place.
+The answer to the question “What’s up?” is usually one of the two: “Nothing.” or “Oh, been busy.”.
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+Even if you aren’t feeling busy in particular, it feels logical that we prefer to exaggerate how busy our day is than admit to not doing much. After all, our societal perspective of the word “busy” carries a much more positive vibe.
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
+However, this constant feeling of being behind doesn’t get us too far. Always being torn between different deadlines and projects to maintain, while you still have to take care of your own health, mind, social life - now that’s a surefire way to end up as a stressed-out burnout victim. Thankfully, there are ways to counteract this modern disease.
 
+Spoiler alert for those who are too busy to read ahead:
+
+1. Make clear objectives
+
+2. Add buffer to your time blocks
+
+3. Reflect frequently
+
+Now, on to the nitty-gritty:
+
+## 1. Make clear objectives
+
+It’s absurd how often we fall into the trap of abstract goals. I don’t know a guy who hasn’t had (that was a mouthful) “Get 6-pack abs” in his New Year Resolutions at one point. Or multiple points. It’s become a meme beyond repair and abs have become a symbol of unachievable feats.
+
+The reason most people fail is the inability to visualise the end goal and the steps leading to it. People can get abs both through rigorous training and a healthy diet, most often a combination of the two. But how much exactly? In what ratio?
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+These are the places in your journey that cause you to lose focus and veer away from your goal. It’s also the reason why most successful courses have a built-in-stone programme, and make you stick to it. It’s easier to get work done when you know exactly what needs to be done.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+### Actionable tip:
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+Next time you feel like you won’t be able to do a task, or you’re simply procrastinating it, try asking yourself the following questions:
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+- What exactly is making this task unenjoyable?
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+- Do I know how to do each step of the task?
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
+- If I don’t know, how can I clarify it further? (Google, ask for help, delegate)
 
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
+- How can I make it more enjoyable?
+
+## 2. Add buffer to your time blocks
+
+If you’re unfamiliar with the concept of [time blocking]("https://todoist.com/productivity-methods/time-blocking"), that’s something to delve into, because it is a proven way to get your schedule under control. Batching similar tasks together and doing them in one go (such as digital maintenance, emails, cleaning your computer) can help you accelerate your productivity.
+
+This happens because you reduce the energy needed to switch between tasks if they fall in the same category. I find it harder to work out after I was just drawing than I do if I was already outside and doing some sort of physical activity. As Newton’s 1st Law states:
  
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+> If a body is at rest or moving at a constant speed, it will remain at rest or keep moving in a straight line at constant speed unless it is acted upon by a force.
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+So if you put things of a similar category together, your brain has an easier time moving in a “straight line” than if you spent the whole day task-switching.
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+Sometimes, however, life gets in the way, or we get distracted and we don’t get stuff done in time. This is where buffer comes to the rescue.
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
+Buffer, by my definition, is bonus time you put for each task you do, that allows for some wiggle room. I usually take 80 minutes to get a single-character illustration done if I’m focused, but that’s not always the case. This is why I sometimes make my ‘illustration’ block 90 minutes, or 120 minutes, if time allows. If I happen to get it done in 80 minutes or less, that’s great! If I don’t, at least it doesn’t get in the way of my other tasks.
 
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
+## 3. Reflect frequently
 
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
+Many people frequently recommended journqling to me, and it’s another one of those weird zen practices that only begin to make sense if you practice for a prolonged period of time. Yet, with journaling, I think very few people actually journal in the classic way. 
 
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
+Many people, me included, have modified this info a tad different habit. I do weekly, monthly, and annual reviews, where I reflect on what went right and wrong. It boils down to answering a list of questions and performing self-observation. And, if you’re a data nerd like myself, you can go over your “stats" from the past period (like sleep data, weight, progress on projects).
 
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
+If you’re feeling constantly overwhelmed, there can be one or many reasons behind this. We often ignore that until the point of burn out, when it’s often too late.
 
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
+This is where reflection or any other form of journaling can be helpful, as it will allow you to see patterns in your life. Look for connections, such as the days when you have bad sleep, or the weeks when you didn’t plan ahead on time. 
 
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+Once you notice a pattern, it’ll be easier to solve your stress problems at the root, instead of just cutting the branches of burnout.
