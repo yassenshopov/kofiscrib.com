@@ -1,75 +1,125 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+Judging from the analytics of this blog, the chance that you, the person reading this, are in school/uni age is high. That, plus the fact I’m a uni student myself, disillusioned with modern education, made this article bound to be created at some point.
 
-Oh, my sweet summer child.
+Ever since I started taking my career and education seriously (ever since my 1st year of uni, to be honest), I’ve found more and more reasons why our current educational model is broken at its core. From the often inhumane treatment of school kids by teachers, to the simply impractical methods used - it all leads to us achieving barely anything of value in the future.
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+There’s often a reason why we tend to rediscover our ways of learning in university. When you finally get treated like an adult, you start to develop independence in all fields of life, in studying as well. But of course, that’s harder to achieve while still in high school.
+ 
+There’s hope in the tunnel however. Otherwise there wouldn’t be successful people, or they would be all dropouts.
 
-⚠️ Your notes are all over the place.
+I believe there is a set of very important things our schooling system gets wrong. And if we can tackle those individually, we can get a generation of well-educated kids with much brighter prospects and most importantly - better mental health. 
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+## What is wrong?
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
+Oh, boy. *rolls sleeves*
+
+Speaking from the perspective of a relatively smart kid (I graduated with the 2nd highest diploma in high school), rest assured, my mental health wasn’t any better than other people’s. The constant pressure surrounding my grades and the utter pointlessness of the stuff we studied was really making me desperate for fresh air. 
+
+I’ve managed to survive though, and I’ve managed to find the 5 main ways in which most educational models are fundamentally broke. That, and 5 ways you can prosper in spite of all odds.
+
+## 1. Blind following of tasks
+Now this is a huge one. When you first get hooked on the drug known as “formal schooling”, you won’t be 100% sure why you’re there at all. It’s just another obligations. You learn to read, learn to write and speak and if you’re lucky - [you learn to learn](../teaching-yourself-a-new-skill). 
+
+From then on, it gets more vague though. I love giving the example with Geography. You start off with learning some capitals, popular locations, how the Earth looks and works, earthquakes, volcanoes. Not necessarily practical stuff, but you’re a kid, who cares. It’s a volcano, it’s colourful and it kills people, more than enough to keep a 10-year old enthusiastic. Then after some years, you get into the nitty-gritty. 
+
+What the hell is soil and how are there different kinds of it?
+
+Okay, you think, soil is important, I’ll keep studying. Then you need to figure out the answer to the grand question - why do I need to know that there are predominantly Chernozem soils in Siberia? It’s not even a matter of ‘I’ll never go to Russia, what’s the point?’, it’s a matter of Í don’t even know what the soil is that I’m standing on, how is any of this either relevant or practical if I don’t work in agriculture?’.
+
+From then on, the rest is history. You keep on doing mental labour, studying stuff without ever being explained why it is even in the curriculum.  You’re more or less blindly following along as the teacher moves on with the material, and at the point you’re studying trigonometry it’s usually too late to find enthusiasm again.
+
+How to Prosper in spite of that:
+Even in university, you will surely encounter subjects and topics that are simply not interesting. 
+
+As Simon Sinek said it, [start with why](https://www.amazon.com/gp/product/1591846447/ref=as_li_tl?camp=1789&creative=9325&creativeASIN=1591846447&ie=UTF8&linkCode=as2&linkId=b1ed2f24fdc81309bc61a4d0594f3171&tag=kofiscrib-20).
+
+Try to find a reason for studying something. Often, the main reason is to just pass the class and graduate. But this is rarely enough. Especially in university, when you’ll need motivation to study all the time, it’s important to find a higher reason. This could be some of the following:
+
+- I’m studying this to advance my career
+
+- I’m studying this because it will help me with X project
+
+- I’m studying this because it’ll allow me to study Y thing later on
+
+## 2. Reluctance to use the Internet
+Reluctance to use the World Wide Web has been a common phenomenon ever since the Internet has existed. 
+
+Yes, people can mess with Wikipedia and publish untrue information. 
+ 
+Yes, Wikipedia is monitored constantly by professionals to prevent this from happening. 
+
+No, teachers don’t care, you can’t use it as a reference.
+
+The Internet has been the main provider of education for most kids nowadays for quite a while, and the concept of Online University has become less and less weird. Platforms like Khan Academy, YouTube, Nebula, Brilliant, Skillshare, Udemy have made it possible to learn very marketable skills online, and even to be taught by masters in those subjects, instead of teachers who are skilled at, well, teaching, and more often than not, if they were so good at the thing they were teaching, they would be doing that as a career instead.
+
+And instead of using those rich resources and teaching kids to navigate the web and sort the useful info from the garbage, teachers tend to treat it like it’s taboo.
+
+How to Prosper in spite of that:
+- Go against the grain, and use the Internet!
+
+- Find a course on Khan Academy to help you do your homework
+
+- Try teaching yourself the basics of a language with Duolingo, it isn’t magic, but it’ll get you further than nothing
+
+- [Teach. Yourself. To. Code. Period.](https://www.amazon.com/gp/product/1591846447/ref=as_li_tl?camp=1789&creative=9325&creativeASIN=1591846447&ie=UTF8&linkCode=as2&linkId=b1ed2f24fdc81309bc61a4d0594f3171&tag=kofiscrib-20)
+
+## 3. The revelations of online school
+Most education is broken: How to prosper in spite of that
+When Covid-19 happened and schools turned to online education, becoming and endless stream of Zoom sessions, many things that made schools great were lost. That is, communication with others, practical projects, creative expression in various forms, proximity to sources of knowledge like libraries and teachers. 
+
+But when I thought back on it… we didn’t really take full advantage of those when we could, did we? 
+
 
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+It really was a sad picture, and I remember vividly being so annoyed that we had all those fun resources at school - interactive boards, chem. labs, so on. And we never once used them to their full potential. All those tools gone to waste.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+And yes, sometimes the teacher themselves weren’t qualified enough to use those tools, which is another failure of schooling entirely. 
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+How to Prosper in spite of that:
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+- Now that you know how you’re doing both in in-person and online education, use your strengths to their full potential
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+- Whenever you can, try to transform one kind of teaching to the other, the one you are doing better in
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
+- [Explore this article on the different types of learners](https://www.literacyplanet.com/blog/how-to-engage-the-7-types-of-learners-in-your-classroom/)
 
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
- 
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+## 4. Failure is punished
+Another thing that most world educational models have in common is the apprehension in terms of failure in all forms. Something otherwise framed as a normal stage of learning any skill, no matter how good you are in it, is turned into this scary monster students are terribly scared of.
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+Students get punished for giving the wrong answer.
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+For not being sure of their answer.
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
+For phrasing a correct answer wrongly.
 
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
+For daring to ask for clarification.
 
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
+For questioning the purpose of the question.
 
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
+How to Prosper in spite of that:
 
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
+- As weird as it sounds, try failing for a while!
 
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
+- By this I of course don’t mean do it on purpose, but try being more okay with the feeling of failure
 
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
+- Other people may not be so cool with this, because of their internalised fears, but it’s a good life skill to have, cause, brace for it…
 
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
+- … we all fail a lot
 
-3. Put in events continuously as you go along. 
+## 5. 12 years, then off to the shoe factory
+Most education is broken: How to prosper in spite of that
+It’s a widespread truth, but sometimes an overlooked one, how the current educational models mainly prepare you to be a factory worker. Not in the literal sense most of the time, but in the case where “factory worker” = “task-doing machine”.
 
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
+When you think about it, most jobs in our economy boil down to following along a list of tasks, a set of instructions, really well. Yes, even surgeons, which is a good thing to be honest, creative surgeons tend to not get the best rep in the community.
 
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
 
  
-As for the weekly review I personally do, it consists of the following points:
+In order to get successful in some more creative ventures, like design, business, IT even, you need to be able to think outside of the box, and this is where modern education often falls flat.
 
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
+How to Prosper in spite of that:
+- If you see a problem encountered by many people, try thinking of a solution on your own
 
-- Listing my accomplishments for the week.
+- Try out debating! It really opened my eyes to a new world of thinking
 
-- Tracking my progress on my projects.
+- [Check out this article on productivity](../productivity-apps)
 
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+Phew, this article really came from a deep place in my soul, I’ve wanted to write something education-related for a long while.
