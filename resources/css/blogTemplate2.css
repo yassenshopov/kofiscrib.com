@@ -1,5 +1,5 @@
 :root {
-    --font-size-p: 17px;
+    --font-size-p: 18px;
     --font-size-h1: 50px;
     --font-size-h2: 35px;
     --font-family-h: "Raleway";
@@ -71,7 +71,7 @@ article h2,h3 {
 article p {
     font-size: var(--font-size-p);
     margin: 0 0 25px 0;
-    line-height: 1.7;
+    line-height: 2;
 }
 
 article a, aside a, figure a, #linksLR a {

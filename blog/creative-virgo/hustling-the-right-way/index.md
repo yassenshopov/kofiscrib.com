@@ -1,75 +1,69 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+It’s no secret that feelings of burnout and inadequacy are common when you get overworked. It’s almost a universal truth that results are often achieved after short bursts of effort in our society, instead of being the product of routines and habits that don’t overwhelm us. As I’ve mentioned before [in this article on how to avoid burnout](../the-inhale-exhale-technique), it’s easy to fall into the trap of hustle culture - just work your butt off and it’ll all work out in the end.
 
-Oh, my sweet summer child.
+If only it worked like this.
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+## The cost of hustling
 
-⚠️ Your notes are all over the place.
+I believe that most of our habits and routines that obstruct our progress are inherently taught to us in school. For example, I figured out that I tend to use unnecessarily long sentences with complex grammar. That comes directly from my experience of writing essay after essay for my English homework, where writing like this was a good thing. So now I have to actively try to unlearn this and write simpler sentences, so the reader, a.k.a. you, won’t get bored. We got short attention spans, it turns out.
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+Harmful ways of thinking about productivity are also direct products of most educational models.
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
+If you ever caught yourself feeling like you’re in a hamster’s wheel, you’re not alone. In school, it often so happens that you’re several lessons in on a given subject and you’re still lacking the full understanding of what’s going on. It often happens with the more theoretical subjects (most of them, let’s be honest). In PE, it’s easier to get the point of correct breathing to make efficient push-ups, because otherwise, you won’t be able to do many of them. With trigonometry, let’s say, it’s not so black-and-white. And I was one of the smart kids, so I’m extra allowed to diss on maths.
 
+You may be able to solve even the hardest trigonometric problems, go through formulas and memorize them easily, but motivation definitely diminishes fast over time, because … why do it? I still haven’t heard a proper explanation as to why high schoolers study trigonometry and its practical use-cases are so rare and niche that even the more scientifically inclined kids find it impractical. It’s a meme at this point that you won’t be calculating how much your groceries cost in the store in terms of sine and cosine, so why bother studying it? 
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+But then, I went to uni and I figured out how trigonometry is actually useful for most engineering problems. Now I was able to see the purpose and was able to study it much more easily, knowing that if I didn’t know how to solve those basic questions, I would find the harder ones impossible to do. But it took quite a long time of hustling and doing homework before I figured out why I was actually meant to do that.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+## Opportunity costs
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+The key difference between constructive and destructive ‘hustling’ lies in the sense of purpose. In a perfect dream world, we would all know 100% of the time what we’re supposed to work on, and we would never have to work on stuff outside of that singular purpose. However, life is more colorful than that.
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+There will always be tasks you simply won’t want to do, and this doesn’t mean that you can just not do them. If you don’t like doing the dishes, the only way to make yourself do them is to either build discipline, make it a habit so it’s easier to get started, or just to imagine the alternative scenario of not doing them - your lazy self would be happy, but your future self would still have to get their hands dirty, and it would be even more bothersome.
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+However, if most of your tasks are default tasks, or are tasks set by somebody else other than you, or if you feel like everything you do is doing-the-dishes level of excitement, then you’re definitely hustling the wrong way.
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
+Those feelings of burnout and lack of motivation can be symptomatic of a larger problem - lacking a sense of purpose, or working on the wrong things. However, symptoms are a good thing. Without them, you wouldn’t be able to diagnose yourself and find the proper ‘medication’. If you’re currently feeling overwhelmed and unmotivated, and it has been like this for a while, maybe you need to check your internal compass. 
 
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
+- Are you working on the right things?
+
+- Are you on track with your initial strategy?
+
+- Does it feel like a ‘passion’ or a ‘hustle’?
+
+Even if the task at hand is a necessary evil, e.g. something you need to do even if you don’t like it, for the greater good, there is still an opportunity cost associated with it.
+
+When I write these blog posts, the first draft is usually the more exciting part. I throw ideas on the page and connect the dots. However, the larger chunk of time is always taken up by the editing, which makes the blog post into the polished version you’re currently reading. Yes, I could spend the time editing this blog post to write the rough drafts for 5 more articles, but none of them would result in a good product in the end without the necessary evil - editing. So yes, editing has the opportunity cost of not being able to do many other things for the same time, but the end result is worth the sacrifice. And the main question for you, as is the main topic of this article is: *Are the things you’re currently doing worth the sacrifice/opportunity cost?*
+
+## How do I make sure I stay on track?
+
+It would be awesome if our initial goal remains the same throughout the whole project, but it’s often not the case. Most personal and passion-led projects are a creative form of exploration, where you change your plans a couple of times before you reach the end goal. Even if it is an entirely different end goal than the one originally planned. 
+
+It’s useful to stay in touch with your inner compass. Try and differentiate between the annoyance you feel when you think you’re working on the wrong thing (for example, when you’re studying for a subject that’s completely impractical to your life) and the annoyance you feel when a task is just too hard/boring but not necessarily pointless. At the time, even a minor discomfort can feel like the whole project is a lost cause, but it’s up to your personal perception to make the difference.
  
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+It’s a muscle to be trained, so it’s normal to hustle more than needed in the beginning, when you’re young. It’s easy to see that older folks aren’t lazy, they just tend to value their time more and only pick tasks with an opportunity cost they’re willing to pay.
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+And how does one stay in touch with their inner compass exactly?
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+## Weekly and monthly and annual reviews
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
+Even if you’re not business-oriented, you can sometimes find the benefit of perceiving yourself as the whole business - your personal business. And businesses tend to have a schedule for reviewing their progress so far and reflecting on it.
 
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
+Many people journal, and this is a form of reviewing to speak of. The point is to reflect on a number of points, just to make sure you’re on track (or on the right track).
 
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
+Here’s how I do my weekly reviews. Basically, I try to tend to and answer the following questions/points:
 
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
+- What were my accomplishments for the week?
 
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
+- In which ways could this week have been better?
 
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
+- Am I on schedule with my expectations for all active projects?
 
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
+- What’s planned to happen/be done next week?
 
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
+- Do I have any notes/emails/texts/notifications I haven’t taken care of already?
 
-3. Put in events continuously as you go along. 
+All in all, this is a process that takes time to get the hang of, but with experience you’ll find what works for you, so don’t be scared to change your methods midway through!
 
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
+If you enjoyed this article, here are some follow-ups for you to read, including this article on [choosing what to study in university](../choosing-what-to-study) and [how to improve your time management skills](../how-to-improve-your-time-management-skills).
 
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+Peace! 🏵
