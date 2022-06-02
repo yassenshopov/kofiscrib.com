@@ -1,75 +1,35 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+This whole blog’s theme, creativity, has already been talked about from every angle possible. I’m sure many people know what they like, how creative hobbies are good for them, how important it is to have a side hustle, but still they think to themselves - Nope, that’s just not for me.
 
-Oh, my sweet summer child.
-
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
-
-⚠️ Your notes are all over the place.
-
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
-
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
-
+There is a bunch of factors that go into why we aren’t all amazing artists, actors, writers, musicians. But I believe that apart from consistency, there is one more key to one’s success in a creative endeavor - their mindset in the very beginning. That’s why some of the biggest players in some creative niches actually have a long history of successes and failures and still kept pushing, that’s why many famous artists actually start drawing after their 20s and aren’t child prodigies. As I’ve argued before, and as is further explained in the book I’m currently reading (actually listening to, I’m an audiobook guy now), ‘The Motivation Myth‘ by Jeff Haden, you can’t simply rely on the initial spark of motivation to carry you throughout the whole journey, now can you rely on constant motivation every day. There are a lot more discipline and strategy into achieving any long-term goal, and I’ll show you some of my insights in 3 key points.
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+If you somehow got the wrong idea about me, yes, I’ve been drawing since I was a kid, but that was never a main pursuit of mine, nor was I particularly good. I only started seeing progress once I began drawing daily and actually interacting with other artists and being influenced by their styles. 
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+Now, enough ramble, here’s the main dish (a three-course meal as always)!
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+## 1. Go in with a Vision
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+Now, if you just took up drawing, for example, without the grand view of becoming the next Picasso, that’s totally legit. I don’t think we need to monetize every bit of work we do, as tempting as the concept sounds. Some hobbies should be just hobbies, and that’s perfectly fine.
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+But if you have the subtle urge to do more, to actually advance and be able to proudly share your creations, you need a big fire inside you. A fire you’ll constantly need to reignite and support because otherwise, you’d find it really hard to keep up with the daily grind.
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
-
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
+The fun part in every project lies mainly in 2 points - the point before you start and the point after you’ve finished. Before you start a hobby or a passion project, you spend a ton of time planning, visualizing, dreaming. After you’ve managed to get it off the ground, on the other hand, you are so thrilled with the results that you realize it’s all worth it.
  
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+However, in the longest portion of the time - the time you actually spend working and hustling - you’ll probably be feeling the least excited. When you wake up early to exercise for the very first time, you may feel some rush of adrenaline, afterwords it honestly gets a bit mundane. There’s only so much you can do to make the work process interesting, after one point you just need some willpower and to go with your (work)flow. So all in all, having a goalpost far in the distance is important. Something that simply and elegantly explains why exactly you’re hustling. Is it for money? For exposure, for a personal sense of satisfaction? If you have this grander idea behind your not-so-grand daily tasks, it would make it easier to stick in the long run.
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+## 2. Do the reps
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+Another gym metaphor incoming, you’ve been warned.
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
+Even the most creative work, drawing, singing, anything similar, can be boiled down to a series of simple tasks that follow one after the other. And when you sit down to actually practice, that’s all there is to do. The more you manage to get your process into a streamlined flow, the easier it would be for you to go through it again and again.
 
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
+For real, it can get mundane at times, but that’s where the grander vision from the previous key point comes in. You know why you’re sitting down to scribble and doodle, and even if the end result isn’t the prettiest thing on earth, you know it’s a stepping stone to your masterpiece (hopefully one of many). Maybe Picasso could rely on pure luck and talent to make every piece of his a marvel, but the rest of us will have to do more reps. (And still, I assure you poor Pablo probably painted quite a few pieces he didn’t like as well.)
 
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
+## 3. Systems for Winners
 
+Something I’ve heard quite a few times as a ‘productivity trope’ is the obsession with tools and apps. While it is true that it’s not the best idea to optimise the last 1% of your efficiency instead of simply doing the thing you’re suppposed to, it can’t be denied that those apps and systems exist for a reason.
+
+You may have heard of the Pomodoro technique - quite a simple routine to get you in the flow. You sit down and work for 25 minutes, then you rest for 5. After repeating this a few times, you take a longer break. Now, you don’t have to follow the rules strictly, the point is to get you to work under a bit of a time pressure, you know the next half an hour has a high chance of being productive, and especially when you’re a beginner in a given craft, that’s crucial. Immediate gratification is a drug and a half, but since we’re all so wired to it, why not use it to your favour? A friend of mine actually gave me a pretty good explanation as to why programming seems so fun to a beginner - you see immediately if your code works or not, ensiring an instant dopamine hit and good feedback. Maybe this is a bit harder to provide with different hobbies, but it’s very important to keep yourself happy and in good spirits even in the more boring parts.
  
-So what do we do when we want to get somewhere? We take out the roadmap.
+So I highly recommend finding your personal weird habits and experimenting with them, just to make the start of your new project as energised and charged as possible!
 
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+Hope this blog post makes you excited for your next project! Share in the comments what you’re currently working on, I’m curious to see ^^
