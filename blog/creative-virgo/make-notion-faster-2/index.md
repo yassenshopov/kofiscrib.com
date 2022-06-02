@@ -1,57 +1,45 @@
-As you will know, if you are a regular on this blog, I love Notion.
+This article is a direct continuation of the previous one ([How to Make Notion Faster: Part 1](../make-notion-faster-1)). Let's make a recap on the different ways we discussed on how to push the boot time of Notion down a notch:
 
-For those of you unfamiliar with Notion, first of all, interesting choice of an article to read. Secondly, Notion is an all-in-one productivity software.
+1. Reduce the size of your visual content
 
-It allows you to create productivity systems of your own liking. Its flexibility is its biggest asset - you can create a simple database to store all your University notes, or you could create a complex cross-database system to keep track of all your tasks. People have been using Notion extensively ever since its launch in 2016 to create projects such as:
+2. Archive old content frequently
 
-Movie and book list databases
+3. Avoid the use of complex widgets
 
-Website building inspirations
+Those were all easy-to-use, off-the-go hacks that can enhance your Notion experience. As you and I both know, every millisecond of load time matters when you are hurrying to write down an important idea.
 
-To-do lists
+It became especially obvious to me that I needed to increase my Notion operation speed, not only in terms of loading, but in terms of actually navigating the workspace. I was in an Anatomy lecture once, and I realised I needed to swiftly move between my lecture notes page, the class module page, the future exam page (because of some random information the lecturer decided to mention), and so on. At around this point in time, my workspace had some sort of structure implemented, but the Module Details page was under some other Administration page, and the Exam page was in my To-Do List as an item, so it was very diffcult to move between all of them.
 
-Habit trackers
+This is when I realised that there is another way to organise my Notion workspace, in a way that makes sense logistically for the work I was doing.
 
-However, many people’s main concern with Notion is its undeniably low loading speed (when compared to other apps). Since its founding 6 years ago, the company has expanded rapidly, but there appears to be a lag between the users’ expectations and the developers’ capabilities. And even though Notion is actively working on optimising the app, having already achieved a 50% speed increase since 2021, the app still takes a few more seconds to load than what most of us find convenient.
+In this article, I will be going into the 2 design philosophies I use when creating a Notion workspace to ensure that all data is as close as possible at all times. Unlike the previous article, this one won't offer quick fixes. It's best if you initially center your content around it, bevause otherwise it gets harder and harder to manage.
 
-The startup lag is one thing, you can just run the application then forget about it for a minute and come back to it when it loads. The problem comes when you try to do either one of the following three actions:
+## Think of your workspace as a tree structure
 
-Search for a specific page with the “search“ function.
+The first of the two philosophies is to use the old and tried technique of the **Tree Folder Structure**.
 
-Attempt to load up a page with a lot of database entries.
+The Tree Folder Structure is simple, and you have probably been taught about it in your first IT classes in school. In essense, it comes down to starting off with 1 main root and then branching off to multiple main folders. Let's follow the example I personally use in my workspace to get a better view.
 
-Switch between pages.
+To start off, the main page in my workspace is my Command Centre. This is the first page I see when I open the app and all the other pages are inside of it, directly or indirectly. You may wonder whether it's not actually a cluttered mess, but you will be surprised.
 
-You may be thinking to yourself now, “Well, if Notion has such bad speed, why not use another app?“. And you could be using another app, that’s true. However, Notion's flexibility and the ability to get customised to your own needs is unmatched, and it is so far the most versatile productivity tool I’ve come across. You can see my own productivity dashboard over here, and I have to say, it has helped me stay productive as a student and freelancer for years now.
+The next main step is to configure the main branches. Inside the Command Centre I have created different databases, the main one of which is my Pillars database. Each Pillar represents an important aspect of my life - Health, Business, Education, Social. Once we go into the Education pillar, I can find all the data for my University courses, extracurricular activities, courses, projects, and so on. It all goes under the hood of the education pillar. 
 
-And luckily, there are ways to increase Notion’s loading speed incrementally, by applying some simple strategies. In Part 1 of this article series (the one you’re reading right now), I will go more into detail for the “hacks” you can use to reduce the impact on the Notion app in a purely technical way. In Part 2 (linked over here), I will go into the more systematic approach you could use to build Notion in an easily accessible way, without worrying too much about technicalities.
+Having the folder structure set up in this specific way makes the navigation process easier for two reasons.
 
-Think of your workspace as a tree structure
-This is the first and most common piece of advice you will hear on the topic - reduce your image use.
+1. When I'm in that Anatomy lecture, I know that all the folders and pages I'll need are in the Education pillar, so I don't have to remember their individual "breadcrumbs".
 
-Yes, we all love Notion for letting us create powerful and beautiful layouts. You could have customised icons, gifs as cover images, etc. I actually use a similar template right now, and I must admit that every time I run my Notion app, the fan starts wrooming louder.
-
-As you can see, even though it looks pretty, it has so many widgets and moving parts that the loading speed decreases tremendously. And while this isn’t really a dealbreaker for me, many people would find this discouraging. So here are the ways you can keep your aesthetics while increasing the speed.
-
-When using an icon/cover image, first download it, then reduce it to a “.jpg” or “.jpeg” file using a website such as “Resize Images Online“. This way, Notion takes a shorter amount of time to actually load your icon and header.
-
-Even if they seem pretty, avoid the use of gifs in your icons and cover, especially if the gif size exceeds 30 MB.
+2. When 2 pages are closely related in Notion, it becomes faster to search them up. The loading speed is directly proportional to their proximity in folders.
 
 ## Globalise your content
-Year-long users of Notion like myself are guilty of hoarding so much infor
 
-My to-do list database contains so many tasks right now, I believe last time I checked my stats for 2021, it contained 3,000+ items.
+The second tactic for increasing your Notion navigation speed is to globalise your content. 
 
-Imagine the sheer volume of data this is - 3,000 pages, all of which have some properties, content, images attached to them. No wonder Notion makes my laptop pass out upon loading.
+What do I mean by that?
 
-So what I have started to do, periodically, is to get rid of the first few months of data for my more complex databases. Note, I don’t just delete those items, I make a backup copy of my entire Notion workspace, and then I remove them, knowing that even if I need anything random, I can restore it easily later on.
+Well, in short, it means that we tend to create a page for everything. We have a separate journal, a separate habit tracker, a separate daily sleep data collection, and so on. It makes the whole workspace clunkier, and we often create unnecessary interconnections between pages when one single database would have done the work with much less strain.
 
-Notion’s users have been creating widgets small and big for years now.
+One thing I did that greatly increased my productivity was to merge my daily tracking into one Database. In this template, [which you can find here on Gumroad](https://yassenshopov.gumroad.com/l/daily-tracking-2022), I can track (for each day) how much I slept, what work I did, my journal entries, my workout tracker, etc. 
 
-From simple clock widgets to progress bars, stock-trading panels, dynamically activated images, almost anything that you want to add to Notion, you can. However, most of those apps refresh themselves almost every second, which means that they are continuously connected to the Internet, further draining Notion and decreasing its speed.
+It makes it easier for visualisation as well. I have additionally created a weekly schedule database that uses Rollups to take the data from the daily tracking and make some moving averages for my weight, sleep, productivity, etc.
 
-What I would suggest is that you don’t overwhelm your workspace with a ton of complex widgets just for the sake of aesthetics.
-
-Do you really need that progress bar to see how much of the month has passed already? Is Notion really the place where you should be tracking stocks 24/7?
-
-There are some cases in which less is more, and minimalism’s strongest asset in this realm is that your Notion workspace will be faster than ever.
+So all in all, inbetween the 2 articles, those were 5 short-term and long-term habits you can implement to incrementally increase your Notion boot and navigation speed. The differences may not be noticable at first, but I promise you that in the long term you will be thankful that you didn't create additional lag and entropy in your system.
