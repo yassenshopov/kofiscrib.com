@@ -1,75 +1,35 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+For most of artists, or people who create content in any form, getting that first commission or selling that first piece of merchandise is all they need as an initial boost to get them to turn their art into a full-time income. At least that’s what happened to me.
 
-Oh, my sweet summer child.
+I still remember my first commission, which was a 3$ (yes, really) hand-drawn sketch I did back around April 2020, in the middle of our first lockdown. The commission itself wasn’t the most exciting thing, neither were the 3 dollars, not that I am not thankful of course. But the most exciting part in reality was the awakening, the sudden epiphany - wow, I can actually make money from this! And once the first commission turned into another one, and another one, I started scaling up, and so far I have managed to get enough money to go by from this alone. 
+ 
+However, the money I got did not go 100% to my needs and wants. At some point in the beginning I decided it would be wise (and it was) to actually reinvest in my hobby, which was slowly turning into a side-hustle. By doing this, I avoided the risk of growing stale and uninteresting to the audience, and I managed to stay motivated and keep this going for a long period of time. In this article I’ve listed some of the ways I have reinvested in my art business myself or in which I plan to do so in the future.
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+## 1. Get that fancy gear
 
-⚠️ Your notes are all over the place.
+This is our first point, even though it is probably the most expensive way to get better return-on-investment for your art career. When I say gear, I mean, in the case of digital artists, a better dawing tablet, a more exquisite drawing and editing software, maybe even a better laptop, why not. These purchases shouldn’t be the whole point of your artistic journey, and they probably shouldn’t become your only goalposts - your audience and the quality of your work will speak much more of your progress than your tech. Yet, still, it is obvious that a higher-class drawing tablet would make your quality a biiiiiiit higher.
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+I like to think of it this way - good tech/gear does not instantly make your art better, but it can act as a multiplier. Which means, the lower your current skill level, the less of a difference a better tablet would do. But if you happen to be a very high-level artist, if you go to a tablet which has better speed, graphics, effects, and is overall a bigger joy to use and makes you draw and draw and draw, the difference would be very huge.
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
 
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+So my outtake from this is that we shouldn’t neglect the effect of tools in our craft, even though they aren’t the most important aspect, and we should aim to utilise them as what they are, just tools that make us do better. A better tool would be a great way to boost your motivation to work, if not your immediate production quality.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+## 2. Improve your reach
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+Now while in the previous point we discussed the hardware, let’s go to the software now, and I don’t mean the programs you use. The artistic ‘software’ is the network over which you spread your audience, your different social media and how much engagement do you have on each. It gets a bit more complicated though. For example, my website, the one you are reading this article on right now, is not a social media of any kind, but it still proved to be a great investment. During the first year of which it has been up in the internet space, it has helped me land 100+ clients and make me look a lot more professional, even if I was just a beginner a few months back. It is something I consider a very good investment, and the website hosting fee was something among the lines of 100-200$ annually, but it was so so worth it over the long run. And I believe that after an even longer period of time it would be worth even more, as it becomes more recognisable and it starts getting picked up by the Google algorithm by itself. 
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
-
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
-
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
-
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
+So there you have it, one way to invest in yourself - create your own website! It can serve as the place where you sell your art, showcase your portfolio, post your blog/writing, share more about yourself, overall to become more prolific in the public’s eyes. 
  
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+Other ways in which you can improve your social media presence is by going Premium on some apps. For example, if you are on Ko-Fi, you may apply for Ko-Fi Gold, which makes you so much more reachable there, and allows you a number of options to sell your work that were previously unavailable. If you happen to use productivity apps, by going premium on them you may happen to become more productive in your career.
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+## 3. Recharge
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+Take this however you like - it could be a holiday, you may pay somebody to do your share of work, anything. The point’s that life isn’t only about work, work, work, and periods of rest are highly underrated. If you spent all your time practicing your art, drawing, exploring new styles, grinding, you’d end up getting burnt out really fast, and it may even worsen your content over time. Yes, the hustle is well-appreciated, but it would become essentially useless if you couldn’t manage to do it in the long-term. Projects such as an artistic career are marathons, not sprints, so periods of rest are essential. Once you make enough to get by, consider how you can make enough money to be able to rest more - maybe this means getting less hours of work at your non-artistic job and spending more time on rest and artistic endeavours. Maybe it means less drawing and more learning - there are tons of free and paid courses you can go to online to teach you a thing or two, which you can best absorb during a period of rest. It’s a bit more difficult to take new information in when you are constantly producing new works one after the other, sketch after sketch.
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
+When you start thinking of your time more in terms of work-rest, output-input, it can help you become much calmer and more focused on your specific goals.
 
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
+## **For the more advanced** - Give back to the community
 
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
+This would and should be the ultimate goal for anybody that has profitted off a given community - in our case the art community. Once you have all your utilities and rent and everything covered, have more than enough to lead a happy life, why not reward the people who brought you there yourself? Maybe you can commission an artist you love, or to make a giveaway of a tablet/other tool. Not only would it boost your ‘karma’ if you happen to believe in that, it would overall be one of the most fulfilling things you can do.
 
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
-
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+If you are one of the lucky artists that have managed to score some money from their gigs, you may want to consider reading more about [how to get more focused and productive](../how-to-achieve-laserbeam-focus) and [a particular app I use to do so](../notion).

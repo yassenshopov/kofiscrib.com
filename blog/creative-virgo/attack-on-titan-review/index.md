@@ -1,75 +1,37 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+Just this week, the final chapter of the world-famous manga “Attack on Titan” was released, marking the end of this epic series. Even if you haven’t been keeping up to date with the manga, you have a high chance of knowing at least the basics of the plot, it simply became that popular in a very short period of time.
 
-Oh, my sweet summer child.
+And if you’re new to the story, beware, spoilers abound in this article.
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+I got into the manga just a year or two ago, and I started watching the anime when it first launched a few more years ago. The story of Eren Jaeger, a boy who loses his family to the monstrous titans only to very soon realize that he can also become a titan himself, is already epic enough, but when you get into the details, you can get lost in the depth and social implications of the storyline. The series has been criticized for some of its implications, as the story goes into some parallelisms with Nazi Germany and the handling of Jewish people, but these are topics that need to be discussed in the media, and the boldness of the series to present such a ‘taboo’ topic as a giant part of the story should be appreciated.
 
-⚠️ Your notes are all over the place.
+In this article, you can read about some of the things that make “Attack on Titan” such a big influence in modern media, and a personal favorite of mine.
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+## Diverse and Engaging Cast
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
+The cast of the “Attack on Titan” series mainly consists of the 104th training squad for the Survey Corps, the series’ anti-Titan squad. Their fate is quite uncertain during the whole journey, since the risks presented in the plot are actually, well, risky, and there is no plot armour to save them in the last moment. Every “Attack on Titan” fan has seen their favourite character suffer immensely, get traumatised for life, or just get killed off without chance for survival, and this further makes the war scenes more realistic - there is no exception as to who can get the bullet next, and even if a character hasn’t been surrounded by flashbacks and death-flags, they’re in as much risk as the others. 
 
+When I say the cast is diverse, I really mean it. As any other series, the main trio gets the most screen time and development, but all the others from the supporting cast feel really true to themselves to the very end, as well. Characters like Connie and Sasha which are first introduced as mainly comic relief, get through traumatising events that have turned them into cold-hearted warriors, and they have personal agendas to commit to now. This is something extremely important to me as a whole, for characters to be determined and to have a reason for doing what they’re doing and being where they are, not only because the story makes them do so, but because they have a reason.
+
+For example, Connie almost has a villain-esque arc nearing the end of the series, when he plots against his teammates to take Falco, a newly-made Titan Shifter, to his mother in order to save her from the fate of staying a Titan forever. This doesn’t feel out of character at all, since it was already established early on that his mother becoming a Titan was a giant turning point for his character development, as he became even more determined to find out what the truth of the Titan shifters and Marley is. 
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+Such examples of extremely believable characterization are what makes “Attack on Titan” shine in the first place.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+## War against oneself
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+The main enemy of “Attack on Titan” is none other than the Titans. And as any person well-versed in the story will tell you, their story is not so simple. Titans aren’t just mindless killing machines with no agenda, or at least they weren’t from the very beginning. They all share the same fate, one way or another they got injected with Titan Serum and got turned into those monsters they are against their will. The fate of people turned into Titans is incredibly terrifying - in order for them to escape this cursed state, they need to devour other humans in search of a Titan Shifter, the powers of which would allow them to go back to human conscience. 
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
-
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
-
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
-
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
+Now that you know that the main enemies of the series are actually innocent victims altogether, it becomes a bit more unsettling (not like it already wasn’t), to watch the main characters slay them in order to survive. The struggle becomes from man VS monsters to man VS man, and it can be seen most vividly in one of the final Levi VS Zeke fights, where Levi’s comrades are turned into Titans, putting him in the situation where he either has to slay them or be eaten himself. The horrifying reality unveils at the very end - after Eren’s death and the end of the Rumbling apocalypse, all the remaining Titans are reverted back to humans. This sounds like great news, but that wouldn’t return to life all the already-killed people. The survivors just had the ultimate luck of staying alive so far in the series, and in most cases, it was more of a matter of circumstance than anything else that one character survived where others didn't.
  
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+The series makes this amazing twist with the revelation of the true story of the Titans more than halfway through the series, as it completely subverts the readers’ expectations. We all fell into the trap of thinking of the series as a black-and-white saga, when in reality it turns out to be much more layered and complex.
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+## Eren: The Unsung Hero
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+Another point of characterization that makes “Attack on Titan” unique at least among the pieces of media I’ve consumed so far, is the final outcome for the main character. Yes, the trope of the MC getting all they dreamed of by the end of the series is indeed thrown out of the window, as Eren’s goals become more and more warped as the series progresses. As it was recently revealed, his power acquired through being the possessor of the Attack Titan makes his ideology less of a personal choice and more of a necessary duty. Since he received the gift of ‘future memories’ at one point in the story, he basically knew how his story would end, and how it would affect humanity. In order to salvage them from the destiny of possessing Titan powers and being known as enemies of humanity, Eren has no choice but to follow through with the terrible sequence of events that is the Rumbling, even if it means that his own life and the lives of 80% of humanity will have to be put out forever. Thus, he becomes a plot device in and of himself, and becomes an outsider to his own motivations. Even when, in the last chapter, it was revealed that he maybe possessed the power to prevent the death of his own mother, he didn’t prevent it, since it would make the desired outcome in the very end unachievable. 
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
-
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
-
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
-
+Even if in the end he was the main enemy and became responsible for literal genocide, he managed to find a perfect sense for himself in his actions. This doesn’t mean his actions were at all justified, it just serves as a good example of how well one’s ‘good’ intentions can become a literal calamity for other people. In his confused state of mind near the end of the series, the destruction of a large portion o the world would be justifiable if it meant a future without war, where kids who grew up like him, as orphans and in misery, would live peaceful lives. The great irony comes when his wish for peace actually leaves many others’ lives in pieces after his horrific deeds, thus creating a paradox. Maybe Historia’s child in the future would grow up in a healthy family without the burden of war around her, unlike any of the other characters, but how can you equal this child’s happiness to the millions of deaths that it took to ensure it? The path of Eren cements one of Isayama’s main points, and that is the faulty logic of the ‘peace is only achieved through war’ fallacy. 
  
-So what do we do when we want to get somewhere? We take out the roadmap.
+The world left in shambles after Eren’s apocalyptic deeds is still war-ridden, maybe even more than before, and Isayama doesn’t stray away from this topic. The world of “Attack on Titan” doesn’t magically restore itself after the final battle, and the remaining characters are left to deal with a mess even bigger than they had anticipated. The harsh and cynical realism is self-evident, and will definitely make this series something to remember for a long long while.
 
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
+Overall, this manga itself will be remembered for long after its end, and even if Isayama disappears from the world and doesn’t do any sort of follow-up for the series, its effect on the readers would far outlast it. So again, kudos to Isayama! Give it a read/watch ^^
 
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+Another amazing part of the whole ‘Attack on Titan‘ experience is the soundtrack, so go have a blast with one of my favourite songs from the soundtrack down below ^^
