@@ -1,75 +1,43 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+When I was in 10th grade, I think, I kind of stumbled upon some YouTube niche, which stuck with me forever since - the self-improvement community. I fell into a rabbit-hole of books, videos, and most importantly - apps. God. 
 
-Oh, my sweet summer child.
+So. 
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+Many. 
 
-⚠️ Your notes are all over the place.
+Apps.
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+It started off with just a To-Do list app, then I also installed a habit tracker to track my workout progress, then I installed Evernote to get all my notes in one place, but then Google Calendar also became a thing, so of course, I had to put all my events there. And so on and so on, Not to say any of these apps is bad, I still use some of them even, but what they really lacked was uniformity, the ability to have everything in one trustworthy, customizable system.
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
+This is where Notion came to the rescue.
 
+Notion managed to grab my attention by the pure fact that it had all the best parts from those different apps. It has a Calendar feature, it can serve as a To-Do list, it can store your info (one of its best qualities if you ask me), and much more. But the best thing about it is how much you can personalize it, to the extent where two different users may have completely different-looking interfaces. Let’s have a sneak peek at mine.
+
+This is the first page I see when I open the app and from there I can go into the relevant ones to start my day. The Action Zone, to the right, I’ll show you more of later on, because it is the most accessed place in my Notion - it is where I keep all my tasks, including but not limited to university to-do’s, my posting schedule for instagram and other sites, as well as personal tasks.
+
+The progress bars to the left are a silly extension I plugged in which tracks how much of the month, quarter, and year is left (and how much of my life has passed, gulp). Notion is full of such cool features, which makes each time I access it a pleasure. Every page can have its own cover art and emoji to mark it, making the whole browsing experience much more visually interesting. Of course, Notion supports a light and a dark mode, which you can change up at any point (Just click Ctrl+Shift+L, thank me later).
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+Other important features visible above are the Notes section and my Daily/Weekly/Monthly Tracking. The notes page is the one where speed of access matters, I need to be able to get my idea from my brain onto paper (“digital paper“) as soon as possible, otherwise there is a big chance it’ll get lost in the void of my mind. The tracking system is a simple table (imagine an Excel spreadsheet, but prettier), which I can see one row of every day, where I log some info that is important to me - sleep time, weight, daily coffee intake, daily highlights (the more zen of you would appreciate). In the end of the week, I make a weekly review, then a monthly review at the end of the month, and so on, so I can keep track of my goals, how much progress I’m achieving on them and what I need to fix. This helps me stay on top of things, and it gives me flexibility to change my plans from the top level down to the details.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+Now, you may be wondering, how would such an app be helpful to a more creative person? For sure it is useful if you’re a business guy or gal, or if you just want to keep track of University stuff, but can it help me be creative? Well, if it couldn’t, I wouldn’t be writing this article.
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+I will show you 3 ways in which I manage my creative flow with Notion, and how you can do so as well. 
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+## My Posting Schedule
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+This is something I set up at the beginning of every month, been doing that for a few months now, and it really gives me clarity and enables me to spend less time thinking “What should I draw?“ and instead focus my time on actually drawing.
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
+As you can see, it can function as a checklist as well, and I have ticked off all the drawings I’ve done already, which is also reflected in the global task list, so I don’t have to tick off the task a hundred times. What is more, and what can’t be seen from the picture is that inside the task, a whole new page can be accessed. Inside each drawing “task“, I can enter the details, including any reference pictures, written descriptions, even hashtags, when I plan to post the work on Instagram.
 
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
+## Commissions and Artworks
+
+This is one of the oldest pages on my Notion app, and it was one of the first I got functioning well, ever since then I have just been tweaking it here and there. The commissions’ page is again, a table with all the relevant info for a commission, including the email of the buyer, the price, the details, and most importantly, the stage at which the drawing currently is. I personally do a commission in 3 stages (rough sketch, colored drawing, and final rendered illustration).
+
+The most important aspect of Notion, at least for me, is that you can interchange between different views of the same database. As is the case with the commissions’ database, it can be viewed as a table, but it is much more useful as a Kanban board - a list of the tasks by the order of their completion, which can be moved from one phase to the other. When I finish coloring a commission I simply drag and drop it into the “Coloured“ section. 
  
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+Another important aspect is the “Money“ section. It is important as a freelancer to keep track of your expenses, so I log the price of every piece I do, alongside details such as PayPal taxes, and tips I receive, etc.
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+## Blog Posting
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+For the last part, this blog itself is the product of a few systems I use to gather ideas and content, and mainly to produce the text itself into its coherent end form (which this hopefully is). As with the commissions’ database, the blog goes through different stages, and Notion allows you to access the info from any device, so this makes writing this blog from my phone, and editing it from my laptop, for example, that much easier. I won’t attach a picture as to not spoil future blog posts I have, but the idea and outlook are pretty much the same as with the commissions above.
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
-
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
-
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
-
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
-
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+I hope you found this article useful, and if you have any Notion-related questions, shoot them in the comments, I’ll be sure to answer! ^^
