@@ -1,75 +1,39 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+It can sometimes seem incomprehensible how both you and Elon Musk, or Tim Ferris, or other productivity heroes, both get the same 24 hours each day, but the results can vary wildly. Yes, rich and already successful people don’t face the same day-to-day struggles as most others, which makes their 24 hours a bit lighter, but it can’t be denied that we don’t often utilise even the little time we get free of chores and work to its full extent, this is generally where the problem lies. Since we all have really different lifestyles from one another, there isn’t a single tool to help all, and a great deal of customisation should ensue. However, while it can be difficult to grasp why we never seem to feel energised and why everything is a struggle, there is one thing most of us are good at - understanding computer game mechanics. In this article, I’ll share my insights on how I use design intent in creating my schedule, and how life can become a lot more interesting, especially when you become the protagonist of the game called “Your Life“
 
-Oh, my sweet summer child.
+Let’s imagine something not so far from reality - the reality of people who don’t put too much intent and thought into their life, and generally just act when things get urgent, or just move along the path of least resistance. When you wake up each day with no clear concept of what follows, the truth is that somebody else will choose it for you. When you don’t have a task-list in your head, even a general one, the tasks appear sporadically, they often require your attention at the very same moment, and you secretly know you could have avoided some pointless worries if you had only managed to plan ahead. 
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+And honestly, planning for the future, especially the near one, shouldn’t be that hard, especially for things that happen routinely, on a regular basis. If you just try to imagine what happens, step-by-step from your first waking moment onward, you’ll start to see patterns, and with enough collected data, you can take deliberate steps in the direction you’d want to go in. Let’s say, if you’re like most people, the first thing that happens after you wake up is that you go on social media. Why? Most probably, because your alarm is on your phone, and to snooze it, you need to have your phone in your hands. Then you go straight along the path of least resistance, and you find yourself on Instagram for your morning dose of “Keeping up with the Kardashians“, seeing a bunch of pretty images, which makes you scroll more and more, and this is how you end up in bed for far longer than you’d want to. You can call it “An easy recipe to throw 30 minutes of your day in the bin“.
 
-⚠️ Your notes are all over the place.
+But these outcomes don’t really need to be inevitable. In fact, they’re very … evitable? (a quick Google search told me the right word is ‘avoidable‘). My solution is nothing too extraordinary, for this particular problem, and that was to simply charge my phone in the other room. You can either use an analog alarm clock or use your fitness band, there definitely are options. This way you have a clean slate in the morning, and you can start your day with just your thoughts, escaping for a little while all the social media noise.
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+While we’re on this point, I don’t have too much of a beef with social media - I think they can be great tools to keep in touch with friends, be more sociable, access content, etc. But first of all, we are already bombarded with content every second, ads can be found literally anywhere, and second of all, social media apps are professionally engineered in a way that makes them the most aesthetically pleasing, because the more time you spend on your phone looking at ads and giving out your personal data passively, the better for all the corporations out there. So it is already an uphill battle to get your path clear of distractions, and I don’t want to make it even more difficult for myself by letting my time get consumed so rapidly with so little purpose behind it.
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
+And now that we have a rather clear picture of what a typical morning can look like for the average unproductive Joe, imagine the main character of this story is Geralt of Rivia. Or the protagonist of Skyrim. Or Fallout: New Vegas. Or any video game really, imagine the main character, with all his big goals, great life missions, all the angst behind his motivation to save the world, imagine this guy never got to achieve any of this because he was too “busy“ scrolling through social media. It really doesn’t sound epic, anything that distracts them from their grand goals is a stick in the wheel of progress, and they just wouldn't be the protagonist of their respective stories if they fell into those unproductive pits.
+ 
+Now, I know this comparison can be a bit farfetched because it feels very different to battle an orc than to go to work each day, the similarity is not really obvious. However, the similar points are not on the surface level, they are a bit more meta. We have several tasks during the day, the Tasks in our Quest, to gamify it a bit. Those Tasks bring us some rewards, even if they seem a bit prosaic. The Task of waking up early to work out does not bring the immediate reward of a fancy sword or anything, but it definitely gives you points in the particular skills of “Building Strength“ and “Discipline“. This is the same logic that rules video game mechanics, and why your avatar grows stronger after fighting dozens if not hundreds of mundane enemies. They simply would not be ready to face the evil boss of the level if they don’t have the necessary skills, just how you wouldn’t be able to land that job interview if you don’t have the necessary communication skills and education to back it up.
+
+And even though we can’t always quantify the skills in our life (it really would be cool to see +1 in Strength at the end of a workout), there are still many ways in which we can use game logic to make our real life easier and more enjoyable.
+
+Ready? Let’s go to the specifics.
+
+One of my favourite game concepts to implement for organisation is the concept of stamina levels. As your character restlessly fights the evil all day and all night, they inevitably run out of power at one point and need to replenish. In games, it tends to be a tad bit faster than it usually takes, as only one loaf of bread later your avatar is all ready to fight ‘em orcs again. For me and you, we need around 8 hours of sleep (more or less, depending on age), to replenish our stamina, and even then the results aren’t always a 100% full health bar.
+
+The point of this article is not to give you sleep tips tho, maybe this will happen in another blog post. My point with the stamina levels revolves around how to spend your energy wisely. Normally, you wake up and have relatively more energy than before you went to sleep the previous night. Thus, mornings tend to be a good time to get some work done, since then your reserves are at their fullest. This is why morning routines tend to be pretty popular in the productivity fields - because getting a streamline path from your bed to your workspace is a work of art in and of itself. The more frictionless you make the waking up process, the more energy you’ll have left for the heavier tasks in the rest of the day. If you spend hours in the morning just choosing an outfit, deciding on the road to work, pondering over your to-do list, gathering negative thoughts as you scroll your social media, you will probably run out of energy sooner than if you have it all planned from the night before and just follow along your habits and routines. The less decisions you have to take in each given day, the better, so if you could do your routines without friction, you’ll most likely not suffer any sort of “decision fatigue“. 
+ 
+Even after the morning, you should try and minimise the time and energy you spend at crossroads, where yu need to take some sort of decision, especially if those are routine decisions you take every day anyway, such as “Should I work out today?“. I’ve literally felt drained on some occasions when I didn’t feel like working out, but I knew I had to in order to meet my goals, and the whole process of trying to gather energy turned out to cost me even more energy - the outcome was almost always a skipped workout. Now I try to think of it more as a fixed part of my morning. I wake up, brush my teeth, check my to-do list, work for a bit and do my workout.
+
+For more tips on how to achieve a better level of focus in terms of getting tasks done one after the other, check out my other article on the topic of focus over here.
+
+Another concept I think is really fun to tinker with, is the notion of experience (EXP) points. In games, your character faces adversity, battles opponents and gains EXP points in order to level up, or just increase their power in general. The same principle guides us in our lives as well - whatever we face and overcome consistently, becomes easier and easier to overcome. This is why people who work out try to use heavier weights as they progress, they need to up the level of their “enemy“ in order to progress consistently and not stagnate.
+
+Many people don’t fully comprehend the power of habits and what we do every day. The sole frequency of doing anything makes it so much easier for your brain to produce new nervous pathways, making the particular action more and more intuitive, to the point where you don't need to think at all during a workout, for example, it becomes almost a sort of meditation. This relates to the idea of “flow“ - working with such concentration that you get much more done than you usually would have if you were distracted or tried to multi-task.
+
 
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+The way our small day-to-day actions form our long-term results and behavior is similar to the way the food we eat makes up our body in the long term. I read somewhere that it takes 7 years for every cell in your body to have reached the end of its natural lifespan and be replaced, which means that what you eat now will make up a small percent of your organism for 7 more years at least. Of course, one batch of McNuggets won’t stay in your belly fat for a century (even though it feels like this at times xD), but if you consistently eat junk food, your organism 7 years from now will probably be in a very bad state in terms of wellbeing and health. In a similar manner, both good and bad habits are powerful tools of creation and destruction respectively, it just takes time and consistency to nourish them, and they will become either your best friends or your worst enemies. 
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+The last idea I think was interesting in the whole game-life comparison is the idea of power-ups. By this I mean, in game terminology, the items that artificially give you more power, you equip them and increase your stats. In the same way, we can find a bunch of powerful items and rituals in real life to boost our performance, because we don’t really need to operate on our raw power 100% of the time. Examples of such boosts are music playlists that are sure to get you to study with more focus, quotes that help us visualise ourselves in the future better, coffee (used in moderation), exercise, meditation, overall “tools“ that are proven time and time again to work in your favour. Now, the key for me is to know when to use what item - when you are hella tired after a whole night of work, a good nap is a more useful tool than a workout, or you’ll get injured or fall asleep in the gym. Just like you wouldn’t fight a water monster with fire, you wouldn’t tackle the feeling of sleepiness with something so strength-requiring. 
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+There are some ways where we may think we know what we are doing but we’re in fact hurting our inertia with those boosts. For example, many people, me included, tend to rely too much on coffee for random bursts of energy throughout the day. After several months of going like that, you start increasing the number of cups a day, and it tends to work less and less. What is more, you are now dependent on a beverage to get your wheels rolling, which for me at least, wasn’t a comfortable position to be in. I went through a month without caffeine just for this reason alone - I wanted to be able to use it as a boost again, but in order to do it, I needed to remember how to do stuff without it, so it could regain the meaning it had for my “power levels“. Overall, just try to think critically about what you do when you feel demotivated in the day, I believe our reactions to such problems can mean a lot in the grand scheme of things.
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
-
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
-
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
-
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
- 
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
-
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
-
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
-
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
-
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
-
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
-
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
-
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+I hope you found this article inspiring and that it’ll help you get even more motivated! ^^
