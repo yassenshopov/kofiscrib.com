@@ -1,75 +1,15 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+Creative careers like visual arts, music, sculpting, content creation in general, have surely changed the last couple of years, but there’s one thing that remains - the stigma. The stigma and the everlasting “A musician/artist isn’t a good career choice“. Many parents would try to discourage their children from pursuing a creative interest as something more than a hobby simply because other options are deemed more “stable“ or “trustworthy“. However, there are many ways in which a creative job can be a great choice, and especially in the digital age, becoming well-known and getting a good income is definitely far from impossible.
 
-Oh, my sweet summer child.
+Here are my thoughts on the topic.
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+First of all, the argument that a creative career is not for everyone, and is hard to acquire, becomes less and less realistic with each passing day in the modern age. With so so many different types of art, and so many different stories you can tell with your art, there is literally a niche for everyone, and via the Internet, you can reach more and more people who can appreciate what you do. Yes, a creative career, that of a content creator, for example, is not standard at all, as it doesn’t fit the 9-to-5 routine that most other jobs put you in. However, not really having a fixed schedule, a boss, colleagues, and all those job-related stuff, does not undermine the value and quality of your work. And honestly, if you ask me, being able to choose your own schedule to a large extent is a blessing, and not enough people get to experience the joy not waking up to catch the bus brings you.
 
-⚠️ Your notes are all over the place.
+Another related point is job stability across different careers overall. People often have the default belief that a medical professionalist, or an architect, may have higher chances of being or staying employed in the long run. While these are not “bad“ professions to begin with, they cannot be deemed bulletproof either, as many people in the medical field are routinely underpaid and they risk other aspects of their life, such as their health, even though they are high in demand. What is more, having a university diploma is no longer the only prerequisite to having a good-paying job. Markets change, technological booms await at every corner, and the fluidity of your skills becomes your most valuable asset - the ability to adapt to the changing situations and stay on top of things becomes more and more crucial. And in this aspect, content creation and art careers overall are no different. Creative careers don’t even need to follow a traditional route to begin with, a person with better content production skills and better marketing will in most cases outperform the person who relies too much on their diploma or title.
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+Now, this is not to say that all careers are made equal, this is not my point. A digital illustrator faces a very different set of issues when compared to a doctor, and honestly, they can be very much less troublesome issues. However, this shouldn’t be a setback, as many doctors report that they would love to have their working conditions become less harsh, and for you to wish to have a hard job for the sake of having a hard job is pure masochism. We all steer towards the path of least resistance, and this is not a bad thing - after all, if your career makes you too tired and bothered to enjoy the rest of your life, what’s the point?
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
+Another thing I need to mention in relation to creative careers not being made of the same material as other more traditional careers is the opportunity for growth. With other traditional jobs where you have a boss, there is an overall ceiling to your salary, and you need to be exceptionally skillful at what you do, maybe you’ll need to do a lot of extra work to get to a higher salary. So purely from a financial standpoint, believing that a traditional career is bound to be a huge profit, in the long run, is not too wise. There is some sort of stability, but as we saw when the pandemic hit, that can get thrown out of the window pretty fast as well. 
 
- 
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+Now consider a freelance career, in particular, one where you create a personal brand and gradually build up an audience. This growth is likely to become exponential over time, and every next day is likely to bring more and more eyeballs towards your work. Once you have set up the correct measures so you can profit off this growth, such as selling merch, using advertisements, monetizing your content, the rest you should do is simply monitor this system and maintain it. Such growth can lead to an unstable income at first, but with enough maintenance, and as long as you keep on honing your skills, the return on this initial investment can far outweigh the uncertainty in the beginning. Just keep on aiming and the rest is up to time and luck (and being graced by the god of social media algorithms).
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
-
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
-
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
-
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
-
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
-
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
- 
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
-
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
-
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
-
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
-
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
-
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
-
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
-
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+And one last parting line from me - think about the joy one can get from living life doing what you like. Why would you wish for a close one, especially a kid with glowing eyes, to lose that spark and requalify as something they do not see as their number 1 option? The world will never have too many artists, or too much content created, and you should try your best to support the people around you who wish to follow this road.
