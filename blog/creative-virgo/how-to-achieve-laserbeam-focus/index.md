@@ -1,75 +1,22 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+Often, especially after New Year’s Eve, we’re so caught up in the hype of creating resolutions that we find ourselves stuck with a long list of projects and ideas, which we never seem to have the energy to tackle.  You sit in front of the computer with the blank document staring back at you, both of you wondering what’s next, and then it just never happens, because the resistance is so high. I also found myself in sort of a motivational rut these days, so I wanted to share how I got myself to start doing my work in the end, and what got me going. Because, as you know, the initial motivation is just a spark, it is rarely enough to keep the fire burning throughout the whole year, and there are a number of things you can use as fuel instead (please do not light any fires by the end of this post).
 
-Oh, my sweet summer child.
+tapiritachi1.jpg
+First things first, I really believe in the notion that a task is only a true “task“ if it has some intricate value attached to it, something that makes you want to crave the result. Otherwise, it is just a chore. For example, there is a bit of a difference between doing the dishes and drawing your daily illustration. Doing the dishes leaves as a result a clean sink, and by drawing you end up with a pretty illustration and something to post and monetize, potentially. It is obvious which of the two results is more favourable. 
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+Of course, this doesn’t mean that doing your chores is pointless - they have to be done for a reason. What I’m saying is that there are a few things in our daily life that we have no other choice but to do, where the result does not really excite us. You don’t want your daily projects and self-imposed tasks to feel the same weight as doing the dishes or making your bed. When you say “I want to get really fit this year“, you probably don’t daydream about all the crunches and pull-ups you’ll have to do every week. What pulls you towards wanting to exercise is the final image of yourself, the path to this destination isn’t all that shiny. However, instead of getting discouraged, you can also try putting value into those small tasks as well, it’s all about the mindset. Even the daily exercises can become exciting in the short term when you realise you feel more energised and fulfilled throughout the day after you’ve worked out. When you focus on one single task in your to-do list, you should know the reason you’re doing it, so you can try adding it as a note under the task itself, just so you never lose focus from the end goal. 
 
-⚠️ Your notes are all over the place.
+While we are on the topic of setting manageable goals, we should mention the size of the bites you’re trying to get each day. What has really bothered me the past week, is one particular university assignment, which just seemed like a giant abstract chunk that I need to tackle at one go. When I took a closer look though, I figured out it was a lot more straightforward when I divided it into subtasks and then turned those into a checklist. Now, the project was finally understandable and I managed to go through it one step at a time. Plus, there is this minuscule bit of satisfaction from checking off the tasks as you go. 
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+It is overwhelming to put in your goals list “Write a book by December“. However, it doesn't mean it is automatically impossible, it’s just that you’re missing the plan to get there, the roadmap to success. You know, writing a book means writing the individual chapters first, editing them, writing the plot outline, developing the characters, etc. Each of these can be divided into even more tasks, and in the end, you have a long, but comprehensible list of things to do for the day, such as “Write 1000 words for Chapter 1 by the end of the week“. The more specific you get about your tasks, the better, since then you won’t have the mental barrier of not being 100% sure what’s ahead, which tends to cause so much friction in the work process.
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
+Another challenge people tend to face, and it somehow also relates to the “Write a whole book“ problem - the endless “tomorrow“ loop. You know the drill, our most productive self resides in Tomorrowland, and we seem to never get there because we do not schedule our big goals appropriately. It is easy to schedule chores because you know there are unwanted side-effects when you don’t do them - you have a full sink, a dirty bathroom, a messy room (potentially smelly). But the consequence of “not writing a book“ is … a lack of a book? It feels too abstract and obscure, and obviously not scary enough to push you into action.
 
- 
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+This is where one of my favourite phrases comes into place ([credit to August Bradley for first showcasing this idea](https://www.youtube.com/watch?index=24&list=RDCMUCfqj2oq6LVmR3ybC2nfjqKg&v=ccjPYkWKM1U)) - “Do-dates versus Due-dates“. This is literally how I schedule my tasks, big and small, I just put the date I will do them on, and it instantly feels much more real and plausible to finish the task. Now, this doesn’t mean I always do the tasks I wish I did on their Do-dates. I fail plenty of times, but I just postpone them to another date, I never remove them entirely or postpone them into the abstract future. This means, if it is on my to-do list, it will get done, one way or another, one day or another.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+Another point I plan on expanding more on in the near future (I’ve already put a Do-date on the “Write next blog post“ task, worry not haha) is the idea of doing something, albeit small, rather than doing nothing.
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+The real problem with facing a really heavy and big task is that it seems so insurmountable to begin with, that you do not attempt at all, which possibly leaves you with little to nothing done for the day. When in fact, even planning out the strategy for how a given assignment will be done is a task in itself, and you will feel better having accomplished this little first step, compared to the constant struggling of beginning this troublesome task. So, try to evaluate your energy levels when you are wondering whether you can be bothered with doing a given big task and if you find yourself a bit tired or demotivated, try out just the beginning, knowing that you can stop at any point, and you’ll still get something done. The bonus here is that in most cases, once you engage with the challenge, you’ll find yourself more motivated to finish it since you have already entered work-mode. 
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+Overall, this was a quick summary of my task-management process, and I hope it manages to inspire some of you to finally tackle the projects you’ve been planning to do since forever. Let’s stick to our habits together, I plan on releasing a blog post every 6 days in 2021, so be sure to keep me accountable! Tell me down in the comments, what’s your Number 1 New Year resolution? 
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
-
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
-
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
- 
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
-
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
-
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
-
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
-
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
-
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
-
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
-
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+Till next week! ^^
