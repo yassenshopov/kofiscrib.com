@@ -1,75 +1,46 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+It's 2021. I know, it's already as crazy as it can be. We live in the 21st century and we constantly find ourselves living in the most innovative version of the world. But this raises a question. Are we currently in a deficit of original ideas? And more importantly, are we reaching the end of undiscovered ideas?
 
-Oh, my sweet summer child.
+As we start improving in any skill, we often happen to think "I'm an absolute beginner". Another nasty thought passes through your mind, "There have been millions of people before me who have done/said this better and earlier". So in the end, you're left wondering, "Do I actually have something new I can contribute to anything?". And obviously yes, you can, otherwise, I wouldn't be writing this right now, and you wouldn't be reading it. But still, with so many amazing inventors, artists, innovators having been born before you, it is only natural that you may start thinking we are running out of original stuff to create. It may feel like anything you draw has already been drawn before, everything you achieve has been achieved before.
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+However, I still believe my works are original in their own way. And the same goes for you.
 
-⚠️ Your notes are all over the place.
+And it all comes down to an undeniable fact - the most unique thing you can do is just be you. Nobody has had this experience before, nobody has ever perceived life the way you do. And absolutely nothing can create the same stuff you do, because whether intentionally or not, you give everything your own spin on it, branding it as your own, leaving your own mark on it. And this is really all you need in terms of reassurance, you can be sure that nobody can be yourself better than you. Buuuuut this is rarely enough to make one feel confident in their self-expression, so let me convince you some more.
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+## 7,000,000,000 people out there and I wanna hear your story
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
+Here are a few cases of people not feeling like they can create something original: the artist wanting to design an original character and fearing they may have incidentally repeated someone’s own character; the writer who thinks that his story can’t be original because all of the stories have already been told; the guy who just prefers to keep quiet because what can his input, in general, contribute to the conversation if all he’d do is state facts everyone already knows?
 
+The thing that connects these people is a mismatch between what they feel they are naturally or culturally inclined to do (which is, create art in any form), and the context of all the amazing stuff surrounding us, which can make us feel very small and inadequate. Yet, when you think about it more conceptually, what actually makes something “unique“, is not the thing itself, it’s the lens through which its creator saw the world. “Mona Lisa” is a great portrait, but there have been other portraits before and after it, so why does it stick out? Maybe because Da Vinci was an astounding inventor, scientist, and artist simultaneously, maybe because it introduced some new concepts to art as a whole, who knows, I’m not too much of an art nerd to tell you. But all in all, Mona Lisa is a portrait, and it sure as hell wasn’t the first portrait ever drawn. And still, it introduced something new to the world, which only Da Vinci could have introduced, just like any creation of yours could have been created by you and only by yourself.
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+And yet, it’s not enough to throw our paint and childhood trauma onto a canvas to create a masterpiece, although I’m sure it is an option. There are several concepts I try to implement to make my voice more unique and more prominent, and this is what I’ll tell you about next:
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+## Unique Combinations
+You know how I mentioned earlier that not everything has already been created? Well, at the same time, a lot of things have already been created. 
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+And my point is that your message, your creation doesn’t need to be unique by itself. You can draw your character with the same hairstyle as this other favourite character of yours, you don’t have to invent a whole new hairdo just to be unique. It’s the story you tell with this character that matters. Maybe your favourite character has this hairstyle because of aesthetic reasons, then maybe your character can do so out of functional necessity. Maybe it won’t even matter, as long as you make their personality vibrant enough to make your readers remember them. Or maybe they are just a proxy for you to establish some grander metaphor, and they are just the placeholder in this composition. It doesn’t matter which of these it is, it is your own message, in the end. Even if it is a mash of your favourite tropes, ideas, concepts, it’s still yours because you made it. Which furthers my idea that we should try our hand at remixing ideas more often.
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
-
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
-
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
-
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
+An example in digital illustration is when you use references. If you just look at one picture, you will end up copying it, more or less. If you take two pictures, you can use the anatomy of Picture 1 and the outfit and colours of Picture 2. And thus the more you diversify your references, the more the end result will stand as its own thing. Even if it ends up resembling one of the references a bit more prominently, it is still not the same thing as the template you started with, and now it has its own story behind it. Plus, in the case of creative fields, 1 + 1 tends to equal 3, and you may end up achieving a more fluid and more interesting thing from combining two ideas than from having them exist separately, untouched by your hand.
  
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+In terms of systems thinking, this is a process known as emergence, whereby combining different systems, you may get a consequence, a side effect that could never have existed on its own. Imagine something like the story of Icarus and the Sun, [reimagined by the artist Gabriel Picolo](https://www.instagram.com/_picolo/?hl=en). He took an already existing story, the myth of Icarus, and put his own artistic spin to it, which made it an instant hit, turning the sun into a pretty girl with destructive powers and Icarus as both a victim and a perpetrator of their lovely-but-toxic relationship. It turned into something that people resonated with, which was not resonating enough as the sum of its parts. So go bash your ideas together and introduce this Frankenstein to the world! I’m sure it’ll turn out more delightful than you’d imagine.
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+## Be a Teacher
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+Another way you can differentiate yourself from the mass and achieve a unique artistic effect is by being a teacher. There is a reason why there are a million art tutorials out there, why there are a ton of programming courses and why no two teachers are the same. Your style of expression, your way of talking, and writing will resonate better with some people than with others. It is a matter of subjective factors which come into play, and there for sure will be somebody that can appreciate information coming from you more than from the source itself. There’s a reason why gifts come in wrappers. 
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
-
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
-
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
-
+You don’t need to be a guru to achieve this effect, you can just be some person who shares on the internet. For example, I’m not writing this blog as a postulate of How To Do Stuff, as in, it isn’t in any way mandatory or exclusionary to other ways of doing stuff. It’s just my collection of thoughts on the matter, through my unique prism, which may or may not resonate with you. But all in all, it’s my experience that you’re reading, and if it resonates with your experience, then all the better, but it doesn’t require too much effort or capacity to produce something like this. It’s as hard as it is talking to a friend at this point, simply getting your point across.
  
-So what do we do when we want to get somewhere? We take out the roadmap.
+And if you think there is nothing you could teach others, I beg you to think again. Even if you are just at Step 1 of your journey in any skill, you are the best person to teach others how to get to this Step 1, something that many don’t even do. In other words, you can share your experience about being a beginner, which by itself is a virtue, and can be appreciated as a heads-up.
 
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
+## Creative Outlets
 
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
+Reaching the end of this article, here is my last point - we need to share more often. Not as a way to make money, just therapeutically, as I talked more about over here. Sharing our experience, our thoughts, our insights is much healthier than just going on and on bout it in our heads, and it may be appreciated by someone across the world, but this is just the secondary goal. The main thing is to get it on paper, unleash this creative outlet and get in peace with yourself, and just feel the excitement of talking about the things you love.
 
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
+I can get annoying in real life probably because I often ramble about the same topics I write on here about - it just excites me to contemplate on what it actually means to be a creative person, and how to succeed in doing so in this day and age. And by sharing my contemplations here, I can:
 
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
+1. Get my creativity flowing, which makes me feel good
 
-3. Put in events continuously as you go along. 
+2. Resonate with my readers, and make you feel/think something
 
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
+3. Eventually, reach new places, and get to ideas I wouldl’t have gotten to if I hadn’t sat and written it down.
 
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+So if those didn’t make you appreciate sharing your original thoughts with the world already, then the last thing you can do is try it out for yourself! Do the thing you think you aren’t original enough to do, and see for yourself how people will love it anyway because what makes it unique is that it is made by you. Keep rocking! \m/
