@@ -1,75 +1,25 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+There are always 24 hours in an given day, out of which we sleep for approximately 8, then work/study/both for about 8 more, we usually spend an hour or two in commute, a minute here and there spent in cooking, eating, browsing social media, and so on and so on and so on… In the end, what usually happens is that our creative work, usually left for our spare time, gets forgotten, as we often don’t have neither the time nor energy left for it. However, by the means of good organisation and planning ahead, you can gain some extra time AND energy for the work that truly moves you!
 
-Oh, my sweet summer child.
+## Strategy #1: Think about your energy throughout the day!
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+Most people have commented throughout the years of feeling their energy reserves decreasing through the course of the day. It makes sense that we usually don’t have energy for creating art in the end of the day, even though we often have an hour or two to spare right before bed time. However, as is the case with myself included, your creative energy is not sufficient, your eyes tend to get tired and irritated more easily and in the end you may either draw something sub-optimal, or just abandon a piece mid-drawing, cause you’re not really feeling it.
 
-⚠️ Your notes are all over the place.
+Thus, it makes the more sense to prioritise your creative endeavours for the early morning, if your schedule allows it, because you are most alert, most energised, and mainly more inspired. What is more, it can become a great start of the day! When I manage to get my daily illustration checked off my to-do list, it gets me pumped to do all my other errands, knowing I have already unleashed my more creative side once during the day, and I can take a look at my drawing for motivation - if I managed to draw that for an hour in the morning, surely I can power through a few more Zoom lectures.
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+## Strategy #2: Try to batch tasks if you can!
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
+Especially for students right now, with distant learning and everything, it can be hard in the beginning to get accustomed to the “freelance“ lifestyle. You think “Yeah, I only have this small assignment for the day, I have time.“ and then you spend most of the day procrastinating because you can just start and finish it up in 30 minutes, right? As it often happens to me, whatever task I leave for after 9 pm often doesn’t even get started, so I take a different approach.
 
+Batching would mean simply categorising your tasks and doing them in a specific order that takes the least amount of recalibration throughout the day. Once you sit down to write, you don’t want to get up to the other room to clean or anything, because them you would have to sit down and get back into the creative mood again - which inevitably costs energy. The more you think about your stamina in video game terms, the more you grow to appreciate it, and no amount of coffee will help if you keep on inefficiently distributing your strength. The less distractions there are, the more you can fall into the amazing state of flow, which allows you to produce deep, quality work.
+
+## Strategy #3: Check how much time you spend on your social media
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+It may often sound like a burden. but it true that the time spent browsing through Instagram can definitely be utilised better. Even your daily commute to uni/work can be spent in a more wholesome and productive manner - you can try listening to a podcast, reading a book, or even going through some lecture notes on your phone (the perks of writing your uni stuff digitally xD). There are lost of there small 5-minute slots throughout the day, which we often neglect, but when they compound, it turns out that it is a large missed opportunity. It usually takes a lot of time to study/work out/be productive or creative, but kickstarting this habit usually takes a second - just sit down and boot up your computer, just dress n your workout clothes, etc etc. The more buffer we put between us and the start of a good habit, the more friction appears, and the harder it gets to make them stick. 
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+So, try limiting your time on social media apps, or, even better, try to consume more responsibly. What I have tried is to only “Save“ the Instagram posts that put value in my life, and then categorise them with labels. You can also try using your Instagram (if you are currently an artist trying to promote their work) as a video game of sorts, trying to gain more followers, exploring different hashtags and overall seek other posts that may inspire you! Mindfulness is key!
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+## Strategy #4: If you don’t have the time still, do [Art in Stages](../art-in-stages)! 
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
-
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
-
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
-
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
+As I mentioned in one of my previous blog posts, we often think we need to finish a whole artwork in one sitting. Not only is this very time-consuming, it is also not always necessary. We need to better adjust to the skill of ending the work session successfully, saving our files and writing down our ideas or where exactly we should start off the next time we resume the creative process. The more confident we feel in our ability to continue at a later date, the less stress we put on the notion of ending the task t o d a y.
  
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
-
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
-
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
-
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
-
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
-
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
-
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
-
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+Again, I hope you found this article useful! ^^ There are lots of other things you can do to make more time in your day for art, but these are some keystone concepts that can get you rolling on your self-development journey! Keep up the good work and till next week! ❤
