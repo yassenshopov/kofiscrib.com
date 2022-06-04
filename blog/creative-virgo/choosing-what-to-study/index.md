@@ -1,75 +1,43 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+Looking at the demographics for my website, my readers are usually in the 16-20 something range. This, plus the fact that I’m in the middle of my university studies myself, makes me think this is the right time to tell you what I believe about choosing a field of study. This won’t be any sort of definitive guideline, rather, it is a list of reasons not to take this step of your life too seriously. Just seriously enough 👌
 
-Oh, my sweet summer child.
+There is so much pressure currently, getting increasingly more overwhelming the more you approach your application deadlines. Let’s say you have a course in mind, you even chose a country and a university. All seems good, but unavoidably, you get to the point of doubt. Is this the right thing for me? Then you reassure yourself, of course it is, you were made to be a *insert job title*. Then you get to another point of doubt, you meet someone who works in the sphere and get conflicted. Even if you’re already studying and even working in your sphere, surely a moment arises when you think to yourself that maybe your choice wasn’t as good. This, at least in my opinion, comes from the fact that there are just so many options. If you are good at maths, you can go into everything from programming, to engineering, to architecture, etc. Good at English? Take languages, philosophy, literature, history, etc. And since the uni journey takes a few years, not a week or something, it doesn’t feel too intuitive that you can change your decision later on. 
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+## Sticking to 1 subject - a surefire way to frustration
+If you have ever taken a good look at any successful person, they are rarely extremely good at just one thing. Elon Musk isn’t just an engineer, he is also a businessman, marketer, manager. Take any famous creative person as well - if they had not been good at advertising, business, etc, they wouldn’t have become famous for their drawings in the first place.
 
-⚠️ Your notes are all over the place.
+On the other hand (which is really the same metaphorical hand), many people who are good at one sphere are just that. Good mathematicians, good painters, so on… If they ever get any sort of success, it would stem from their personal skills and expertise, not from the piece of paper they got at the end of their degree.
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+That’s not to say that university is useless - just the contrary, otherwise I wouldn’t be in one as well. It’s just far from the only thing you need to do in your life to get successful. As sad as it is, there are many skilled people on this planet, and in order to get the good bucks, we need to stand out from the crowd. So, try not to pressure yourself too much over what exactly you’ll study. Imagine this scenario, you choose Course X, let’s say it’s Biomedical Engineering, the course I’m into right now. I’m quite enjoying it, but this does not mean I will like it forever, and I can always go back to some of my other options - programming, graphic design (yeah, I was a confused teen). Even if I decide Biomedical Engineering is too difficult, too underpaid, I can always rely on the skills I learned in uni to still be able to pursue a job in a number of careers. And if I am so hell-bent on getting another degree, I can always try and get one with a different course - I’ll already have the necessary study skills and determination in excess anyway. 
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
+What I’m trying to say, is that the decision you make when you’re 16, 17, or 18 is probably not going to be the best one. It can still be a very very good one, but it mustn’t be the final be-all decision that will rule the remainder of your life. If you’re still not quite sure if that’s bonkers or not, read ahead, I got my arguments ready *cracks knuckles*
 
- 
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+## There isn’t a perfect job
+Just as I was doing my programming homework for uni today (I have a Python class), I thought to myself - to be a programmer, apparently, you need good organization and time management skills, as well as analytical thinking. Doesn’t this make me by default a very good programmer? For a moment I really contemplated whether being a biomedical engineer even makes sense. But then I thought on. Would I really enjoy being a computer guy as well? Maybe, maybe not. Would I have the opportunity to help people medically as a computer guy? Probably not.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+There is at least one reason why you would be fitting for some type of profession, for any type really. If someone is good enough at marketing, they’d be able to persuade you to take up literally any job. 
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+Do you have some computer skills? Why not become a computer guy!
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+You don’t know what a computer is? This is the future of the technological world, you’ll learn it, why not study IT?
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+The truth is, if you spend enough time studying and practicing something, you’ll get good at it. This is both the nice and terrible truth. I’ve always said my girlfriend is great at maths, objectively, and she is. Does it mean she needs to study some sort of engineering when she is actually interested in music and culture? Absolutely not, obviously. 
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
+And this is true even if you look at it from the opposite angle - just as much as you would be good at any skill with enough time and effort, you would also never be perfectly suited for a given profession. There are always bad days, there are always reasons to quit. This happens because humans aren’t equal to their professions. We are much more, much more complex and colourful, and if we were so rigid that we could have been put in just one box, we’d all be parked in the same office building typing our lives away. Thankfully, we don’t need to.
 
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
- 
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+## Skills are everywhere
+Somewhere above I mentioned that you can always restart at a given point. This doesn’t mean getting back at the beginning of your uni career. You can still be a uni graduate, but a uni graduate on their way to a cooking class, a coding class, an interview for a job you haven’t studied years for. Especially in our age of information (and informational overload, even), you have no excuse not to learn a skill if you wish to, and possibly have a few bucks to spare. There are thousands of free and paid courses in any skill you can think of, hell, I’m almost sure they’d start certifying people to become doctors after some classes on Skillshare (whether they should is another question).
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+From what I know of programming people, who are in university, mind you, you mainly learn programming in your own time and on the job. No amount of uni preparations will be enough if you don’t get to practice, and thankfully, practice opportunities are everywhere.
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+So it becomes more of a question of “Do I have the energy required to get this skillful?“.
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
+There is this thing I realized, as to why people choose to go to university so readily, even though it is so expensive and demanding. The truth is that once you get accepted into university, you get a free pass not to think about your future for a few years. While you’re studying, you can just study. The problem comes when you graduate and you still don’t have an idea as to what future you want to choose. And this can definitely be a good thing because at 18 years old, you are probably not in the best condition to choose for the rest of your life. Thankfully, you have lots of years to do so, and again, no decision is final and terminal. Just don’t treat uni as an escape mechanism - rather, try and perceive it as this giant workshop, where you’ll meet a ton of like-minded people, who will help guide you in the direction that will make you happy. Or, as I’m trying to say this whole article, one of the many directions that will make you happy.
 
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
+## Life is long and full of opportunities
+As cheesy as this last paragraph is, this is the truth. You’ll have literally so many opportunities to goof around and choose for yourself again and again. As long as you make some good money to keep the roof above your head, who says you need to work in just one profession? Especially when you’re young, you have enough wiggle room to experiment with how you perceive yourself both professionally and on a personal front, why not use this time to do some soul-searching?
 
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
+I have friends who knew what they’d study for as long as I know them, others are still wondering. Both have the same chances of being happy and successful, by their own definition. And there is always the chance that one may doubt their career choices, no matter how good they think they got it. Life just knows how to throw good curveballs at us. So we either get damn good at dodging (not recommended), or we take the hits and seek happiness and fulfillment even when hardship and doubt come our way.
 
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
+What do you think of university? Is it a good thing or is it the devil’s (and capitalism’s) spawn?
 
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+[And for those of you who are in uni, you can read my articles on how to get [Laserbeam Study and Work focus](../how-to-achieve-laserbeam-focus) and some [Time Management skills](../how-to-improve-your-time-management-skills)]
