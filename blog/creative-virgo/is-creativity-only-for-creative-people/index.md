@@ -1,75 +1,15 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+If you’re reading this blog post, you probably know me as “kofiscrib“, and you most probably have seen my digital illustrations and other creative works. What you wouldn’t expect though, is that I am not the most stereotypical “artist“.
 
-Oh, my sweet summer child.
+Drawing has indeed been one of my hobbies growing up, but it has never been my main interest, and honestly, I was never exceptional at it, only ever drawing inside my comfort zone.
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+However, a few months ago, in the middle of the quarantine, I had the time (and energy) to get back to drawing more seriously, eventually launching and developing my Instagram account, which started out with a lot less followers than it currently has. Eventually, this progress into me creating this website, drawing a ton of stuff, transitioning to digital painting, and eventually starting up this blog! But back to the main topic, my point was that my workflow, my overall philosophy behind creating art, is rather odd when you consider the first words that come into your mind when you think about “art“ - chaos, spontaneity, sparks of motivation.
 
-⚠️ Your notes are all over the place.
-
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
-
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
-
+I don’t know whether you believe in astrology, personally I am not 100% into it, but there are some perks for the different star signs that I have found to be quite matching, at least for most of the people I know. Me? I’m a Virgo, and if I know one thing about Virgos, is that we are deemed to be very organised, orderly and analytical. And by extension, not that creative.
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+Now, I’ve never believed that something as trivial as the time I was born was going to make me the person I am right now, but in this particular case, it was quite fitting of a description to the kind of person I am. I study Biomedical Engineering (lots of maths, lots of physics), I organise all my files in folders, I take comfort in cleaning up and I get a stroke every time I see my girlfriend’s email inbox (okay, I exaggerated a bit). All in all, I am far from the typical artistic person, and my friends are always surprised when I tell them about my current endeavour - pursuing digital illustration as a freelancer.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+And during the last few months, I myself was really confused as to how to better entwine my creative and my academic/analytical sides. Until very recently, I had no idea, but then I took a step back and observed my creative process. If you replaced the “drawing“, with anything else, be it “product“/”essay”/whatever, it would remain the same - I had created a well-operating production pipeline using various apps, which resulted in numerous artworks and pieces of content, which I would have found incomprehensible to produce in such a short amount of time. Also, the mechanics on which my business currently operates proved to be very useful in my student life as well, especially as I’m writing this post, in the beginning of my first academic week of Year 2. By utilising a number of systems, apps, study methods and habit formation tactics, I had created a steady schedule in which I balanced my social, academic and artistic life, more or less successfully.
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
-
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
-
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
-
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
-
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
+So this is, overall, this blog’s origin story. The “Creative Virgo“ will be a series of articles/essays, focusing on my strategies and tips for creating an organised life, and specifically how to implement these tactics in your art projects, or any start-up with a creative nature that you may wish to pursue. The reason to share my insights is rather simple - I have too many friends with incredible artistic potential, whose content I would like to see more and more of. So if you guys (even you, dear reader!) would benefit from this blog series, I would love it if you would spread the word, subscribe to this weekly series (Every Monday at 7 PM GMT!), and keep up the good work! Let’s bring more art in our world, in any way we can! ^^
  
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
-
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
-
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
-
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
-
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
-
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
-
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
-
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+Next week’s post will be on the topic of inspiration and creative routine! Stay tuned and feel free to comment down here, your opinion means a lot to me!
