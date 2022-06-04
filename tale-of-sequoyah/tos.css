@@ -1,3 +1,8 @@
+main {
+    display: flex;
+    flex-direction: column;
+}
+
 #newsletter {
     z-index: -2;
     display: flex;
@@ -10,16 +15,6 @@
     margin-top: -145px;
     padding-bottom: 30px;
 }
-
-#darken {
-    z-index: 0;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.158), rgba(22, 22, 22, 0.678));
-    position: absolute;
-    width: 100%;
-    height: 455px;
-    margin-top: -140px;
-    pointer-events:none;
-} 
 
 #newsletterText {
     z-index: 1;
@@ -56,4 +51,33 @@
 
 #articles {
     height: 600px;
+}
+
+.underConstruction {
+    width: 55%;
+    align-self: center;
+    transition: all 0.5s;
+    margin: 20px 0 100px 0;
+}
+
+.underConstruction:hover {
+    border-radius: 50%;
+    filter: brightness(0.9) saturate(2);
+}
+
+.txt404 {
+    text-align: center;
+    font-family: "Raleway";
+    color: #111111;
+    align-self: center;
+    margin: 30px 10px 10px 10px;
+}
+
+@media screen and (max-width: 800px) {
+
+    .underConstruction {
+        width: 100%;
+        margin: 0;
+    }
+
 }

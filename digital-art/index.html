@@ -9,74 +9,134 @@
 	<meta name="author" content="Yassen Shopov">
 	<meta name="viewport" content="width=device-width,initial-scale=1"/>
 
-	<title>About me • Yassen Shopov</title>
+	<title>Digital Art • kofiscrib</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Raleway:wght@800&display=swap" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
- 	<link rel="icon" type="image/png" href="../common/favicon.ico">
-	<link href="../common/apple-touch-icon.png" rel="apple-touch-icon" />
+ 	<link rel="icon" type="image/png" href="../resources/images/favicon.ico">
+	<link href="../resources/images/apple-touch-icon.png" rel="apple-touch-icon" />
 
-	<link rel="stylesheet" href="main.css">
-	<link rel="stylesheet" href="../common/footer.css">
-	<link rel="stylesheet" href="../common/menu.css">
-	<script type="text/javascript" src="Main_JS.js"></script>
-  <script type="text/javascript" src="../common/menuJS.js"></script>
+	<link rel="stylesheet" href="../resources/css/lofiscrib.css">
+	<link rel="stylesheet" href="../resources/css/footer.css">
+	<link rel="stylesheet" href="../resources/css/menu.css">
+  <script type="text/javascript" src="../resources/js/menuJS.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 </head>
 
 <body>
     <header id="header">
-        <a href=".."><img class="logo" src="../common/logo.png"></a>
+        <a href=".."><img class="logo" src="../resources/images/logo.png"></a>
 
         <div class="topnav">
-            <a class="topnavOnScrollUp" id="topnav1">✍ BLOGS</a>
-            <a class="topnavOnScrollUp" href="about" id="topnav2">🧬 ABOUT ME</a>
-            <a class="topnavOnScrollUp" id="topnav3">🧮 PROJECTS</a>
-            <a class="topnavOnScrollUp" id="topnav4">🛒 SHOP</a>
-        </div>
+          <a class="topnavOnScrollUp" id="topnav1"><b>✍ BLOGS</b></a>
+          <a class="topnavOnScrollUp" href="../about" id="topnav2">🧬 ABOUT ME</a>
+          <a class="topnavOnScrollUp" id="topnav3">🧮 PROJECTS</a>
+          <a class="topnavOnScrollUp" id="topnav4">🛒 SHOP</a>
+      </div>
 
-        <!--
-        <div class="dropMenuContainer" onmouseover="onHoverMenu()" onmouseleave="onHoverAwayMenu()">
-          <div class="dropMenu" id="dropMenu">
-            <a href="https://kofiscrib.com/tale-of-sequoyah">"TALE OF SEQUOYAH"</a>
-            <a href="https://www.etsy.com/uk/shop/StellaknitswonderS">PLUSH SHOP</a>
-          </div>
+      <div class="dropMenuContainer1" onmouseover="onHoverMenu1()" onmouseleave="onHoverAwayMenu1()">
+        <div class="dropMenu1" id="dropMenu1">
+          <a href="../blog/creative-virgo/">CREATIVE VIRGO 🤖</a>
+          <a href="../blog/lofiscrib/">LO-FI-SCRIB 🎶</a>
         </div>
-        -->
+      </div>
 
-        <!--Mobile Menu Section-->
-        <div class="mobile_menu" onclick="animate_menu(this), openNav()">
-            <div id="bar1" class="bar1"></div>
-            <div id="bar2" class="bar2"></div>
-            <div id="bar3" class="bar3"></div>
+      <div class="dropMenuContainer2" onmouseover="onHoverMenu2()" onmouseleave="onHoverAwayMenu2()">
+        <div class="dropMenu2" id="dropMenu2">
+          <a href=".">DIGITAL ART ❤️</a>
+          <a href="../tale-of-sequoyah">"TALE OF SEQUOYAH" 💛</a>
+          <a href="../programming">PROGRAMMING 💚</a>
         </div>
+      </div>
 
-        <!--NEW: Mobile Overlay Menu-->
-        <div id="myNav" class="overlay">    
-          <!-- Overlay content -->
-          <div class="overlay-content">
-            <a href=".">HOME</a>
-            <a href="about">ABOUT ME</a>
-            <a href="blog">PROJECTS ▾</a>
-          </div>
-    
+      <div class="dropMenuContainer3" onmouseover="onHoverMenu3()" onmouseleave="onHoverAwayMenu3()">
+        <div class="dropMenu3" id="dropMenu3">
+          <a href="../commissions/">COMMISSIONS 🍋</a>
+          <a href="https://www.patreon.com/kofiscrib/" target="_blank">PATREON 🍊</a>
+          <a href="https://www.redbubble.com/people/kofiscrib/explore?asc=u&page=1&sortOrder=recent" target="_blank">MERCH 🍎</a>
         </div>
+      </div>
+
+      <!--Mobile Menu Section-->
+      <div class="mobile_menu" onclick="animate_menu(this)">
+          <div id="bar1" class="bar1"></div>
+          <div id="bar2" class="bar2"></div>
+          <div id="bar3" class="bar3"></div>
+      </div>
+
+      <!--NEW: Mobile Overlay Menu-->
+      <div id="myNav" class="overlay">    
+        <!-- Overlay content -->
+        <div class="overlay-content">
+          <a onclick="overlayMenu2()">✍ BLOGS ›</a>
+          <a href="../about">🧬 ABOUT ME</a>
+          <a onclick="overlayMenu3()">🧮 PROJECTS ›</a>
+          <a onclick="overlayMenu4()">🛒 SHOP ›</a>
+        </div>
+      </div>
+
+      <div id="myNav2" class="overlay">
+        <div class="overlay-content">
+          <a onclick="overlayMenu2()" style="color: #d3d3d37c;">‹ Back</a>
+          <a href="../blog/creative-virgo">CREATIVE VIRGO 🤖</a>
+          <a href="../blog/lofiscrib">LO-FI-SCRIB 🎶</a>
+        </div>
+      </div>
+
+      <div id="myNav3" class="overlay">
+        <div class="overlay-content">
+          <a onclick="overlayMenu3()" style="color: #d3d3d37c;">‹ Back</a>
+          <a href="../digital-art/">DIGITAL ART ❤️</a>
+          <a href="../tale-of-sequoyah/">"TALE OF SEQUOYAH" 💛</a>
+          <a href="../programming/">PROGRAMMING 💚</a>
+        </div>
+      </div>
+
+      <div id="myNav4" class="overlay">
+        <div class="overlay-content">
+          <a onclick="overlayMenu4()" style="color: #d3d3d37c;">‹ Back</a>
+          <a href="../commissions/">COMMISSIONS 🍋</a>
+          <a href="https://www.patreon.com/kofiscrib/" target="_blank">PATREON 🍊</a>
+          <a href="https://www.redbubble.com/people/kofiscrib/explore?asc=u&page=1&sortOrder=recent" target="_blank">MERCH 🍎</a>
+        </div>
+      </div>
 
     </header>
 
-    <div id="lineSep"></div>
+    <h1 class="txt404">This page is currently under construction</h1>
 
-    <main>
-        <section id="hero">
-            <h1>Yassen Shopov • Digital art and smart stuff 🤖</h1>
-        </section>
+    <img class="underConstruction" src="../../resources/images/404.jpg" />
 
-        <section id="gallery">
+    <!-- <main>
 
-        </section>
-    </main>
+      <aside>
+        <h1>🎶 Lo-Fi-Scrib</h1>
+      </aside>
+
+      <section id="articles">
+
+        <article id="article_14_22">
+          <a class="thumbnail" href="#"></a>
+          <p class="date"><b>05/03/2022</b></p>
+          <a class="title" href="#"><b>How to make your Notion workspace run faster: Part 2</b></a>
+          <p class="description">Meet Notion - the all-in-one productivity workspace. It'll be the best digital tool you use, especially when you increase the speed. 🐇 (pt. 2)</p>
+          <a class="readMore" href="#">Read More</a>
+        </article>
+
+      </section>
+
+    </main> -->
 
     <footer>
-      <p>Copyright © 2022 - Designed and maintained by <a href="https://www.github.com/yassenshopov">Yassen Shopov</a></p>
+      <p>Copyright © 2022 - Designed and maintained by <a href="https://www.github.com/yassenshopov">Yassen Shopov</a> • All content is original</p>
+      <div id="icons">
+      <a href="https://www.instagram.com/kofiscrib" class="fa fa-instagram fa-2x" target="_blank"></a>
+      <a href="https://www.youtube.com/channel/UCcEn7kjXJu13IF2TyHp1jrg" class="fa fa-youtube fa-2x" target="_blank"></a>
+      <a href="http://twitter.com/kofiscrib" class="fa fa-twitter fa-2x" target="_blank"></a>
+      <a href="https://kofiscrib.tumblr.com/" class="fa fa-tumblr fa-2x" target="_blank"></a>
+      </div>
     </footer>
 
 </body>
