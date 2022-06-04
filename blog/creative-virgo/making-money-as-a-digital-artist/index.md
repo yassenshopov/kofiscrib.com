@@ -1,75 +1,27 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+It would be just so easy if money didn’t exist - we’d all be drawing, doing crafts, learning languages, and chilling with each other all day long. Sadly, money exists, and we need a bunch of it to keep going. But while it may seem counter-intuitive to use your very craft to generate income, so you could have more time to create more art, this is just the scenario I’m following. As I’ve argued in some of my other blog posts, there is a niche for every style, for every form of creative output actually. This normally means that there is also someone to support you by buying your artwork or giving you money in any manner. Below, you’ll see a list of ways you can monetize your artwork, the ways they are different from each other, and some ideas that I’m yet to test myself, but I believe hold potential
 
-Oh, my sweet summer child.
+## 1. Commissions
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+This is my main source of artistic income, and this is the case for many other digital artists as well. A commission is a paid artwork and is to be customized to the client’s liking. In my specific case, since I specialize in character design, this means I can draw somebody’s original character, draw a new profile picture for them, draw them and/or a friend in my style, draw fanart of their favorite characters, and so on! The functions are quite versatile, and artists are quite flexible, so one client’s commission will probably be quite different from another client’s. If you’re interested in me drawing something for you, visit this page ^^
 
-⚠️ Your notes are all over the place.
+## 2. Patreon
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+Patreon is a crowdfunding platform, where people can support you in creating your unique artwork on a monthly basis. Just for a few dollars, for example, my Patrons can get access to exclusive content, early access to new drawings, can vote on what the next drawings will be, and so on. Other people make their Patreons quite simpler, where people can just support them without too much of a reward, maybe a few exclusive artworks every now and then. In order to be successful on there (something I’m still trying to do), you need to be charismatic enough to get people to support you, and also to be able to provide some unique set of rewards for those people to appreciate. This is a form of passive income for many and becomes increasingly more popular. To see what my Patreon page looks like, [look no further](https://www.patreon.com/kofiscrib).
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
+## 3. Ko-Fi tips
 
- 
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+Ko-Fi resembles Patreon a bit, but there is no subscription required when you support an artist. You can buy a digital artist a “coffee“, by sending them a few bucks. I use this page as a “tip jar“ of sorts, wherein after a commission, if the client is happy, they can throw a few dollars my way via this tip jar.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+## 4. RedBubble or Etsy Merch
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+Selling merchandise! This one is a classic, where if people would like to see and own your design on a physical medium, they can do so. RedBubble and Etsy are a bit different, with Etsy being just a site where orders can be processed, and you have to make, pack and send the product yourself, and RB is a print-on-demand site, where against a percent of the price, the RedBubble platform takes care of everything, from production to delivery, you just provide the design for the merchandise.
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+## 5. YouTube Ad revenue
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+This is a bit obvious, but it can be a bit difficult to get off the ground. If you have a YouTube channel with over 1000 subscribers and 4000 hours of watch-time (or the opposite, don’t quote me on this), you will be able to monetize your channel and get a small amount of money each time somebody views an advertisement on one of your videos. I’ll probably be turning my attention to YouTube, but I’m still at the audience growing stage on Instagram, so that would wait. From what I know, this is quite a worthwhile pursuit, even if it takes years to get to the monetization stage.
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
+## 6. Tutorials, Exclusive Content, PDFs
 
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
- 
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+Now, this last idea is a bit more general and can be used on any of the above platforms. Artists inspire other artists, and like I’ve mentioned before, even a beginner can teach another beginner how to be a good beginner. A good tutorial can go great lengths, and these can also be monetized, not only on Patreon, but also on your own website, or on something like GumRoad, which is another digital product selling platform.
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
-
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
-
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
-
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
-
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
-
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
-
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+So the thing that connects all the dots is just being creative - not only with your content but with the ways you generate income! 
