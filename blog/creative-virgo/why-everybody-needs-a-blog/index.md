@@ -1,75 +1,35 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+[As I already mentioned in my latest blog post about why your voice matters](../the-myth-of-being-original), expressing yourself in a creative, or just in the most literal sense, is wildly important. That said, it may seem hypocritical of me to both promote self-expression online and to complain about the scale of the information-overload we’re subjected to daily. However, I reckon that there is a very big difference between niche, self-managed personal blogs where the author provides their information, experience, personal stance, and the neverending stream of marketing going on social media in all forms imaginable. There is also the point that ads are almost always unwanted and unsolicited, meanwhile, if you’re currently reading my words on this page, it was most probably due to your own wish, to see what I got to say on this particular topic.
 
-Oh, my sweet summer child.
+Overall, you can’t go wrong with putting yourself out there, no matter the number of mental barriers we often put in front of ourselves. Yet, it’s not like everyone you know and their mother has a personal blog, right? It can feel almost too self-important, all look at me, I’m ranting long-form on the internet, so what I’m saying must be all so important. But it’s often not even about making a point. I’ve found myself using this blog as a reason to contemplate topics in-depth that I already have an interest in, that I would have thought about anyway. So why not share? The worst thing that may happen is … for someone not to like what I have to say? This potential disadvantage is far outweighed by the numerous positives, including, but not limited to - the relief of putting words down on paper (digital paper in my case), the introspective effect it has on my psyche, the potential positive reaction from you guys, the way it helps me express myself better. So many pluses, so few minuses.
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+And while you probably already agree with me on why it is not a bad idea to start your own blog/site, let me now tell you why it actually a GREAT idea.
 
-⚠️ Your notes are all over the place.
+## Make your own small island in the vast sea of content
+The content being produced every day really can feel overwhelming, and it is not hard to figure out why. For me, the content that overwhelms me too often the one I didn’t really agree to consume but did so anyway. This includes ads, TV, overall, corporations, and people trying actively to get to me. Meanwhile, if I find myself listening to a podcast or reading a blog post, it is always because I want to hear this particular person speak or because the topic intrigues me, which results in a positive experience in 100% of cases. This leads me to my main point - why don’t you become such a place for others?
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+I don’t have tons of friends, but the few I have in my close circle are really dear to me and their stories and opinions always interest me. And I think that if any of them ever started a blog series, I’d love to hear their thoughts on a number of subjects, I’d love to see them ramble on and on about their passions and guide readers to where they got themselves. It’d just be a surreal experience, in a good way. 
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
-
+It would be a bit of fresh air to see people expand on their projects, their opinions, their missions, or even on a smaller scale, their everyday experiences. For example, I have lots of strong opinions on what makes a good and what makes a terrible educational system, and I regret not recording most of my experiences in school in some journal/blog form. I would have been able to look back and analyze them, think about what could be done to prevent systemic injustices in the future, and overall it would be a therapeutic experience. Also, other people may have related with my state of mind, this is how ideas evolve, when they move from one person to the other. It rarely buds all on its own in your head.
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+So, let me give you some more particular reasons why you should take action and conquer your own little piece of our online universe.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+## Why your stories matter
+It is very easy to undervalue your own life experience when compared to everyone else’s. But at the same time, you yourself probably have idols, you probably have people whose stories motivate you. For example, I find great inspiration in bigger and better illustrators than myself, I love to see their journeys, and I can argue that their life stories and their progress are even more motivating than their best works, even. I love to see a good journey, I want to see what obstacles they go through, mainly because I see hope for myself to get to where they did. And imagine if these people never recorded their experiences, all that progress would have been reduced to a simple output, just a bunch of illustrations (no offense to that, but as I mentioned, there is a bit more to life than the end results).
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+And even on a smaller scale, even something as trivial as your everyday life can become an interesting piece of content. Just like we all tell our family what we did today at the end of the day, there are always stories to tell and something to ponder about. Man, if only I recorded more of what happened to me in high school, now that would be awesome. I’d love to see more of how I matured into the person I am right now and where some of my current character traits came from. 
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+What is more, your experiences can definitely resonate with somebody, even if it is at a later point, where your writing style and audience have both matured. More on the topic of blogging as a means to friendship in a second.
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+## Increase your risk of exposure!
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
+Imagine if all the people you’ll ever meet were your current friends. Not to say that they are limiting or limited in any way, but there is surely a wider spectrum of people out there for you to interact with if you allow your persona to be exposed to people from different cultures and mental headspaces. Many people, I included, can be greatly moved and motivated by others, and their influence can be a great force in my life, even if they are nowhere near me physically. This is why the Internet is such a blessing, it provides instant access between your ideas and any other person’s ideas all around the globe, no matter the distance. Plus, by indulging in the topics you find interesting in something like a blog, you’ll reach people who have vaguely the same interests, but maybe just a bit to the left or right - meaning that they may make you see your interests and the topics you think about just a little bit differently, enough to expand your mindset.
 
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
- 
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+It goes the other way round as well, your ideas may find high emotional resonance in the minds of others. It is a great feeling when somebody tells you your work moved them/inspired them into some sort of action, and I think this is what we people are all about anyway - changing and influencing each other so we can experience more and more.
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+## Be the place (special) people flock to!
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+Finishing up, and getting back to the metaphor of being an island in the sea of content - just think about one possibility. Your blog can become somebody’s afternoon pastime, the thing they look forward to seeing the minute you post it. Honestly, my favourite mutuals on Instagram are those who hurry to interact with my posts as soon as I publish, their excitement really makes me happy!
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
+Of course, this will happen with this, and every other newbie blog after quite a while, but even the small incremenral growth in the beginning is really important. Seeing that number of readers grow from one digit, to 2, to 3, then to a thousand, now this takes a while, but it is so satisfying once you get there.
 
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
-
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
-
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
-
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+And one you become a bookmark on somebody’s web browser, you’ll know your stories have definitely been worth sharing at least once.
