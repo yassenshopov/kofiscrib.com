@@ -1,75 +1,25 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+Do you consider yourself to be part of the creative field or do you think of yourself more as a science-y person? What if I told you that we all have a bit of both in us?
 
-Oh, my sweet summer child.
+There is a wide gap in our society between the people in art-related professions and people who are more mathematically or scientifically interested. I personally happen to be in touch with both sides, but that hasn’t always been the case. Ever since I started showing interest in academics, it has become a bigger influence on my life than any sort of art form could have been. And it wasn’t out of personal preference either, it was just obviously a lot more valued in society. Creative endeavors didn’t seem to get you far, except if you were exceptionally gifted. And I was just a kid with a knack for maths, who somehow also happened to enjoy drawing Pokemon. It was kinda obvious which road would get me further career-wise. However, if I had only pursued success academically and never tried going back to the arts, I wouldn’t be writing this blog post right now. 
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+In a world far too dark for creative people to be taken seriously, it becomes a great challenge to choose the not-so-traveled path. Even though there are numerous examples of people becoming very successful and fulfilled pursuing art in any form, there will always be this stigma that they are somehow outliers, exceptions to some sort of global rule. What I believe, and what I will be defending in this article, is the opinion that people can be in touch with both their artistic side and their less-creative interests and talents, even if they seem immeasurably unrelated. There must be a reason why painting, singing, and writing are among the most common forms of therapy and mediation for people too stressed out in this already overly stressful world.
 
-⚠️ Your notes are all over the place.
+## Categorization is Pulling Us Apart
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+People love to put others, and themselves, in boxes. The clearer the label, the easier you’d be perceived, which apparently is important. It is difficult to imagine a person as being something more than a one-dimensional character, in possession of multiple outlets for their complicated soul. From some unspecified point onward, you have to be put in a box, and it’s dubious who is more (un)lucky - the kid with the sketchbook being pressured into studying law, the kid with an affinity for singing and music but lacking the talent to be the best, or the kid who was never pushed into having a non-academic hobby, and grew up with zero outlets for their stress and frustration. This great divide between “art people“ and all the others has been artificially created as generations went by, and people tend to forget that Da Vinci was both an inventor and a painter.
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
+We are rarely built to be streamlined in just one niche. The whole concept of the left and right hemisphere of the brain is mostly a poorly-understood metaphor to further the concept of people being either this or that, never both. Yes, we are all very different from each other and we can be compared based on a number of objective and subjective spectrums, there is competition in every sphere out there. But in the general sense, we can agree that the basics of the universal human experience are not so related to a shared concept of math or language, but more so to a uniquely human expression of emotion, both positive and negative. By further developing our openness to art and the creative front, we can increase our chances of feeling more connected to our innermost selves. Here are a few takes on how we are more connected and alike than you might anticipate:
 
- 
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+## 1. Engineers are inherently creative
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+This may seem like the farthest of stretches since most people plunge into these careers/uni courses with the idea that they will study tons of maths, physics, mechanics, everything non-creative you can imagine. Thus, it’s a bit counter-intuitive that such a science-based field has so much to do with the creative process. However, it’s exactly through one of my classes on “Engineering Design and Modelling“ that I even came up with the idea for this blog post. Turns out that to come up with any sort of engineering solution, and to create a simulation/model of it, you need to follow a process more or less similar to what you do when you want to produce a creative work of any kind. Think about it, you start with the brainstorming bit, where you try to put the pieces of your knowledge so far in place, see if they fit together, and mix and remix those combinations until a suitable one appears. If engineering was as uninspired as most people think, then everything would have already been invented - that is, if it all came up to applying a formula and sticking to the method. There’s a lot more trial and error involved, and some of the most brilliant solutions are actually as inspired as many artistic masterpieces. The plane design, for example, takes large inspiration from birds and other avians. Observing nature and imitating it is something inherently human, and both creatives and non-creatives indulge.
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+## 2. Artists are problem-solvers
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+On the other side of the coin - artists also have a bit of both yin and yang in themselves. As much as an engineering draft can resemble an artist’s sketch, the same can be said for the opposite. When you have a creative medium, it is just a tool, like any other - it needs intent behind it, some point you want to make, a message you want to share with others. An illustration is just one way to convey such a message. Any sort of visual medium, or any other for the matter, can provoke a strong emotion in someone, possibly moving them into action even. Well, if you want to provoke this action, you need to think like a problem solver. You follow the steps. You choose the best colours, the best shapes, the best lines, and as much as art can be considered subjective, there are some objective trendlines it often follows, such as perspective, colour theory, etc. So as much as any artist wouldn’t wanna admit it, a drawing is a whole process, and a near-scientific one as well.
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+## 3. We are all builders
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
+There are different people reading this blog, both those actively pursuing something artistic and those who are very far from it. In both cases, what makes us human is the desire to build something. An object, a tool, an experience, an emotion. Create something from semingly nothing, make lasting memory of the temporary turbulence in our brains, turn that vigorous excitement of creativity into a line in the sand, a lasting impact of a momentary vision. 
 
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
- 
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
-
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
-
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
-
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
-
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
-
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
-
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
-
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+And when we pursue these inherent instincts to create, in one form or another, we are true to ourselves. Even now, writing this blog, I feel determined and motivated to pass on my message. Just an hour later I’ll probably be studying for university, most probably be less motivated, but I would still do it out of this same wish to do something useful, albeit in the long term. So, as a final sentence for this surprisingly poetic blog post, we can all dig a little deeper and explore our creative sides, in order to make our life more interesting, and our souls a bit more vibrant.
