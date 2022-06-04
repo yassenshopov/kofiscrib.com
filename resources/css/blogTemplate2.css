@@ -190,6 +190,17 @@ aside .recs img:hover{
     text-align: right;
 }
 
+.spotify {
+    align-self: center;
+    justify-self: center;
+    margin: 20px 0 50px 0;
+    transition: 400ms ease-in;
+}
+
+.spotify:hover {
+    filter: brightness(1.5) saturate(200%);
+}
+
 @media screen and (max-width: 800px) {
     :root {
         --font-size-h1: 40px;

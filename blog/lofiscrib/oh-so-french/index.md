@@ -1,0 +1,27 @@
+Week first of musical adventures with Heni!
+
+Hello there and welcome to this week's discoveries where I'll be introducing you to five new pieces you can add to your Spotify playlist to spice your library up a lil bit. They are most certainly carrying a soul, carved deep into the lyrics and fine instrumentation, echoing also in the leading vocal, that's gonna make your friends say: “How do you know this one? You must be digging these things somewhere!”.
+
+## Stromae - L'enfer
+
+Paul Van Haver, better known by his stage name Stromae, is an incredibly talented Belgian musician, rapper and songwriter that combines in his art fragments of touching french lyrics, blood-awakening beats, great sense for instrumentation and clear, most recognisable and unique vocals that's going to make you say: “Oh la la!”. His latest song “L'enfer” (in translation: “Hell”) seems to be a narrative about isolation, loneliness and suicide provoking thoughts that are making the person go through a living Hell. But don't get too nervous here, it's the desperate and dark parts of this song that make it stand out as a true masterpiece. He had incorporated some amazingly fitting female vocals carrying a melody deeply Persian or generally speaking, Oriental that makes your whole body be covered in goosebumps. You won't regret adding this one to your playlist, folks!
+
+## Poplamoose - Je Me Suit Fait Tout Petit
+
+The second song I have chosen for this week is an old french song, composed by Georges Brassens - a french singer, composer and guitarist, that came out in March 1956. Amazing, isn’t it? The song bears the name of the whole album, in which the piece was released. The original is played by a “triple trouble” - Brassens and two other exquisite instrumentalists that master the sound of the second guitar and the contrabass. The song became so popular that in 1976 Brassens received a “Golden vinyl” as a certification for the numerous sold copies of the album. In 2020 the popular American band “Poplamoose” made an interesting revamp and refurnishing, adding a little sparkle to the piece, as well as a profound french feeling!
+
+## Plastic Bertrand - Ça plane pour moi
+
+Aaand another hidden french gem coming your way, you better watch out! This 1977 classic is composed by the Belgian singer and songwriter, producer as well as television presenter Roger François Jouret, better known with his pseudonym Plastic Bertrand. Or so we all thought! The song has a very spicy story, involving copyrights scandal after its literal jump into the stratosphere of fame. Apparently, the credited artist Plastic Bertrand was not the actual singer and composer of the song - it was actually a deed of Lou Deprijk who produced it in a studio in Brussels. The song has an English version “Jet boy, jet girl” which has even spicier lyrics - you better check it out! The song has a catchy beat and a very 70s feeling, interesting visuals and a unique way of singing by almost narrating the lyrics of the song. Most certainly, a treasurable addition to your playlist!
+
+## Gang of Youths - Achilles Come Down
+
+I bet you are wondering why I have put this song on this week’s french discoveries and you have every right to! I really wanted it to be included in this list firstly because it has such an amazing feeling to it that you can’t help but sing it away with french passion. Secondly, I wanted it included here because it has five interesting passages in french in between the English lyrics that are really moving and thoughtful. They fit perfectly with the thematics of the song that narrates the grieving process of Achilles over Patroclus’ death on the battlefield in front of the Trojan doors. It is a beautiful elegy about the heart-broken and still full of rage soldier that plans on killing himself, convincing himself that his life no longer holds its purpose and then, guided by the vocalist of the song, he realises just the contrary: “Ah, it’s more courageous to overcome”…
+
+## GIMS - Brisé
+
+I couldn’t have missed this amazing artist, not in a million years - and you will find out for yourself why is that when you listen to his music. Gandhi Bilel Djuna, better known by his stage name Maître Gims (or just GIMS, as it is stylized) is a singer, songwriter and rapper from a Congolese-French origin. He used to be a member of the french hip-hop band “Sexion d’Assaut” and later pursued a solo career (for which we are eternally grateful ‘cause so much beautiful music wouldn’t have been born!). His unique art style, deep voice and insanely technical vocals certainly adds another layer to the beautiful instrumentation and lyrics that make his songs recognisable and even international hits. I haven’t chosen his most famous song for this list because I believe it’s better for all new listeners to dive into an artist’s unpopular works in order to examine his true art style that is not occupied by the mass audience and its demands. Take a seat and enjoy!
+
+Well, buddies, that was all for this week. I hope you enjoyed our little french “aventure” into the music world and if I might add, I hope you include these songs and many more into your mind music library (or at least your Spotify one).
+
+Have an amazing week and see you next time!
