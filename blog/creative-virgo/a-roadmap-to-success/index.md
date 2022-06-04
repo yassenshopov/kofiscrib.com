@@ -1,75 +1,21 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+Near the end of 2020, I reached a rather critical point in the development of my art profile. I was really wondering how to continue, what art do I wanted to keep on making, what was holding me back, what strategies do I need to construct going forward, all that jazz. And I think that when at a crossroad like this, you can A) take a step back and assess the situation and B) go headfirst into the unknown and find out.
 
-Oh, my sweet summer child.
+However, when I thought about it, if I just kept on posting what I felt like, I would feel so so confused all the time, and my attention would be further diverted to thinking “What should I post today?“ every single day. This is why I decided to create a very abstract, but still realistic, roadmap to my success as an artist in 2021, here’s what I did.
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+As you may expect, it all starts with a blank canvas. Before you take a step in the right direction, you first need to realise what the different directions are, on a most basic level. That said, a little bit of spontaneity and improvisation here and there would not hurt at all, and would even make you feel more excited about your creative endeavours. Still, I think we all need a general sense of direction, a sense of alignment with our goals, to eventually get closer to them. And I realised for myself, that it would be impossible to create a posting schedule till the end of the year, it would just be too much effort - however, what I could do, is think about the routines I can do day to day, week to week, month to month, that as a result will push me the way I want to go. Because believe me, as much as I don’t like it, my default state isn’t “action”, and I surely need a system of sorts, a safety net, so when I feel tired and not in the creative flow at all, I have something I can rely on, to still get the results on time.
 
-⚠️ Your notes are all over the place.
-
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
-
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
-
+In my specific case, this made me think “How would I want my profile to look like a year from now?“. I searched through the portfolios of other artists, to figure out what I wanted to change in the style of my personal aesthetics, and as you may have noticed, [there is quite the change in the general feeling of the things I post from a given point onward](https://www.instagram.com/kofiscrib). I figured out that Instagram’s format allowed me to make a template - I could post a few thematic posts (the monthly theme was something I had decided on beforehand), and I could fit in the posts for “Creative Virgo“ every 6 days as well, all the while retaining a pleasantly looking feed. Instagram is just one example, I plan on putting in more effort into my Patreon, creating a schedule for it, as well as for the occasional commission work, so I always know what I will draw at the beginning of the day.
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+This leads me to the best part of having a plan - you wake up and don’t really have to waste precious morning energy into deciding what you’ll do today. You just look at the schedule, see “Today I have to draw X, Y, and Z“ and you start, not really wandering by yourself into the sea of uncertainty (God, that was poetic as hell). It lifts that mental burden off your shoulders, the same way preparing your outfit the night before, and you can use your increased mental concentration throughout the day into taking a bit more important decisions.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+Because honestly, preparing a to-do list doesn't save that much time by itself, but reducing the friction every time you try to do a task, or switch between doing tasks, can overall account for a pretty seamless workflow, and you’ll most likely get much more done, than if you paused every five minutes to take a new decision. I recently came to the realisation that multi-tasking sounds great only in theory, but when personally try it out, I end up with a bunch of unfinished tasks, little progress made on each of them, increasingly more friction when I switch from one task to the other and so on. It has been shown numerous times that the illusion of multi-tasking comes down to you just switching between tasks faster and faster, which can take a great toll on your mental energy, compared with the scenario where you just sit down and write, like I’ve been doing in this 1-hour slot (okay, I ended up snacking and browsing social media for a while, but we’re all human).
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
-
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
-
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
-
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
-
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
+Another key point to my concept of a roadmap to success is the idea of projects. In my case, “becoming a better artist“ is the general goal, but with it sounding just like this abstract blob, I will probably not get far. So under that, in my New Year resolution list, I started writing what exactly I want to do. What is a “better artist“? What am I lacking in currently, how should I exercise? I found out that I need to gather better references for my drawings, to experiment more with the facial expressions of my characters, to try more often to tell a story with just a few drawings, as opposed to a single picture with loads of text under it. After all, a picture tells a thousand words, so I will definitely be veering in the direction of adding more details in the drawing as opposed to simply making more vibrant characters.
  
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+So going back to my point, projects can act both as subtasks of your grand vision, and as milestones, after the completion of which you can pat yourself on the back. Often we may find ourselves on the right road to our imagined success, but when we do not reward ourselves at the right intervals, we can lose focus and default to doing nothing and once again wondering why we didn’t progress at all? Take it one step at a time, one daily drawing, one daily to-do list at a time, and let the compound effect do its job. 
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+To end this blog post, I’ll leave you with a quote from one of my favourite books, “7 Habits of Highly Effective Teens“ by Sean Covy, on the topic of habit building:
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
-
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
-
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
-
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
-
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
-
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+> “I am the servant of all great individuals and, alas, of all failures, as well. Those who are great, I have made great. Those who are failures, I have made failures…
+> Who am I?
+> I am Habit.“
