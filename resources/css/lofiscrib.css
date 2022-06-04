@@ -87,30 +87,33 @@ aside h1:hover {
     padding-left: 3%;
     padding-right: 3%;
     font-size: 17px;
-
 }
 
-#article_14_22 .thumbnail {
-    background: url("../../resources/images/creative-virgo-thumbnails/AdaNum2_thumb.jpg");
+.underConstruction {
+    width: 55%;
+    align-self: center;
+    transition: all 0.5s;
+    margin: 20px 0 100px 0;
 }
 
-
-#article_13_22 .thumbnail {
-    background: url("../../resources/images/creative-virgo-thumbnails/AdaNum1_thumb.jpg");
+.underConstruction:hover {
+    border-radius: 50%;
+    filter: brightness(0.9) saturate(2);
 }
 
-#article_12_22 .thumbnail {
-    background: url("../../resources/images/creative-virgo-thumbnails/AdaPosing_thumb.jpg");
+.txt404 {
+    text-align: center;
+    font-family: "Raleway";
+    color: #111111;
+    align-self: center;
+    margin: 30px 10px 10px 10px;
 }
 
-#article_11_22 .thumbnail {
-    background: url("../../resources/images/creative-virgo-thumbnails/AdaChase_thumb1.jpg");
-}
+@media screen and (max-width: 800px) {
 
-#article_10_22 .thumbnail {
-    background: url("../../resources/images/creative-virgo-thumbnails/AdaPara3.jpg");
-}
+    .underConstruction {
+        width: 100%;
+        margin: 0;
+    }
 
-#article_9_22 .thumbnail {
-    background: url("../../resources/images/creative-virgo-thumbnails/AdaMor_thumb2.jpg");
 }
