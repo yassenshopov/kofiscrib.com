@@ -1,75 +1,29 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+It happens very often - you have a rather incompetent teacher or lecturer, and you end up having to teach yourself quantum physics, music theory and anything in-between. However, once we leave school or generally take up a hobby unrelated to academics, want it or not, we need to acquire the skill of acquiring a skill. Pretty meta, huh?
 
-Oh, my sweet summer child.
+This blog post won’t tell you anything revolutionary, but it will deconstruct the learning curve for the most broad skills - in particular drawing digitally, for, uh, reasons xP
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+## Step 1: Figuring out the particulars of a given skill/piece of knowledge and getting to know the subject.
 
-⚠️ Your notes are all over the place.
+In the example of digital art, when you get into it, you see all sorts of fancy layer names, digital tools, custom brushes, effects and so on. It can become overwhelming at first, so we should try to differentiate between the more general fundamentals and the advanced skills that will later help us develop our own style and create something truly unique. Something that often stems from this step if you are organised enough, is forming a plan for learning. It will be helpful to know what comes ahead, like knowing that after you figure out the controls on the keyboard to help you Undo (Ctrl+Z) easily, you get to know about more exciting elements - such as changing the opacity of layers, smudge brushes and glowy effects (and then spend most days learning new and new gimmicks, as there very rarely is a finish line when acquiring a skill).
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
+## Step 2: Struggling and getting the basics wrong. 
 
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
+Doesn’t start out like this every time, but very often, especially when you are learning something on your own with only web resources available, it will seem daunting and downright impossible to produce excellent work on the spot. It is also the reason why we look back at our old drawings and cringe - our taste and our skills have both improved and we realise that our current skill-set is lightyears ahead of what we could do when we first started off. 
 
+Of course, don’t let the missteps you take in the very beginning stop you from producing! A thousand subpar digital drawings of your favourite anime character are still very much better than a single drawing that you try to get right for months. In the beginning stages especially, quantity beats quality every time. 
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+## Step 3: After you become decent, find mentors and seek tutorials!
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+Practice, practice, practice! This is what most advice helpfully nudges us towards. And while it definitely is true that practice will get you far, a sailor going in the right direction slowly is still on the right way, but a person swimming in circles can push as hard as they want to - doesn’t mean they will get too far. This is where your personal taste (for aesthetics mostly) and your intuition can lead you to your idols, and in general to the people you want to imitate and whose work influences your own.
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+And it becomes easier with time to look at an artpiece of someone you admire and quickly figure out what exactly it is that you enjoy - whether it is the character, the outfit choice, the colouring, the shading style or anything else. After you notice what you like, try to steal like an artist. And no, this doesn’t mean reposting or tracing their work.
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+Once you know what you like in a particular artwork, try your best to understand it! You will very soon find out that the ‘secrets‘ of most good painters and digital illustrators is actually a pretty popular trick - maybe it’s shading with the Overlay setting in layer mode, or tweaking the characters’ proportions to look more comic-like, there are a tons of little sub-skills you will notice, and what is more, it is entirely up to you to make them part of your toolkit!
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+## Step 4: Self-reflection, introspection and self-actualisation!
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
+Those words can sound all zen and guru-ish, but it is a fundamental truth that the last and continuous step that happens at most endeavours is exactly this. You need to look at your work, judge it for what it is, and then use it as a reference point for growth. It is rarely linear growth, but for example, if you notice that drawing hands frustrates you a lot and they rarely turn out good-looking, you need to figure out what’s wrong and maybe try practicing it in your next drawing. Maybe you don’t know anatomy well enough, or maybe your perspective is a bit off. Whatever it is, keep a close eye on your progress and you will soon see improvements - remember, the more specific the thing you want to work on, the easier it will be to figure out if you’re actually improving. It is very easy to say “I’ll practice anatomy“, but it almost never leads to significant progress. Try instead to practice a specific part of the body, like the eye, the neck, joints, muscles, etc.
 
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
- 
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+I hope this blog post made you think about your own learning journey and how much thought you’re putting into your new endeavour. Wherever you are on your artistic journey, it is always a good thing to know where you’ve come from (in order to feel good about the progress made) and to have a goal you’re heading towards (so you can figure out a way to get to the level of skillfulness you desire).
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
-
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
-
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
-
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
-
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
-
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
-
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+As always, do hit me up in the comments, and in this particular comment section, do share what you want to work on and what skill are you trying to teach yourself ^^
