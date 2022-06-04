@@ -1,75 +1,56 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+A to-do list can be both a blessing and a curse - it relieves the stress off your poor brain because you no longer need to juggle with a hundred mental tasks, but now you're also supposed to ... do those tasks? Now this is where it gets confusing. It simply isn't enough to "know" what to do in order to get it done effectively. But I don't really blame you - nobody ever teaches us this, neither at school, not at home, and you just get the label “unmotivated“ on your forehead for not knowing how to tackle a to-do list. There is a light in the tunnel tho! I utilise a number of steps when I construct my daily list of tasks, which help me actually get most of it done (yes, I almost never get it done to 100%, but even 70% is better than nothing at times).
 
-Oh, my sweet summer child.
+One reason I think the to-do list is extremely important is because of the powerful motion of being on autopilot. It can be both a good and bad thing, and as you can expect, it is a bad thing when you aren’t the person that has set up the pre-programmed course of the flight. If you act on your day because of your usual quirks and habits solely, you’ll only get as far as you got yesterday, and probably less far. So why perpetuate this lazy vicious cycle?
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+By the end of this article, and if you implement my 4-step process, you’ll be at least one step ahead of the curve, you’ll get off track much more rarely, you’ll increase the number of things you get done in a day and most importantly, at least in my humble opinion, you’ll feel more in control.
 
-⚠️ Your notes are all over the place.
+## The Productivity Headstart
+The first step to a day full of completed tasks is to know what you need to do in the given day, duh. So you should sit down either at the beginning of the day or the week, to brainstorm, write down everything, small and big, from showering to getting that assignment started and finished. Yeah, the resulting list will be hella longer than what you’ll probably get done in a day, but just the feeling of off-loading your brain would be worth it, and you’ll be set on your way to completing all that in part 2.
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
-
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
-
+Now part 2, or the “structure and refine“ part, will actually make the projects possible to do. Nothing is too big to tackle if you handle it the right way, and as Archimedes said: 
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+> “Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.“
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+When you follow along with my process, you’ll be at a place where you don’t spend too much time buffering in between tasks, [and you’ll potentially achieve a greater sense of flow](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202). ( -> this is a book I haven’t read, but I’ve heard great things about, and it basically introduces the idea of optimal working experience)
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+So, to the main course:
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+## Step 1: Chronology first, priority second
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
+That’s the gist of the tip - the order in which you do your tasks matters a lot! For me, it just makes sense, cause otherwise you just cherry-pick the more fun (or “less boring“) tasks to do first, which is fine and all, until you’re left with the heaviest tasks at the end of the day. 
 
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
-
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
+In order to prevent it, I like to use the knowledge of my own behavioural patterns. I know that I have more energy in the morning, so it makes sense to start with the university work in the morning, and do art commissions later in the day, where less cognitive power is needed. The late afternoon/early evening is also good for a workout, cause it’s just the right time between the morning clarity and the evening serendipity. Not only will this help you follow along with more discipline, but it will also be a pseudo-schedule, which will help you predict your most productive and least productive periods as well.
  
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+The second half of this step is to order by priority. Yeah, I can say that drawing my daily post is 1st priority, just like my uni work which is 1st priority, and working out is 1st priority, and so on and so on… While we can theoretically say that they are all important, as they are, this won’t get us far, as we’ll still default to doing the least hard task. So, order them by priority, for real, and think of it this way, “What is the thing which would bring the worst consequences if you kept on neglecting?“
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+## Step 2: Make the subtasks manageable, imaginable
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
+It may seem obvious, and I’ve said it numerous times before, but writing “Do that essay“ in your to-do list won’t make it easy to tackle, at all. You need to be much more imaginative with the visualisation process before you start a task. I didn’t really imagine myself sitting down and writing this blog post in one go, so I divided it into subtasks, like, brainstorm ideas, make the page on the website, write part 1, part 2, and it’s done. It may seem like bonus work, but believe me, it will save you so much time wasted on gathering the power to do a heavy task in the end.
 
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
+The better you can imagine yourself acting on any task, the higher your chances of actually doing it. Law of attraction, as they call it, you attract what you think about. But more simply said, the less mental resistance, the more efficient you are. 
 
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
+## Step 3: Prep for the fight!
 
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
+Because it is a fight! You get up and you find yourself against a list of enemies, small and big bosses that have the upper hand. That is, if you come unprepared.
 
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
+The battle with your to-do list actually starts the previous night, when you manage to cast a number of spells on yourself to get fight-ready. And the list of status boosters isn’t even that long, yet if you do all those, a successful day is much more likely to happen:
 
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
+Get a good night’s sleep (I don’t manage too often, but it feels bad when you cut your sleep too short for too long)
 
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
+Manage to start your morning without your phone in hand
 
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
+Have your to-do list organised the day before
 
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
+Get your shortcuts ready! By this I mean, reduce the buffer between you and the successful day - get your outfit ready beforehand, clear the sink before you go to bed, you get my point.
 
-3. Put in events continuously as you go along. 
+Also, if you wonder where all the video game comparisons come from, [check this article on the “Gamify your Life“ topic](../gamify-your-life).
 
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
+## Step 4: Observe yourself!
 
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
+You are the person with the most insight into your own behaviour, on your patterns. You know when you get tired, whether coffee gets you more energised or more tired, when you naturally start feeling sleepy, and so on. Especially after several quarantines already, we all know what it’s like to live the same day again and again, so you might as well start taking notes.
 
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
+Once you have the full picture, you’ll be much more prepared to order your to-do list in such a way that it resonates with your natural rhythm, instead of clashing with it.
 
- 
-As for the weekly review I personally do, it consists of the following points:
+I hope you found this helpful, and if you did, I’m sure you’ll find the 2 videos below helpful as well. 
 
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+Cheers, and stay awesome!
