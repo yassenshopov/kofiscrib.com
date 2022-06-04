@@ -1,75 +1,25 @@
-At the start of a new school/uni/college term, we are hopeful, ambitious, and most importantly - confident that we will be disciplined and focused throughout the year.
+With so many ideas floating in your head, and so much inspiration all around us, this should mean there is never a point at which we don’t have what to draw, right? I wish.
 
-Oh, my sweet summer child.
+It is very easy to lose inertia when you’re running out of ideas, so I compiled a list of little and big concepts, which can evolve into whole themes to develop over a long period of time. Just remember - there is literally always something to draw, it just often isn’t the first thing on our minds.
 
-If you’re even a little bit like me after just a few weeks of hustling, the following applies:
+## 1. Experiment with skills you need to work on!
 
-⚠️ Your notes are all over the place.
+Here you can combine content creation with the honing of your skills, which is very much necessary in order to grow artistically. For example, I was kinda struggling with anatomy, and I recently found some really good refeence pictures to draw inspiartion from, so I decided to convert this need for exercise into the Tokyo Ghoul series of 6 consectuive posts. The end result is a bunch of post-worthy content, plus some improvements in terms of body proportions and colour schemes. Some things you can make a series of posts on (while improving upon them) include: faces, poses, proportions, backgrounds, colour combinations, shadows and lighting, etc.
 
-⚠️ Your deadlines are piling up and you are staying up late to get on track.
-
-⚠️ You have started neglecting your own priorities in favor of schoolwork.
-
+## 2. Try one of the numerous challenges like Inktober, Mermay, Huevember.
  
-All of those can lead to an increase in your stress levels, which will make it even harder to adjust your focus and stay disciplined during the term. And stress can lead to a ton of unhelpful things concerning your health, such as a decreased quality of sleep, slowed-down metabolism, a decrease in the quality of your immune response.
+Each of these is specifically targeted to make you work on a particular set of themes for a longish period of time, and for you to practice the habit of daily drawing. Most people, me included, fail to maintain a 30-day streak, but it is the intetion that matters, and the learning potential is really vast. Shoot for the moon, and if you miss, you’d still be among the stars, as cliched as it sounds. You really don’t have to wait for the particular month to start in order to get the challenge going. The hashtags are mostly active throughout the year anyway, and I managed to generate quite some following by doing the Huevember challenge (made for November) in May, so don’t be intimitated.
 
-So, we already agree that stress is the enemy and it is most commonly caused by too much work piling up. In this article, I will list 3 ways in which you can zoom out on your life and reconfigure your priorities, essentially restarting your routines and getting you back on track.
+## 3. Draw This In Your Style for the win!
 
-You can think of it as the **Zoom-out process** or the “Have you tried turning it off and on again?” approach.
+This is a challenge that took off this year, and it is widely accessible, because anyone can make a cute drawing, label it as DTIYS, and you will get at least a few people drawing your concept in their unique style, which really works well for establishing a strong community around your art. Still, there is another side of this coin, when you find an artist you admire a lot, they most likely have such a challenge on their feed. This way you can improve your art by studying theirs, and you may even generate some new following, if the famous artist gets to boost your artpiece via a story. Plus, this never gets old, there are several artists that I follow that mainly do other people’s DTIYS challenges, and still manage to keep ot fresh and interesting.
 
-## 1. You ARE your systems
-As James Clear famously said in his book about habit-building, “Atomic Habits”:
+## 4. Dedicate a week’s worth of daily posts to a fandom you love.
 
-> “You do not rise to the level of your **goals**. You fall to the level of your **systems**.”
-
-I may or may have not used this quote at least once more in some other article, but oh well, it is just a great quote.
-
-What James tries to imply here is that we may have the boldest aspirations, but it is our smallest actions that determine the large consequences. You may have the epic goal of getting abs this year, but it is not your daydreaming that will make your physique shine - it’s the daily crunches you do and the unhealthy food you don’t eat.
+I have found in my experience that your following will have very differing tastes when it comes to the animes/shows they watch. By switching up with the fandoms you draw for, you up your chances at becoming a point of interest for them. There is never enough fanart in existence, I assure you, so the audience will always be hungry to see their faves reimagined in your unique style. Plus, you will get to scratch your inner (and overall) fan, and this can turn into you paying homage to the shows, characters and storylines that inspired you along the way to become the creator you are today.
  
-So if you find yourself on the verge of an assignment deadline, then one of your systems is probably malfunctioning or missing entirely.
+## 5. Don’t wait for propmpts, go after ways to make fans happy!
 
-As I have suggested in [this article on building effective systems for studying](https://kofiscrib.com/blog/creative-virgo/excelling-at-university), you most probably would benefit from a table (in Notion or another organization app). In this table, you will be filling out all your assignments, exams, and coursework, with their respective deadline in the other column. If possible, add reminders a few days/weeks before the deadline, and if you cannot - just check it regularly, to make sure you are on top of things.
+Now this may sound like a very people-pleasing type of mentality, but what I really mean is that many big name artists at their prime can charge their clients very high prices for commissions, and for you to get to that point in your career, you may need to start off by creating art for free for your audience. Of course, don’t work for free when it would harm your current financial situation, but if you can afford the random freebie, for example to draw an illustration for a fanfiction you really liked, or just to reimagine a friend of yours in your style, go for it! When you have consistently and qualitively provided for your community, it will after some period of time be more than willing to support you as the person who brought them joy intentionally. This is a more long-term growth strategy, but it can and should be implemented today, if you want to reap the benefits later.
 
-Another thing that may be causing stress is when your notes are all over the place. This is where binders, dedicated notebooks, and shelves in your room come to the rescue. Your digital documentation deserves as much care, so you can see at a glance where every file lives. The way I manage my files is with a tree structure.
-
-So for example: (“Uni” -> “Year3” -> “Biology301” -> “Semester_1_Assignment”).
-
-## 2. Take control of the Timeline
-The reason we feel so at ease at the beginning of the year is the fact that we have so much time left to do things. After all, who studies for exams 8 weeks in advance?
-
-But once the wheel starts rolling, more and more deadlines pile up, and even if you have a proper system of tracking them (if you don’t, go back to Step 1), you automatically get messier. The fact that you’re now more busy doing things than planning them is a good thing, but if you rely too much on your own inertia, you may lose focus.
-
- 
-So what do we do when we want to get somewhere? We take out the roadmap.
-
-And in this case the roadmap is the timeline of events during the year. Or, in other words, a calendar.
-
-Now, using a calendar efficiently is a skill by itself, but some basics are really easy to get into.
-
-1. Fill in your lectures, classes, and tutorials as recurring calendar events, so you know what the week will look like.
-
-2. Enter some deadlines as events - this will make you pay special attention (you can also try color-coding)
-
-3. Put in events continuously as you go along. 
-
-This way you can build the habit of, well, knowing where you are in the timeline and taking notice when stress starts piling up so you can mitigate (usually right in the middle of the term).
-
-## 3. Weekly reviews
-If you ask me, “What is the most powerful productivity tactic that is the most underrated?”, my answer would 100% be **weekly reviews**.
-
-The weekly review doesn’t have to be anyhing complex, time-consuming, or boring. It’s a bit like meditation - it’s essentially being still for a while, nothing more, nothing less.
-
- 
-As for the weekly review I personally do, it consists of the following points:
-
-- Taking a look at my weekly averages (sleep, weight, workouts) and if it’s going in an unfavorable direction, I take action.
-
-- Listing my accomplishments for the week.
-
-- Tracking my progress on my projects.
-
-- Getting ready with the event for the next week.
-
-Something as simple as taking 15 minutes every Sunday to reflect on the past week and think in advance for the one ahead can bring you far.
-
-Hope you feel a tad bit less stressed out after reading this blog.
+Those were my top 5 types of art concepts I go to when I wonder what to draw next, apart from commission work! Share yours in the comments, thank you for the support! ^^
