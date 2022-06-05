@@ -1,6 +1,10 @@
 html{
     scroll-behavior: smooth;
     overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
 }
   
 body {
@@ -10,7 +14,7 @@ body {
     scrollbar-width: none; /* for Firefox */
     overflow-y: auto; 
     background-color: #ffffff;
-    width: 100vw;
+    width: 100%;
     margin: 0;
     padding: 0;
     overflow-x: hidden;
@@ -312,3 +316,62 @@ header {
     }
 }
   
+
+/*Footer Section Below*/
+
+
+footer {
+    display: flex;
+    flex-direction: row;
+    height: 120px;
+    width: 100%;
+    background-color: #141414;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+footer p {
+    order: 1;
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 14px;
+    width: 50%;
+    color: #eeeff1;
+    text-decoration: none;
+}
+
+footer p a {
+    color: #eeeff1;
+}
+
+footer #icons {
+    order: 0;
+    color: #eeeff1;
+}
+
+.fa {
+    color: #eeeff1;
+    padding: 15px;
+    text-decoration: none;
+    margin-right: 10px;
+    transition: 0.2s ease-in;
+}
+  
+  /* Add a hover effect if you want */
+.fa:hover {
+    color:rgb(156, 156, 156);
+}
+
+@media screen and (max-width: 800px) {
+    footer {
+        flex-direction: column;
+        padding: 75px 0 95px 0;
+    }
+
+    footer p {
+        width: 80%;
+        font-size: 18px;
+    }
+
+}
