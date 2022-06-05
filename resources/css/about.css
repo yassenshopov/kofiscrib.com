@@ -10,7 +10,7 @@ main {
 }
 
 #heroImg img {
-    border-radius: 80px;
+    border-radius: 90px 60px 60px 90px;
     width: 85%;
     padding: 50px;
 }
@@ -51,5 +51,6 @@ main {
         align-self: center;
         margin-bottom: -50px;
         margin-top: 15px;
+        border-radius: 17%;
     }
 }
