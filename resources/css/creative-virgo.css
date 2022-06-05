@@ -8,6 +8,7 @@ aside {
 }
 
 aside h1 {
+    text-shadow: 0 0 10px rgba(9, 3, 92, 0.196);
     font-family: "Raleway";
     font-size: 40px;
     color: rgb(34, 11, 136);
@@ -15,7 +16,7 @@ aside h1 {
 }
 
 aside h1:hover {
-    color: rgb(207, 178, 10);
+    color: rgb(226, 195, 15);
 }
 
 article {
