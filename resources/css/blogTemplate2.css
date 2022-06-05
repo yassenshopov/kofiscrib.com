@@ -7,6 +7,11 @@
     --font-color-h: rgb(34, 11, 136) ;
     --font-color-a: rgba(25, 6, 134, 0.556);
     -webkit-tap-highlight-color: transparent;
+    --progress-width: 100%;
+    --progress-height: 8px;
+    --progress-bar-color: rgb(115, 0, 209);
+    --progress-bg: none;
+    --progress-border-radius: 5px;
 }
 
 main {
@@ -199,6 +204,15 @@ aside .recs img:hover{
 
 .spotify:hover {
     filter: brightness(1.5) saturate(200%);
+}
+
+progress {
+    position: -moz-sticky;
+    position: -ms-sticky;
+    position: -o-sticky;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
 }
 
 @media screen and (max-width: 800px) {
