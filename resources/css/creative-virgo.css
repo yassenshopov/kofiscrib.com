@@ -19,6 +19,60 @@ aside h1:hover {
 }
 
 #articles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    margin: 0 5% 0 5%;
+    gap: 50px;
+}
+
+#articles h1 {
+    font-family: "Raleway";
+    font-size: 25px;
+    color: black;
+}
+
+#articles p {
+    font-family: "Open Sans";
+}
+
+#articles #description {
+    font-size: 16px;
+    margin: 0 5% 10px 5%;
+}
+
+#articles a, a:visited, a:active {
+    text-decoration: none;
+}
+
+#articles #read-more {
+    text-decoration: none;
+    color: rgb(18, 9, 148);
+}
+
+#articles #date {
+    font-family: "Raleway";
+    margin-bottom: -10px;
+}
+
+#articles img {
+    width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+
+    aside h1 {
+        font-size: 25px;
+    }
+
+}
+
+
+
+/* #articles {
     margin-top: 10px;
     margin-left: 1%;
     margin-right: 1%;
@@ -113,4 +167,4 @@ aside h1:hover {
 
 #article_9_22 .thumbnail {
     background: url("../../resources/images/creative-virgo-thumbnails/AdaMor_thumb2.jpg");
-}
+} */
