@@ -206,13 +206,46 @@ aside .recs img:hover{
     filter: brightness(1.5) saturate(200%);
 }
 
-progress {
-    position: -moz-sticky;
-    position: -ms-sticky;
-    position: -o-sticky;
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
+/**MailChimp Integration Design**/
+#mc_embed_signup {
+    font-family: var(--font-family-p);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#mc_embed_signup .caption {
+    font-family: var(--font-family-p);
+}
+
+#mc_embed_signup .mc-field-group input {
+    font-size: large;
+    line-height: 35px;
+    padding: 0 10px 0 10px;
+    margin: 10px;
+}
+
+#mc_embed_signup .button {
+    padding: 0;
+    border: none;
+    background: none;
+    font-family: var(--font-family-h);
+    background-color: rgb(20, 20, 20);
+    border-radius: 12.5px;
+    width: 85%;
+    height: 50px;
+    color: #ffffff;
+    font-size: large;
+    margin: 30px 0 30px 0;
+}
+
+#mc_embed_signup .brandingLogo {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
 @media screen and (max-width: 800px) {
