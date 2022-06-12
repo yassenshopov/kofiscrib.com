@@ -15,7 +15,7 @@ main {
     justify-content: space-around;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(30, 130px);
+    grid-template-rows: repeat(31, 130px);
     gap: 20px;
     width: 95%;
 }
@@ -27,21 +27,21 @@ main {
 }
 
 #gallery img:hover {
-    filter: contrast(1.15) saturate(1.2);
+    filter: contrast(1.15) saturate(1.2) brightness(0.9);
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.127);
     transform: scale(1.1);
 }
 
-#img1, #img3, #img4, #img5, #img6, #img7, #img8, #img9 {
+#gallery div:not(.square) {
     grid-row: span 4;
 }
 
-#img2 {
+.square {
     grid-row: span 3;
 }
 
 #gallery div {
-    background-color: green;
+    background-color: #ffffff;
     overflow: hidden;
     box-shadow: 0 0 16px rgba(65, 64, 64, 0.405);
     border-radius: 20px;
@@ -61,7 +61,7 @@ main {
     
     #gallery {
         grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(30, 16vw);
+        grid-template-rows: repeat(47, 16vw);
         gap: 6px;
     }
 
