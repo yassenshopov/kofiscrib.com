@@ -1,9 +1,5 @@
-html {
-    overflow: hidden;
-}
-
 main {
-    height: 75vh;
+    height: 86vh;
     display: flex;
     background-color: #141317;
     color: #ffffff;
