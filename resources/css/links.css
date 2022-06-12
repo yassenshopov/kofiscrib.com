@@ -39,7 +39,7 @@ main h1 {
     font-size: 25px;
 }
 
-main a {
+main a:not(#imgLink) {
     text-transform: uppercase;
     color: #e9e9ec;
     border: 1px solid #ffffff;
@@ -54,7 +54,7 @@ main a {
     transition: color 200ms ease-in;
 }
 
-main a:active {
+main a:not(#imgLink):active {
     color: #141318;
     background-color: #e9e9ec;
 }
