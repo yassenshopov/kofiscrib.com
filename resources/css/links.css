@@ -1,3 +1,7 @@
+body {
+    filter: brightness(0);
+}
+
 main {
     height: 86vh;
     display: flex;
