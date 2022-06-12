@@ -1,12 +1,20 @@
 main {
     height: 86vh;
     display: flex;
-    background-color: #141317;
     color: #ffffff;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     overflow-y: hidden;
+}
+
+main #bg {
+    display: block;
+    position: absolute;
+    height: auto;
+    width: 70vh;
+    z-index: -2;
+    filter: brightness(0.35);
 }
 
 main #ppWrap {
@@ -39,7 +47,7 @@ main a {
     font-size: 20px;
     margin-top: 20px;
     text-decoration: none;
-    transition: all 800ms ease-in;
+    transition: color 200ms ease-in;
 }
 
 main a:active {
