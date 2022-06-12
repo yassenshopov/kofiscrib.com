@@ -177,14 +177,10 @@ header {
     background-color: #f8f8f8;
     margin-top: 42px;
     margin-left: -50px;
-  
     width: 190px;
-  
     box-shadow: 0px 0px 10px #11111110;
-  
     transition: 0.8s;
     -webkit-transition: 0.2s;
-  
 }
   
 .dropMenu3 a {
@@ -255,7 +251,6 @@ header {
         padding-left: 10px;
         height: 90px;
     }
-
     header {
         justify-content: center;
     }
