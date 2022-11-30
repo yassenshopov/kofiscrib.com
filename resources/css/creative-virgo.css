@@ -1,99 +1,107 @@
 aside {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding: 20px 10% 20px 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px 10% 20px 10%;
 }
 
 aside h1 {
-    text-shadow: 0 0 10px rgba(9, 3, 92, 0.196);
-    font-family: "Raleway";
-    font-size: 40px;
-    color: rgb(34, 11, 136);
-    transition: color 500ms ease-in-out;
+  /* text-shadow: 0 0 10px rgba(9, 3, 92, 0.196); */
+  font-family: 'Raleway';
+  font-size: 40px;
+  color: rgb(34, 11, 136);
+  transition: all 500ms ease-in-out;
+  filter: brightness(1) drop-shadow(0 0 1px #858484);
 }
 
 aside h1:hover {
-    color: rgb(226, 195, 15);
+  /* color: rgb(255, 253, 242); */
+  filter: brightness(2) drop-shadow(0 0 1px #121212);
 }
 
 article {
-    box-shadow: 0 0 30px rgba(9, 3, 92, 0.296);
-    border-radius: 30px;
-    padding: 20px;
-    transition: all 800ms ease-in-out;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 0 30px rgba(9, 3, 92, 0.296);
+  border-radius: 30px;
+  padding: 20px;
+  transition: all 800ms ease-in-out;
 }
 
 article:hover {
-    box-shadow: 0 0 40px rgba(9, 3, 92, 0.996);
-    border-radius: 70px;
-    filter: brightness(1.2) saturate(1.5);
+  box-shadow: 0 0 40px rgba(10, 10, 20, 0.596);
+  border-radius: 70px;
+  filter: brightness(1.2) saturate(1.5);
 }
 
 #articles {
-    display: grid;
-    grid-template-columns: 30% 30% 30%;
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
 
+  justify-content: center;
+  text-align: center;
+
+  margin: 0 5% 50px 5%;
+  gap: 50px;
+}
+
+#articles h1 {
+  font-family: 'Raleway';
+  font-size: 25px;
+  color: black;
+}
+
+#articles p {
+  font-family: 'Open Sans';
+}
+
+#articles #description {
+  font-size: 16px;
+  margin: 0 5% 10px 5%;
+  margin-bottom: 30px;
+}
+
+#articles a,
+a:visited,
+a:active {
+  text-decoration: none;
+}
+
+#articles #read-more {
+  text-decoration: none;
+  color: rgb(18, 9, 148);
+}
+
+#articles article time {
+  font-family: 'Raleway';
+  /* margin-bottom: -10px; */
+  padding: 20px 0 0 0;
+  display: block;
+  /* background-color: #121212; */
+}
+
+#articles img {
+  width: 100%;
+  border-radius: 30px 30px 0 0;
+  transition: all 1s ease-in-out;
+}
+
+@media screen and (max-width: 800px) {
+  aside h1 {
+    font-size: 25px;
+  }
+
+  #articles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: center;
     text-align: center;
 
     margin: 0 5% 50px 5%;
     gap: 50px;
-}
-
-#articles h1 {
-    font-family: "Raleway";
-    font-size: 25px;
-    color: black;
-}
-
-#articles p {
-    font-family: "Open Sans";
-}
-
-#articles #description {
-    font-size: 16px;
-    margin: 0 5% 10px 5%;
-    margin-bottom: 30px;
-}
-
-#articles a, a:visited, a:active {
-    text-decoration: none;
-}
-
-#articles #read-more {
-    text-decoration: none;
-    color: rgb(18, 9, 148);
-}
-
-#articles #date {
-    font-family: "Raleway";
-    margin-bottom: -10px;
-}
-
-#articles img {
-    width: 100%;
-    border-radius: 30px 30px 0 0;
-    transition: all 1s ease-in-out;
-}
-
-@media screen and (max-width: 800px) {
-
-    aside h1 {
-        font-size: 25px;
-    }
-
-    #articles {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-    
-        margin: 0 5% 50px 5%;
-        gap: 50px;
-    }
-
+  }
 }

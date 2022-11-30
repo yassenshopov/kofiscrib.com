@@ -1,85 +1,149 @@
 <!DOCTYPE html>
 
 <html lang="en">
-    
-<head>
-	<meta charset="utf-8">  
-	<meta name="description" content="Meet Notion - the all-in-one productivity workspace. It'll be the best digital tool you use, especially when you increase the speed. 🐇 (pt. 1)">
-	<meta name="keywords" content="Yassen, Shopov, Productivity, Blogging, Motivation, Art, Organisation">
-	<meta name="author" content="Yassen Shopov">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="description"
+      content="Meet Notion - the all-in-one productivity workspace. It'll be the best digital tool you use, especially when you increase the speed. 🐇 (pt. 1)"
+    />
+    <meta
+      name="keywords"
+      content="Yassen, Shopov, Productivity, Blogging, Motivation, Art, Organisation"
+    />
+    <meta name="author" content="Yassen Shopov" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
 
-	<title>How to make your Notion workspace run faster: Part 1</title>
+    <title>How to make your Notion workspace run faster: Part 1</title>
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XP7R2NF92R"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-XP7R2NF92R"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
 
-    gtag('config', 'G-XP7R2NF92R');
-  </script>
+      gtag('config', 'G-XP7R2NF92R');
+    </script>
 
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Raleway:wght@800&display=swap" rel="stylesheet"> 	
-  <link rel="icon" type="image/png" href="../../../resources/images/favicon.ico">
-	<link href="../../../resources/images/apple-touch-icon.png" rel="apple-touch-icon" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Raleway:wght@800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="../../../resources/images/favicon.ico"
+    />
+    <link
+      href="../../../resources/images/apple-touch-icon.png"
+      rel="apple-touch-icon"
+    />
 
-	<link rel="stylesheet" href="../../../resources/css/blogTemplate2.css">
-	<link rel="stylesheet" href="../../../resources/css/menu.css">
-  <script type="text/javascript" src="../../../resources/js/menuJS.js"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../../../resources/css/blogTemplate2.css" />
+    <link rel="stylesheet" href="../../../resources/css/menu.css" />
+    <script
+      type="text/javascript"
+      src="../../../resources/js/menuJS.js"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
 
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3531385911292759"
-  crossorigin="anonymous"></script>
-</head>
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3531385911292759"
+      crossorigin="anonymous"
+    ></script>
+  </head>
 
-<body>
-    <header id="header" style="box-shadow: 0px 20px 100px #d3d3d37c;">
-        <a href="../../../.."><img class="logo" src="../../../resources/images/logo.png"></a>
+  <body>
+    <header id="header" style="box-shadow: 0px 20px 100px #d3d3d37c">
+      <a href="../../../.."
+        ><img class="logo" src="../../../resources/images/logo.png"
+      /></a>
 
-        <div class="topnav">
-            <a class="topnavOnScrollUp" id="topnav1"><b>✍ BLOGS</b></a>
-            <a class="topnavOnScrollUp" href="https://kofiscrib.com/about" id="topnav2">🧬 ABOUT ME</a>
-            <a class="topnavOnScrollUp" id="topnav3">🧮 PROJECTS</a>
-            <a class="topnavOnScrollUp" id="topnav4">🛒 SHOP</a>
+      <div class="topnav">
+        <a class="topnavOnScrollUp" id="topnav1"><b>✍ BLOGS</b></a>
+        <a
+          class="topnavOnScrollUp"
+          href="https://kofiscrib.com/about"
+          id="topnav2"
+          >🧬 ABOUT ME</a
+        >
+        <a class="topnavOnScrollUp" id="topnav3">🧮 PROJECTS</a>
+        <a class="topnavOnScrollUp" id="topnav4">🛒 SHOP</a>
+      </div>
+
+      <div
+        class="dropMenuContainer1"
+        onmouseover="onHoverMenu1()"
+        onmouseleave="onHoverAwayMenu1()"
+      >
+        <div class="dropMenu1" id="dropMenu1">
+          <a href="https://kofiscrib.com/blog/creative-virgo"
+            >CREATIVE VIRGO 🤖</a
+          >
+          <a href="https://kofiscrib.com/blog/lofiscrib/">LO-FI-SCRIB 🎶</a>
         </div>
+      </div>
 
-        <div class="dropMenuContainer1" onmouseover="onHoverMenu1()" onmouseleave="onHoverAwayMenu1()">
-          <div class="dropMenu1" id="dropMenu1">
-            <a href="https://kofiscrib.com/blog/creative-virgo">CREATIVE VIRGO 🤖</a>
-            <a href="https://kofiscrib.com/blog/lofiscrib/">LO-FI-SCRIB 🎶</a>
-          </div>
+      <div
+        class="dropMenuContainer2"
+        onmouseover="onHoverMenu2()"
+        onmouseleave="onHoverAwayMenu2()"
+      >
+        <div class="dropMenu2" id="dropMenu2">
+          <a href="https://kofiscrib.com/digital-art/">DIGITAL ART ❤️</a>
+          <a href="https://kofiscrib.com/tale-of-sequoyah/"
+            >"TALE OF SEQUOYAH" 💛</a
+          >
+          <a href="https://kofiscrib.com/programming/">PROGRAMMING 💚</a>
         </div>
+      </div>
 
-        <div class="dropMenuContainer2" onmouseover="onHoverMenu2()" onmouseleave="onHoverAwayMenu2()">
-          <div class="dropMenu2" id="dropMenu2">
-            <a href="https://kofiscrib.com/digital-art/">DIGITAL ART ❤️</a>
-            <a href="https://kofiscrib.com/tale-of-sequoyah/">"TALE OF SEQUOYAH" 💛</a>
-            <a href="https://kofiscrib.com/programming/">PROGRAMMING 💚</a>
-          </div>
+      <div
+        class="dropMenuContainer3"
+        onmouseover="onHoverMenu3()"
+        onmouseleave="onHoverAwayMenu3()"
+      >
+        <div class="dropMenu3" id="dropMenu3">
+          <a href="https://kofiscrib.com/commissions">COMMISSIONS 🍋</a>
+          <a href="https://www.patreon.com/kofiscrib/" target="_blank"
+            >PATREON 🍊</a
+          >
+          <a
+            href="https://www.redbubble.com/people/kofiscrib/explore?asc=u&page=1&sortOrder=recent"
+            target="_blank"
+            >MERCH 🍎</a
+          >
         </div>
+      </div>
 
-        <div class="dropMenuContainer3" onmouseover="onHoverMenu3()" onmouseleave="onHoverAwayMenu3()">
-          <div class="dropMenu3" id="dropMenu3">
-            <a href="https://kofiscrib.com/commissions">COMMISSIONS 🍋</a>
-            <a href="https://www.patreon.com/kofiscrib/" target="_blank">PATREON 🍊</a>
-            <a href="https://www.redbubble.com/people/kofiscrib/explore?asc=u&page=1&sortOrder=recent" target="_blank">MERCH 🍎</a>
-          </div>
-        </div>
-
-        <!--Mobile Menu Section-->
-        <div class="mobile_menu" onclick="animate_menu(this)">
-          <div id="bar1" class="bar1"></div>
-          <div id="bar2" class="bar2"></div>
-          <div id="bar3" class="bar3"></div>
+      <!--Mobile Menu Section-->
+      <div class="mobile_menu" onclick="animate_menu(this)">
+        <div id="bar1" class="bar1"></div>
+        <div id="bar2" class="bar2"></div>
+        <div id="bar3" class="bar3"></div>
       </div>
 
       <!--NEW: Mobile Overlay Menu-->
-      <div id="myNav" class="overlay">    
+      <div id="myNav" class="overlay">
         <!-- Overlay content -->
         <div class="overlay-content">
           <a onclick="overlayMenu2()">✍ BLOGS ›</a>
@@ -91,139 +155,302 @@
 
       <div id="myNav2" class="overlay">
         <div class="overlay-content">
-          <a onclick="overlayMenu2()" style="color: #d3d3d37c;">‹ Back</a>
-          <a href="https://kofiscrib.com/blog/creative-virgo">CREATIVE VIRGO 🤖</a>
+          <a onclick="overlayMenu2()" style="color: #d3d3d37c">‹ Back</a>
+          <a href="https://kofiscrib.com/blog/creative-virgo"
+            >CREATIVE VIRGO 🤖</a
+          >
           <a href="https://kofiscrib.com/blog/lofiscrib">LO-FI-SCRIB 🎶</a>
         </div>
       </div>
 
       <div id="myNav3" class="overlay">
         <div class="overlay-content">
-          <a onclick="overlayMenu3()" style="color: #d3d3d37c;">‹ Back</a>
+          <a onclick="overlayMenu3()" style="color: #d3d3d37c">‹ Back</a>
           <a href="https://kofiscrib.com/digital-art/">DIGITAL ART ❤️</a>
-          <a href="https://kofiscrib.com/tale-of-sequoyah/">"TALE OF SEQUOYAH" 💛</a>
+          <a href="https://kofiscrib.com/tale-of-sequoyah/"
+            >"TALE OF SEQUOYAH" 💛</a
+          >
           <a href="https://kofiscrib.com/programming/">PROGRAMMING 💚</a>
         </div>
       </div>
 
       <div id="myNav4" class="overlay">
         <div class="overlay-content">
-          <a onclick="overlayMenu4()" style="color: #d3d3d37c;">‹ Back</a>
+          <a onclick="overlayMenu4()" style="color: #d3d3d37c">‹ Back</a>
           <a href="https://kofiscrib.com/commissions/">COMMISSIONS 🍋</a>
-          <a href="https://www.patreon.com/kofiscrib/" target="_blank">PATREON 🍊</a>
-          <a href="https://www.redbubble.com/people/kofiscrib/explore?asc=u&page=1&sortOrder=recent" target="_blank">MERCH 🍎</a>
+          <a href="https://www.patreon.com/kofiscrib/" target="_blank"
+            >PATREON 🍊</a
+          >
+          <a
+            href="https://www.redbubble.com/people/kofiscrib/explore?asc=u&page=1&sortOrder=recent"
+            target="_blank"
+            >MERCH 🍎</a
+          >
         </div>
       </div>
-
     </header>
 
     <main>
-
       <article>
-
         <a id="backArrow" href=".">←</a>
         <h1>How to make your Notion workspace run faster: Part 1</h1>
-        <p id="meta">Mar 2 '22 • Written by Yassen Shopov<br>📖 7 minute read</p>
+        <p id="meta">
+          Mar 2 '22 • Written by Yassen Shopov<br />📖 7 minute read
+        </p>
         <section id="content">
-          <p>As you will know, if you are a regular on this blog, I <em>love</em> Notion.</p>
-          <p>For those of you unfamiliar with Notion, first of all, interesting choice of an article to read. Secondly, <strong>Notion</strong> is an all-in-one productivity software.</p>
-          <p>It allows you to create productivity systems of your own liking. Its flexibility is its biggest asset - you can create a simple database to store all your University notes, or you could create a complex cross-database system to keep track of all your tasks. People have been using Notion extensively ever since its launch in 2016 to create projects such as:</p>
+          <p>
+            As you will know, if you are a regular on this blog, I
+            <em>love</em> Notion.
+          </p>
+          <p>
+            For those of you unfamiliar with Notion, first of all, interesting
+            choice of an article to read. Secondly, <strong>Notion</strong> is
+            an all-in-one productivity software.
+          </p>
+          <p>
+            It allows you to create productivity systems of your own liking. Its
+            flexibility is its biggest asset - you can create a simple database
+            to store all your University notes, or you could create a complex
+            cross-database system to keep track of all your tasks. People have
+            been using Notion extensively ever since its launch in 2016 to
+            create projects such as:
+          </p>
           <ul>
-          <li><p>Movie and book list databases</p>
-          </li>
-          <li><p>Website building inspirations</p>
-          </li>
-          <li><p>To-do lists</p>
-          </li>
-          <li><p>Habit trackers</p>
-          </li>
+            <li><p>Movie and book list databases</p></li>
+            <li><p>Website building inspirations</p></li>
+            <li><p>To-do lists</p></li>
+            <li><p>Habit trackers</p></li>
           </ul>
-          <p>However, many people’s main concern with Notion is its undeniably <strong>low loading speed</strong> (when compared to other apps). Since its founding 6 years ago, the company has expanded rapidly, but there appears to be a lag between the users’ expectations and the developers’ capabilities. And even though Notion is actively working on optimising the app, having already achieved a 50% speed increase since 2021, the app still takes a few more seconds to load than what most of us find convenient.</p>
-          <p>The startup lag is one thing, you can just run the application then forget about it for a minute and come back to it when it loads. The problem comes when you try to do either one of the following three actions:</p>
+          <p>
+            However, many people’s main concern with Notion is its undeniably
+            <strong>low loading speed</strong> (when compared to other apps).
+            Since its founding 6 years ago, the company has expanded rapidly,
+            but there appears to be a lag between the users’ expectations and
+            the developers’ capabilities. And even though Notion is actively
+            working on optimising the app, having already achieved a 50% speed
+            increase since 2021, the app still takes a few more seconds to load
+            than what most of us find convenient.
+          </p>
+          <p>
+            The startup lag is one thing, you can just run the application then
+            forget about it for a minute and come back to it when it loads. The
+            problem comes when you try to do either one of the following three
+            actions:
+          </p>
           <ol>
-          <li><p>Search for a specific page with the “search“ function.</p>
-          </li>
-          <li><p>Attempt to load up a page with a lot of database entries.</p>
-          </li>
-          <li><p>Switch between pages.</p>
-          </li>
+            <li>
+              <p>Search for a specific page with the “search“ function.</p>
+            </li>
+            <li>
+              <p>Attempt to load up a page with a lot of database entries.</p>
+            </li>
+            <li><p>Switch between pages.</p></li>
           </ol>
-          <p>You may be thinking to yourself now, “Well, if Notion has such bad speed, why not use another app?“. And you could be using another app, that’s true. However, Notion&#39;s flexibility and the ability to get customised to your own needs is unmatched, and it is so far the most versatile productivity tool I’ve come across. You can see my own productivity dashboard over here, and I have to say, it has helped me stay productive as a student and freelancer for years now.</p>
-          <p>And luckily, there are ways to <strong>increase</strong> Notion’s loading speed incrementally, by applying some simple strategies. In Part 1 of this article series (the one you’re reading right now), I will go more into detail for the “hacks” you can use to reduce the impact on the Notion app in a purely technical way. In Part 2 (linked over here), I will go into the more systematic approach you could use to build Notion in an easily accessible way, without worrying too much about technicalities.</p>
-          <h2 id="reduce-the-size-of-your-images">Reduce the size of your images</h2>
-          <p>This is the first and most common piece of advice you will hear on the topic - <strong>reduce your image use</strong>.</p>
-          <p>Yes, we all love Notion for letting us create powerful and beautiful layouts. You could have customised icons, gifs as cover images, etc. I actually use a similar template right now, and I must admit that every time I run my Notion app, the fan starts wrooming louder.</p>
-          <img src="../../../resources/images/blog-visuals/make-notion-faster-1/make-notion-faster-1-1.gif" />
-          <p>As you can see, even though it looks pretty, it has so many widgets and moving parts that the loading speed decreases tremendously. And while this isn’t really a dealbreaker for me, many people would find this discouraging. So here are the ways you can keep your aesthetics while increasing the speed.</p>
+          <p>
+            You may be thinking to yourself now, “Well, if Notion has such bad
+            speed, why not use another app?“. And you could be using another
+            app, that’s true. However, Notion&#39;s flexibility and the ability
+            to get customised to your own needs is unmatched, and it is so far
+            the most versatile productivity tool I’ve come across. You can see
+            my own productivity dashboard over here, and I have to say, it has
+            helped me stay productive as a student and freelancer for years now.
+          </p>
+          <p>
+            And luckily, there are ways to <strong>increase</strong> Notion’s
+            loading speed incrementally, by applying some simple strategies. In
+            Part 1 of this article series (the one you’re reading right now), I
+            will go more into detail for the “hacks” you can use to reduce the
+            impact on the Notion app in a purely technical way. In Part 2
+            (linked over here), I will go into the more systematic approach you
+            could use to build Notion in an easily accessible way, without
+            worrying too much about technicalities.
+          </p>
+          <h2 id="reduce-the-size-of-your-images">
+            Reduce the size of your images
+          </h2>
+          <p>
+            This is the first and most common piece of advice you will hear on
+            the topic - <strong>reduce your image use</strong>.
+          </p>
+          <p>
+            Yes, we all love Notion for letting us create powerful and beautiful
+            layouts. You could have customised icons, gifs as cover images, etc.
+            I actually use a similar template right now, and I must admit that
+            every time I run my Notion app, the fan starts wrooming louder.
+          </p>
+          <img
+            loading="lazy"
+            encoding="async"
+            alt="Make Notion faster: part 1 - why is notion slow, lagging"
+            src="https://kofiscrib.com/resources/images/blog-visuals/make-notion-faster-1/make-notion-faster-1-1.gif"
+          />
+          <p>
+            As you can see, even though it looks pretty, it has so many widgets
+            and moving parts that the loading speed decreases tremendously. And
+            while this isn’t really a dealbreaker for me, many people would find
+            this discouraging. So here are the ways you can keep your aesthetics
+            while increasing the speed.
+          </p>
           <ol>
-          <li><p>When using an icon/cover image, first download it, then reduce it to a “.jpg” or “.jpeg” file using a website such as “<a href="https://www.reduceimages.com/">Resize Images Online</a>“. This way, Notion takes a shorter amount of time to actually load your icon and header.</p>
-          </li>
-          <li><p>Even if they seem pretty, avoid the use of gifs in your icons and cover, especially if the gif size exceeds 30 MB.</p>
-          </li>
+            <li>
+              <p>
+                When using an icon/cover image, first download it, then reduce
+                it to a “.jpg” or “.jpeg” file using a website such as “<a
+                  href="https://www.reduceimages.com/"
+                  >Resize Images Online</a
+                >“. This way, Notion takes a shorter amount of time to actually
+                load your icon and header.
+              </p>
+            </li>
+            <li>
+              <p>
+                Even if they seem pretty, avoid the use of gifs in your icons
+                and cover, especially if the gif size exceeds 30 MB.
+              </p>
+            </li>
           </ol>
-          <h2 id="archive-old-content-frequently">Archive old content frequently</h2>
-          <p>Year-long users of Notion like myself are guilty of hoarding so much information.</p>
-          <p>My to-do list database contains so many tasks right now, I believe last time I checked my stats for 2021, it contained 3,000+ items.</p>
-          <p>Imagine the sheer volume of data this is - 3,000 pages, all of which have some properties, content, images attached to them. No wonder Notion makes my laptop pass out upon loading.</p>
-          <p>So what I have started to do, periodically, is to get rid of the first few months of data for my more complex databases. Note, I don’t just delete those items,<a href="https://www.notion.so/help/export-your-content#:~:text=Go%20to%20Settings%20%26%20Members%20at,download%20your%20file(s"> I make a backup copy of my entire Notion workspace</a>.), and then I remove them, knowing that even if I need anything random, I can restore it easily later on.</p>
-          <h2 id="avoid-the-use-of-complex-widgets-just-for-the-aesthetic-">Avoid the use of complex widgets just for the “aesthetic“</h2>
-          <p>Notion’s users have been creating widgets small and big for years now.</p>
-          <p>From simple clock widgets to progress bars, stock-trading panels, dynamically activated images, almost anything that you want to add to Notion, you can. However, most of those apps refresh themselves almost every second, which means that they are continuously connected to the Internet, further draining Notion and decreasing its speed.</p>
-          <p>What I would suggest is that you don’t overwhelm your workspace with a ton of complex widgets just for the sake of aesthetics.</p>
-          <p>Do you really need that progress bar to see how much of the month has passed already? Is Notion really the place where you should be tracking stocks 24/7?</p>
-          <p>There are some cases in which less is more, and minimalism’s strongest asset in this realm is that your Notion workspace will be faster than ever.</p>          
+          <h2 id="archive-old-content-frequently">
+            Archive old content frequently
+          </h2>
+          <p>
+            Year-long users of Notion like myself are guilty of hoarding so much
+            information.
+          </p>
+          <p>
+            My to-do list database contains so many tasks right now, I believe
+            last time I checked my stats for 2021, it contained 3,000+ items.
+          </p>
+          <p>
+            Imagine the sheer volume of data this is - 3,000 pages, all of which
+            have some properties, content, images attached to them. No wonder
+            Notion makes my laptop pass out upon loading.
+          </p>
+          <p>
+            So what I have started to do, periodically, is to get rid of the
+            first few months of data for my more complex databases. Note, I
+            don’t just delete those items,<a
+              href="https://www.notion.so/help/export-your-content#:~:text=Go%20to%20Settings%20%26%20Members%20at,download%20your%20file(s"
+            >
+              I make a backup copy of my entire Notion workspace</a
+            >.), and then I remove them, knowing that even if I need anything
+            random, I can restore it easily later on.
+          </p>
+          <h2 id="avoid-the-use-of-complex-widgets-just-for-the-aesthetic-">
+            Avoid the use of complex widgets just for the “aesthetic“
+          </h2>
+          <p>
+            Notion’s users have been creating widgets small and big for years
+            now.
+          </p>
+          <p>
+            From simple clock widgets to progress bars, stock-trading panels,
+            dynamically activated images, almost anything that you want to add
+            to Notion, you can. However, most of those apps refresh themselves
+            almost every second, which means that they are continuously
+            connected to the Internet, further draining Notion and decreasing
+            its speed.
+          </p>
+          <p>
+            What I would suggest is that you don’t overwhelm your workspace with
+            a ton of complex widgets just for the sake of aesthetics.
+          </p>
+          <p>
+            Do you really need that progress bar to see how much of the month
+            has passed already? Is Notion really the place where you should be
+            tracking stocks 24/7?
+          </p>
+          <p>
+            There are some cases in which less is more, and minimalism’s
+            strongest asset in this realm is that your Notion workspace will be
+            faster than ever.
+          </p>
         </section>
-
-        <hr>
-        <figure>
-          <iframe width="100%" height="400px" src="https://www.youtube.com/embed/xAZ1bKiSk_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          <figcaption><a href="https://www.youtube.com/watch?v=xAZ1bKiSk_k">Fix Notion's Slow Search!</a><br><br>[4:19]<br><br>by <a href="https://www.youtube.com/channel/UCqQ2SIIlyT51upxCt_2bYJw">25 Hour Day</a></figcaption>
-        </figure>
-
       </article>
 
       <aside>
         <div id="toc">
           <p class="pseudoHeading">TABLE OF CONTENTS:</p>
-              <a href="#reduce-the-size-of-your-images">Reduce the size of your images</a>
-              <hr>
-              <a href="#archive-old-content-frequently">Archive old content frequently</a>
-              <hr>
-              <a href="#avoid-the-use-of-complex-widgets-just-for-the-aesthetic-">Avoid the use of complex widgets just for the “aesthetic“</a>
+          <a href="#reduce-the-size-of-your-images"
+            >Reduce the size of your images</a
+          >
+          <hr />
+          <a href="#archive-old-content-frequently"
+            >Archive old content frequently</a
+          >
+          <hr />
+          <a href="#avoid-the-use-of-complex-widgets-just-for-the-aesthetic-"
+            >Avoid the use of complex widgets just for the “aesthetic“</a
+          >
         </div>
 
         <p class="pseudoHeading">Related Articles 👇️</p>
 
-          <a class="recs" href="https://kofiscrib.com/blog/creative-virgo/stop-time">
-          <img src="../../../resources/images/creative-virgo-thumbnails/AdaPosing_IGthumb.jpg"></img>
-          </a>
-        
-          <a class="recs" href="https://kofiscrib.com/blog/creative-virgo/notion-routine">
-          <img src="../../../resources/images/creative-virgo-thumbnails/Ada_MonIG.jpg"></img>
-          </a>
-          
-          <a class="recs" href="https://kofiscrib.com/blog/creative-virgo/inbox-zero">
-          <img src="../../../resources/images/creative-virgo-thumbnails/Issue16_thumb.jpg"></img>
-          </a>
+        <a
+          class="recs"
+          href="https://kofiscrib.com/blog/creative-virgo/stop-time"
+        >
+          <img
+            src="https://kofiscrib.com/resources/images/creative-virgo-thumbnails/AdaPosing_IGthumb.jpg"
+          />
+        </a>
 
-          <a class="recs" href="https://kofiscrib.com/blog/creative-virgo/social-media-addiction">
-          <img src="../../../resources/images/creative-virgo-thumbnails/issue_6_22.png"></img>
-          </a>
-        
+        <a
+          class="recs"
+          href="https://kofiscrib.com/blog/creative-virgo/notion-routine"
+        >
+          <img
+            src="https://kofiscrib.com/resources/images/creative-virgo-thumbnails/Ada_MonIG.jpg"
+          />
+        </a>
+
+        <a
+          class="recs"
+          href="https://kofiscrib.com/blog/creative-virgo/inbox-zero"
+        >
+          <img
+            src="https://kofiscrib.com/resources/images/creative-virgo-thumbnails/Issue16_thumb.jpg"
+          />
+        </a>
+
+        <a
+          class="recs"
+          href="https://kofiscrib.com/blog/creative-virgo/social-media-addiction"
+        >
+          <img
+            src="https://kofiscrib.com/resources/images/creative-virgo-thumbnails/issue_6_22.png"
+          />
+        </a>
       </aside>
-
     </main>
 
     <footer>
-      <p>Copyright © 2022 - Designed and maintained by <a href="https://www.github.com/yassenshopov">Yassen Shopov</a> • All content is original</p>
+      <p>
+        Copyright © 2022 - Designed and maintained by
+        <a href="https://www.github.com/yassenshopov">Yassen Shopov</a> • All
+        content is original
+      </p>
       <div id="icons">
-      <a href="https://www.instagram.com/kofiscrib" class="fa fa-instagram fa-2x" target="_blank"></a>
-      <a href="https://www.youtube.com/channel/UCcEn7kjXJu13IF2TyHp1jrg" class="fa fa-youtube fa-2x" target="_blank"></a>
-      <a href="http://twitter.com/kofiscrib" class="fa fa-twitter fa-2x" target="_blank"></a>
-      <a href="https://kofiscrib.tumblr.com/" class="fa fa-tumblr fa-2x" target="_blank"></a>
+        <a
+          href="https://www.instagram.com/kofiscrib"
+          class="fa fa-instagram fa-2x"
+          target="_blank"
+        ></a>
+        <a
+          href="https://www.youtube.com/channel/UCcEn7kjXJu13IF2TyHp1jrg"
+          class="fa fa-youtube fa-2x"
+          target="_blank"
+        ></a>
+        <a
+          href="http://twitter.com/kofiscrib"
+          class="fa fa-twitter fa-2x"
+          target="_blank"
+        ></a>
+        <a
+          href="https://kofiscrib.tumblr.com/"
+          class="fa fa-tumblr fa-2x"
+          target="_blank"
+        ></a>
       </div>
     </footer>
-
-</body>
-
+  </body>
 </html>
