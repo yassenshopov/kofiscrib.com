@@ -1,0 +1,176 @@
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao4CP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapYCP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpYCP.ttf) format('truetype');
+}
+.imAd {
+  background-color: #121212;
+  color: #e0e0e0;
+  padding: 20px 2vw;
+  border-radius: 24px;
+  display: flex;
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 100%;
+  cursor: pointer;
+}
+.imAd .txt {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.imAd .txt h3 {
+  font-size: 2.5rem;
+}
+.imAd .txt p {
+  font-size: 1.2rem;
+  width: 100%;
+}
+.imAd .txt p span {
+  max-width: 100%;
+  font-size: 1.4rem;
+  margin: 0 1vw;
+}
+.imAd .imLogo {
+  max-width: 20%;
+  margin: 0px 2vw 20px;
+}
+.imAd > img {
+  width: 40%;
+  transform: rotate(10deg);
+}
+.imAd h3 {
+  font-family: "Raleway", sans-serif;
+}
+.imAd span {
+  font-family: "Raleway", sans-serif;
+  color: #121212;
+  background-color: #e0e0e0;
+  display: block;
+  font-size: 1.6rem;
+  border: none;
+  padding: 1.5rem 4vw;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 1.4rem 0;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  width: max-content;
+  border-radius: 2rem;
+  animation: buttonAnimation 1s infinite;
+  font-weight: 500;
+}
+@keyframes buttonAnimation {
+  0% {
+    filter: drop-shadow(-5px 5px 0 rgba(0, 255, 255, 0.84)) drop-shadow(5px -5px 0 rgba(255, 0, 0, 0.506));
+  }
+  50% {
+    filter: drop-shadow(5px 5px 0 rgba(0, 255, 255, 0.84)) drop-shadow(-5px -5px 0 rgba(255, 0, 0, 0.506));
+  }
+  100% {
+    filter: drop-shadow(-5px 5px 0 rgba(0, 255, 255, 0.84)) drop-shadow(5px -5px 0 rgba(255, 0, 0, 0.506));
+  }
+}
+.imAd span:hover {
+  transform: scale(1.1);
+  color: #e0e0e0;
+  background-color: #121212;
+}
+@media (max-width: 1027px) {
+  .imAd {
+    flex-direction: column;
+    position: relative;
+  }
+  .imAd > img {
+    width: 100%;
+    transform: rotate(0deg);
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.2;
+    filter: blur(10px);
+  }
+  .imAd .txt {
+    z-index: 1;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 80%;
+  }
+  .imAd .txt h3 {
+    font-size: 2rem;
+  }
+  .imAd .txt p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .imAd .txt span {
+    font-size: 1.2rem;
+    margin: 0;
+  }
+}
